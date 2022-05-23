@@ -2,6 +2,7 @@ from pymysql import NULL
 import scrapy
 import math 
 from tgdd_phone.items import TgddPhoneItem
+from scrapy_splash import SplashRequest
 
 # Spider này dùng để crawl những điện thoại 
 # mà có từ 2 option trở lên
@@ -11,13 +12,40 @@ from tgdd_phone.items import TgddPhoneItem
 class PhoneSpider(scrapy.Spider):
     name = 'phone'
     allowed_domains = ['www.thegioididong.com/dtdd']
-    start_urls = ['https://www.thegioididong.com/dtdd']
+    start_urls = ['http://www.thegioididong.com/dtdd#c=42&o=9&pi=5/']
+
+    render_script = """
+        function main(splash)
+            local url = splash.args.url
+            assert(splash:go(url))
+            assert(splash:wait(5))
+
+            return {
+                html = splash:html(),
+                url = splash:url(),
+            }
+        ends
+        """ 
+    
+    # Do trang tgdđ nó load bằng javascript. Nên cần delay 1 chút
+    def start_requests(self):
+        for url in self.start_urls:
+            yield SplashRequest(
+                url,
+                self.parse, 
+                endpoint='render.html',
+                args={
+                    'wait': 20,
+                    'lua_source': self.render_script,
+                }
+            )
 
     def parse(self, response):
         phoneItem = response.css('#categoryPage > div.container-productbox > ul > li > a.main-contain ::attr(href)').extract()
         for phone in phoneItem:
             yield scrapy.Request(response.urljoin(phone), callback=self.parse_type_phone, dont_filter=True)
 
+    # Request tới từng option memory
     def parse_type_phone(self, response):
         divColor = response.css('body > section.detail > div.box_main > div.box_right > div > div.color').extract_first()
         if divColor != None:
@@ -73,7 +101,7 @@ class PhoneSpider(scrapy.Spider):
         pinInfo = pinInfo[0:len(pinInfo)-2]
         phone['pin'] = pinInfo
 
-        divImage = response.xpath("//div[@data-gallery-id='color-images-gallery']/div/img/@data-src").extract()
+        divImage = response.xpath("//div[@data-gallery-id='color-images-gallery']/div/img/@src").extract()
         
         phone['imageUrl'] = divImage
             

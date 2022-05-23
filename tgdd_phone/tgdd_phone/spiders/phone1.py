@@ -2,11 +2,38 @@ from pymysql import NULL
 import scrapy
 import math 
 from tgdd_phone.items import TgddPhoneItem
+from scrapy_splash import SplashRequest
 
 class Phone1Spider(scrapy.Spider):
     name = 'phone1'
     allowed_domains = ['www.thegioididong.com/dtdd']
-    start_urls = ['http://www.thegioididong.com/dtdd/']
+    start_urls = ['http://www.thegioididong.com/dtdd#c=42&o=9&pi=5/']
+
+    render_script = """
+        function main(splash)
+            local url = splash.args.url
+            assert(splash:go(url))
+            assert(splash:wait(5))
+
+            return {
+                html = splash:html(),
+                url = splash:url(),
+            }
+        ends
+        """ 
+
+    # Do trang tgdđ nó load bằng javascript. Nên cần delay 1 chút
+    def start_requests(self):
+        for url in self.start_urls:
+            yield SplashRequest(
+                url,
+                self.parse, 
+                endpoint='render.html',
+                args={
+                    'wait': 20,
+                    'lua_source': self.render_script,
+                }
+            )
 
     def parse(self, response):
         phoneItem = response.css('#categoryPage > div.container-productbox > ul > li > a.main-contain ::attr(href)').extract()
@@ -60,7 +87,7 @@ class Phone1Spider(scrapy.Spider):
         pinInfo = pinInfo[0:len(pinInfo)-2]
         phone['pin'] = pinInfo
 
-        divImage = response.xpath("//div[@data-gallery-id='color-images-gallery']/div/img/@data-src").extract()
+        divImage = response.xpath("//div[@data-gallery-id='color-images-gallery']/div/img/@src").extract()
         
         phone['imageUrl'] = divImage
         yield phone
