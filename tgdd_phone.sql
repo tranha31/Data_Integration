@@ -25,7 +25,7 @@ CREATE TABLE mobiphone (
   FrontCamera varchar(255) DEFAULT NULL,
   BehindCamera varchar(255) DEFAULT NULL,
   Chip varchar(255) NOT NULL DEFAULT '',
-  Ram int NOT NULL,
+  Ram varchar(100) NOT NULL,
   Sim varchar(100) DEFAULT NULL,
   Pin varchar(100) DEFAULT NULL,
   ImageUrl text DEFAULT NULL,
@@ -35,75 +35,67 @@ ENGINE = INNODB,
 CHARACTER SET utf8mb4,
 COLLATE utf8mb4_0900_ai_ci;
 
+DELIMITER $$
+
+--
+-- Create procedure `Proc_Insert_Phone`
+--
 CREATE DEFINER = 'root'@'localhost'
-PROCEDURE tgdd_phone.Proc_Insert_Phone(IN $RefID CHAR(36), IN $Company VARCHAR(100), IN $Name VARCHAR(255), IN $Memory INT, IN $Color VARCHAR(100), IN $OriginPrice INT, IN $DiscountPrice INT, IN $DiscountRate FLOAT, IN $Screen VARCHAR(255), IN $OperatingSystem VARCHAR(255), IN $FrontCamera VARCHAR(255), IN $BehindCamera VARCHAR(255), IN $Chip VARCHAR(255), IN $Ram INT, IN $Sim VARCHAR(100), IN $Pin VARCHAR(100), IN $ImageUrl text)
+PROCEDURE Proc_Insert_Phone (IN $Company varchar(100), IN $Name varchar(255), IN $Memory int, IN $Color varchar(100), IN $OriginPrice int, IN $DiscountPrice int, IN $DiscountRate float, IN $Screen varchar(255), IN $OperatingSystem varchar(255), IN $FrontCamera varchar(255), IN $BehindCamera varchar(255), IN $Chip varchar(255), IN $Ram varchar(100), IN $Sim varchar(100), IN $Pin varchar(100), IN $ImageUrl text)
 BEGIN
-  INSERT INTO mobiphone
-  (
-    RefID
-   ,Company
-   ,Name
-   ,Memory
-   ,Color
-   ,OriginPrice
-   ,DiscountPrice
-   ,DiscountRate
-   ,Screen
-   ,OperatingSystem
-   ,FrontCamera
-   ,BehindCamera
-   ,Chip
-   ,Ram
-   ,Sim
-   ,Pin
-   ,ImageUrl
-  )
-  VALUES
-  (
-    UUID() 
-   ,$Company 
-   ,$Name
-   ,$Memory
-   ,$Color
-   ,$OriginPrice
-   ,$DiscountPrice
-   ,$DiscountRate
-   ,$Screen
-   ,$OperatingSystem
-   ,$FrontCamera
-   ,$BehindCamera
-   ,$Chip
-   ,$Ram
-   ,$Sim
-   ,$Pin
-   ,$ImageUrl
-  );
-END;
+  INSERT INTO mobiphone (RefID
+  , Company
+  , Name
+  , Memory
+  , Color
+  , OriginPrice
+  , DiscountPrice
+  , DiscountRate
+  , Screen
+  , OperatingSystem
+  , FrontCamera
+  , BehindCamera
+  , Chip
+  , Ram
+  , Sim
+  , Pin
+  , ImageUrl)
+    VALUES (UUID(), $Company, $Name, $Memory, $Color, $OriginPrice, $DiscountPrice, $DiscountRate, $Screen, $OperatingSystem, $FrontCamera, $BehindCamera, $Chip, $Ram, $Sim, $Pin, $ImageUrl);
+END
+$$
+
+DELIMITER ;
 
 
+DELIMITER $$
+
+--
+-- Create procedure `Proc_Update_Phone`
+--
 CREATE DEFINER = 'root'@'localhost'
-PROCEDURE tgdd_phone.Proc_Update_Phone(IN $RefID CHAR(36), IN $Company VARCHAR(100), IN $Name VARCHAR(255), IN $Memory INT, IN $Color VARCHAR(100), IN $OriginPrice INT, IN $DiscountPrice INT, IN $DiscountRate FLOAT, IN $Screen VARCHAR(255), IN $OperatingSystem VARCHAR(255), IN $FrontCamera VARCHAR(255), IN $BehindCamera VARCHAR(255), IN $Chip VARCHAR(255), IN $Ram INT, IN $Sim VARCHAR(100), IN $Pin VARCHAR(100), IN $ImageUrl text)
+PROCEDURE Proc_Update_Phone (IN $RefID char(36), IN $Company varchar(100), IN $Name varchar(255), IN $Memory int, IN $Color varchar(100), IN $OriginPrice int, IN $DiscountPrice int, IN $DiscountRate float, IN $Screen varchar(255), IN $OperatingSystem varchar(255), IN $FrontCamera varchar(255), IN $BehindCamera varchar(255), IN $Chip varchar(255), IN $Ram varchar(100), IN $Sim varchar(100), IN $Pin varchar(100), IN $ImageUrl text)
 BEGIN
-  UPDATE mobiphone 
-  SET
-   Company = $Company 
-   ,Name = $Name 
-   ,Memory = $Memory 
-   ,Color = $Color
-   ,OriginPrice = $OriginPrice
-   ,DiscountPrice = $DiscountPrice
-   ,DiscountRate = $DiscountRate
-   ,Screen = $Screen
-   ,OperatingSystem = $OperatingSystem
-   ,FrontCamera = $FrontCamera
-   ,BehindCamera = $BehindCamera
-   ,Chip = $Chip
-   ,Ram = $Ram
-   ,Sim = $Sim
-   ,Pin = $Pin
-   ,ImageUrl = $ImageUrl
-  WHERE
-    RefID = $RefID
+  UPDATE mobiphone
+  SET Company = $Company,
+      Name = $Name,
+      Memory = $Memory,
+      Color = $Color,
+      OriginPrice = $OriginPrice,
+      DiscountPrice = $DiscountPrice,
+      DiscountRate = $DiscountRate,
+      Screen = $Screen,
+      OperatingSystem = $OperatingSystem,
+      FrontCamera = $FrontCamera,
+      BehindCamera = $BehindCamera,
+      Chip = $Chip,
+      Ram = $Ram,
+      Sim = $Sim,
+      Pin = $Pin,
+      ImageUrl = $ImageUrl
+  WHERE RefID = $RefID
   ;
-END;
+END
+$$
+
+DELIMITER ;
 
