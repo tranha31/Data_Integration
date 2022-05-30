@@ -2,6 +2,7 @@ import mysql.connector
 from mysql.connector import Error
 from pymysql import NULL
 from item import TgddPhoneItem
+import uuid
 
 config = {
   'user': 'root',
@@ -65,3 +66,68 @@ class DL():
         print(e)
     finally:
         cursor.close()
+
+  def GetRealAll(self):
+      cursor = conn.cursor(dictionary=True)
+      cursor.execute("SELECT p.RefID FROM phone p")
+      records = cursor.fetchall()
+
+      result = []
+      for row in records:
+          phone = TgddPhoneItem()
+          phone.id = row["RefID"]
+
+          result.append(phone)
+      
+      cursor.close()
+      return result
+
+  def DeleteRealDatabase(self):
+    cursor = conn.cursor(dictionary=True)
+    cursor.execute("DELETE FROM phone")
+    conn.commit()
+
+    cursor.execute("DELETE FROM phoneinformation")
+    conn.commit()
+
+    cursor.execute("DELETE FROM phoneimage")
+    conn.commit()
+    cursor.close()
+
+  def InsertRealDBPhone(self):
+    phone = self.GetAll()
+
+    sqlPhone = "INSERT INTO phone(RefID,Name,Company,OriginPrice,DiscountPrice,DiscountRate,Color) VALUES (%s, %s, %s, %s, %s, %s, %s)"
+    recordsToInsert = []
+    for p in phone:
+      recordsToInsert.append((str(uuid.uuid4()), p.name, p.company, p.originPrice, p.discountPrice, p.discountRate, p.color))
+      
+    cursor = conn.cursor(dictionary=True)
+    cursor.executemany(sqlPhone, recordsToInsert)
+    conn.commit()
+    cursor.close()
+
+  def InsertDBInfoPhone(self):
+    phone = self.GetAll()
+
+    lstPhone = self.GetRealAll()
+
+    sqlPhoneInfo = "INSERT INTO phoneinformation(RefID,PhoneID,Memory,Chip,Ram,Sim,Pin,FrontCamera,BehindCamera,Screen,OperatingSystem) VALUES (%s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s)"
+    sqlPhoneImage = "INSERT INTO phoneimage(RefID,PhoneID,ImageUrl) VALUES (%s, %s, %s)"
+    recordInsertInfo = []
+    recordInsertImage = []
+    i = 0
+    for p in lstPhone:
+      recordInsertInfo.append((str(uuid.uuid4()), p.id, phone[i].memory, phone[i].chip, phone[i].ram, phone[i].sim, phone[i].pin, phone[i].frontCamera, phone[i].behindCamera, phone[i].screen, phone[i].operatingSystem))
+      recordInsertImage.append((str(uuid.uuid4()), p.id, phone[i].imageUrl))
+      i = i+1
+
+    cursor = conn.cursor(dictionary=True)
+    cursor.executemany(sqlPhoneInfo, recordInsertInfo)
+    conn.commit()
+
+    cursor.executemany(sqlPhoneImage, recordInsertImage)
+    conn.commit()
+    cursor.close()
+
+

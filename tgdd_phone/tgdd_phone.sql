@@ -99,3 +99,59 @@ $$
 
 DELIMITER ;
 
+CREATE TABLE phone (
+  RefID char(36) NOT NULL DEFAULT '',
+  Name varchar(255) DEFAULT NULL,
+  Company varchar(100) DEFAULT NULL,
+  OriginPrice int DEFAULT NULL,
+  DiscountPrice int DEFAULT NULL,
+  DiscountRate float DEFAULT NULL,
+  Color varchar(100) DEFAULT NULL,
+  PRIMARY KEY (RefID)
+)
+ENGINE = INNODB,
+CHARACTER SET utf8mb4,
+COLLATE utf8mb4_0900_ai_ci;
+
+CREATE TABLE phoneinformation (
+  RefID char(36) NOT NULL DEFAULT '',
+  PhoneID char(36) DEFAULT NULL,
+  Memory int DEFAULT NULL,
+  Chip varchar(255) DEFAULT NULL,
+  Ram varchar(100) DEFAULT NULL,
+  Sim varchar(100) DEFAULT NULL,
+  Pin varchar(100) DEFAULT NULL,
+  FrontCamera varchar(255) DEFAULT NULL,
+  BehindCamera varchar(255) DEFAULT NULL,
+  Screen varchar(255) DEFAULT NULL,
+  OperatingSystem varchar(255) DEFAULT NULL,
+  PRIMARY KEY (RefID)
+)
+ENGINE = INNODB,
+CHARACTER SET utf8mb4,
+COLLATE utf8mb4_0900_ai_ci;
+
+--
+-- Create foreign key
+--
+ALTER TABLE phoneinformation
+ADD CONSTRAINT FK_PhoneInformation_PhoneID FOREIGN KEY (PhoneID)
+REFERENCES phone (RefID);
+
+CREATE TABLE phoneimage (
+  RefID char(36) NOT NULL DEFAULT '',
+  PhoneID char(36) DEFAULT NULL,
+  ImageUrl text DEFAULT NULL,
+  PRIMARY KEY (RefID)
+)
+ENGINE = INNODB,
+CHARACTER SET utf8mb4,
+COLLATE utf8mb4_0900_ai_ci;
+
+--
+-- Create foreign key
+--
+ALTER TABLE phoneimage
+ADD CONSTRAINT FK_PhoneImage_PhoneID FOREIGN KEY (PhoneID)
+REFERENCES phone (RefID);
+
