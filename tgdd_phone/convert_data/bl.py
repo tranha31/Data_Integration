@@ -24,7 +24,11 @@ def beforeSaveData(listItem):
     for item in listItem:
         if (item["company"].lower() == "masstel") or (item["company"].lower() == "nokia" and re.search("^Nokia +[0-9]", item["name"])) or (item["company"].lower() == "itel" and re.search("^Itel it", item["name"])):
             continue
-        item["memory"] = int((item["memory"].strip())[0:-3])
+        if("gb" in item["memory"].lower()):
+            item["memory"] = int((item["memory"].strip())[0:-3])
+        else:
+            item["memory"] = int((item["memory"].strip()))
+        
         index = item["originPrice"].index("₫")
         item["originPrice"] = int(item["originPrice"][0: index].replace('.', '').strip())
         if item["discountRate"] != None:
@@ -76,7 +80,10 @@ def updateData():
     f_listPhone.close()
 
 def checkDuplicate(item, lstPhone):
-    item["memory"] = int((item["memory"].strip())[0:-3])
+    if("gb" in item["memory"].lower()):
+            item["memory"] = int((item["memory"].strip())[0:-3])
+    else:
+        item["memory"] = int((item["memory"].strip()))
     index = item["originPrice"].index("₫")
     item["originPrice"] = int(item["originPrice"][0: index].replace('.', '').strip())
     if item["discountRate"] != None:
@@ -122,4 +129,10 @@ def checkDuplicate(item, lstPhone):
         if isDuplicate == False:
             oDL.Insert(tuple(data))
 
-updateData()
+def InsertForRealDatabase():
+    #oDL.DeleteRealDatabase()
+    #oDL.InsertRealDBPhone()
+    #oDL.InsertDBInfoPhone()
+    pass
+
+#InsertForRealDatabase()
