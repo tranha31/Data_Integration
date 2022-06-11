@@ -1,0 +1,14 @@
+table,column
+Phone,PhoneName
+Phone,Price
+Phone,Image
+Phone,Color
+Phone,Producer
+Information,PhoneID
+Information,Memory
+Information,Ram
+Information,Chip
+Information,FrontCamera
+Information,BehindCamera
+Information,OperationSystem
+Information,Screen
