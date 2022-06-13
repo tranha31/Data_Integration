@@ -1,0 +1,16 @@
+table,column
+Phone,name
+Phoneinformation,PhoneID
+Phoneinformation,producer
+Phoneinformation,price
+Phoneinformation,price_sale
+Phoneinformation,image
+Phoneinformation,insurance
+Phoneinformation,category
+Phoneinformation,short_name
+Phoneinformation,color
+Phoneinformation,screen
+Phoneinformation,pixels
+Phoneinformation,ROM
+Phoneinformation,RAM
+Phoneinformation,OS
