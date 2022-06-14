@@ -1,11 +1,11 @@
 from requests import get
 
-def get_product_list():
+def get_product_list(): # dùng api của fptshop lấy danh sách toàn bộ product
     resp = get('https://fptshop.com.vn/apiFPTShop/Product/GetProductList?brandAscii=&url=https:%2F%2Ffptshop.com.vn%2Fdien-thoai%3Ftrang%3D200%26pagetype%3D1&s=a21fa1e188e7467235231b625e6ac27f68019e300cf0e9ae354a70692726e2ea').json()
     return resp['datas']['filterModel']['listDefault']['list']
 
 from js2py.evaljs import eval_js
-
+## hàm get_s bẻ khóa api của fptshop, tìm được trong mã nguồn của web
 get_s = eval_js("""
 function ke(e) {
     var t = function(e) {
@@ -118,27 +118,27 @@ function ke(e) {
 
 from urllib.parse import urlencode
 
-def get_product_url(name):
+def get_product_url(name): # hàm tạo url, payload của request api 
     url = 'https://fptshop.com.vn/dien-thoai/' + name
     s = get_s(f'name={name}&url={url}')
     params = {
         'name': name,
         'url': url,
-        's': s
+        's': s # mã hash của url
     }
     return f"https://fptshop.com.vn/apiFPTShop/Product/GetProductDetail?{urlencode(params, safe=':')}"
 
 from joblib import Parallel, delayed
 
-def batch(iterable, n=1):
+def batch(iterable, n=1): # hàm chia 1 iterable object thành các batch có length = n
     l = len(iterable)
     for ndx in range(0, l, n):
         yield iterable[ndx:min(ndx + n, l)]
 
-def crawl_url_slowly(product_list):
+def crawl_url_slowly(product_list): # hàm crawl tuần tự
     return [get_product_url(i['nameAscii']) for i in product_list]
 
-def crawl_url(product_list):
+def crawl_url(product_list): # giảm thời gian tính bằng lập trình multiprocessing, với 4 processes xử lí từng batch_size=40
     urls = Parallel(n_jobs=4, backend='multiprocessing')(delayed(crawl_url_slowly)(lis) for lis in batch(product_list,40))
     urls = [i for sublis in urls for i in sublis]
     return urls

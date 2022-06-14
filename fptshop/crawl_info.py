@@ -47,20 +47,20 @@ async def get_product_info(url, session,is_variant=False):
             elif a['attributeName'] == 'CPU':
                 item['CPU'] = a['specName']
         prefix_img = 'https://images.fpt.shop/unsafe/fit-in/800x800/filters:quality(90):fill(white):upscale()/fptshop.com.vn/Uploads/Originals/'
-        item['variants'] = []
+        item['variants'] = [] # 1 product có thể có nhiều phiên bản màu sắc với giá khác nhau
         for a in resp['listProductVariant']:
             var = {'color': a['colorName'],
                 'price': a['price'],
-                'priceMarket': a['priceMarket'],
-                'image': prefix_img + a['gallery']['url']}
+                'price_market': a['priceMarket'],
+                'variant_image': prefix_img + a['gallery']['url']}
             item['variants'].append(var)
-        item['more_image'] = [prefix_img+i['url'] for i in resp['productVariant']['listGallery']]
+        item['images'] = [prefix_img+i['url'] for i in resp['productVariant']['listGallery']]
         return [item,]
 
 import asyncio
 import aiohttp
-
-async def asyncrawl(urls):
+# tăng tốc crawl bằng bất đồng bộ với asyncio và aiohttp
+async def asyncrawl(urls): # tạo async task
     tasks = []
     session = aiohttp.ClientSession()
     for url in urls:
