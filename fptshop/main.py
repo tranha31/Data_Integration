@@ -8,6 +8,7 @@ if __name__ == '__main__':
     product_list = get_product_list()
     urls = crawl_url(product_list)
     data = crawl_info(urls)
+    data = [i[0] if isinstance(i,list) else i for i in data]
     content = dumps(data, ensure_ascii=False)
     path = dirname(abspath(__file__))
     with open(path+'\\fphone.json', 'w', encoding='utf8') as f:
