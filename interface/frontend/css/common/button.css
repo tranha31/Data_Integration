@@ -1,0 +1,19 @@
+.a-btn{
+    height: 40px;
+    background-color: #019160;
+    border-radius: 4px;
+    color: #ffffff;
+    font-family: GoogleSans-Regular;
+    padding-left: 16px;
+    padding-right: 16px;
+    outline: none;
+    border: none;
+}
+.a-btn:hover{
+    background-color: #2fbebe;
+    cursor: pointer;
+}
+.a-btn:active{
+    background-color: #01b075;
+
+}

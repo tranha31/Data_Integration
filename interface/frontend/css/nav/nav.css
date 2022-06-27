@@ -1,0 +1,57 @@
+.nav{
+    height: calc(100vh - 49px);
+    width: 226px;
+    border-right: 1px solid #e5e5e5;
+    background-color: #ffffff;
+    float: left;
+}
+
+.nav .nav-content{
+    width: 100%;
+    height: 44px;
+    color: #000000;
+    font-family: GoogleSans-Regular;
+    color: #454545;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    cursor: pointer;
+}
+.nav .nav-content:not(.nav-content-focus):hover{
+    background-color: #e5e5e5;
+    color: #000000;
+    font-family: GoogleSans-Regular;
+}
+.nav .nav-content-focus{
+    background-color: #019160;
+    color: #ffffff;
+    font-family: GoogleSans-Bold;
+}
+.nav .nav-content:active{
+    background-color: #019160;
+    color: #ffffff;
+    font-family: GoogleSans-Bold;
+}
+.nav-content .nav-content-icon{
+    width: 20px;
+    height: 20px;
+    background-size: contain;
+    background-repeat: no-repeat;
+    margin-left: 16px;
+    margin-right: 8px;
+}
+.nav-content .nav-content-icon1{
+    background-image: url(../../content/icons/dashboard.png);
+}
+.nav-content .nav-content-icon2{
+    background-image: url(../../content/icons/report.png);
+}
+.nav-content .nav-content-icon3{
+    background-image: url(../../content/icons/dashboard.png);
+}
+.nav-content .nav-content-icon4{
+    background-image: url(../../content/icons/dic-employee.png);
+}
+.nav-content .nav-content-icon5{
+    background-image: url(../../content/icons/setting.png);
+}
