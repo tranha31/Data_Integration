@@ -1,0 +1,2022 @@
+﻿{"index": {"_index": "integration_phone", "_id": 0}}
+{"RefID": "001dd9f2-fef2-43c2-ab93-128b978f89b5", "PhoneName": "iPhone 12 Pro Max 512GB"}
+{"index": {"_index": "integration_phone", "_id": 1}}
+{"RefID": "00453998-d99e-498d-843a-172a0026cde9", "PhoneName": "Samsung Galaxy A53 5G 128GB"}
+{"index": {"_index": "integration_phone", "_id": 2}}
+{"RefID": "00955f21-fd70-444b-83a8-5acdd569a9d6", "PhoneName": "Samsung Galaxy S22 Ultra 5G 12GB/512GB (Trắng) (White)"}
+{"index": {"_index": "integration_phone", "_id": 3}}
+{"RefID": "00a7a695-542d-4fbd-b03a-49062a17c10e", "PhoneName": "Samsung Galaxy S21 FE 5G (8GB/128GB)"}
+{"index": {"_index": "integration_phone", "_id": 4}}
+{"RefID": "00a99cbb-7673-4d61-bd93-90764ec4fa4c", "PhoneName": "OPPO Reno4 Pro"}
+{"index": {"_index": "integration_phone", "_id": 5}}
+{"RefID": "012c76c5-a592-4fca-8ad4-3f625c0a5d95", "PhoneName": "Vivo Y53s 8GB+3GB - 128GB"}
+{"index": {"_index": "integration_phone", "_id": 6}}
+{"RefID": "012d1fb4-8ea7-49eb-aaee-2f0e975abe20", "PhoneName": "Xiaomi 12"}
+{"index": {"_index": "integration_phone", "_id": 7}}
+{"RefID": "018777a9-d1bb-4977-872d-67efc64c0660", "PhoneName": "Xiaomi 11 Lite 5G NE"}
+{"index": {"_index": "integration_phone", "_id": 8}}
+{"RefID": "018a5c88-b1a9-4199-9b1f-364e677fe178", "PhoneName": "Samsung Galaxy A52"}
+{"index": {"_index": "integration_phone", "_id": 9}}
+{"RefID": "019d5637-0669-47aa-b36b-6d19f6d05753", "PhoneName": "TECNO POVA 2 4GB-64GB"}
+{"index": {"_index": "integration_phone", "_id": 10}}
+{"RefID": "022a9660-cc1f-4c94-ad2a-9bfbf0785f55", "PhoneName": "iPhone 13 128GB - Xanh lá"}
+{"index": {"_index": "integration_phone", "_id": 11}}
+{"RefID": "0245e4d2-4769-4f01-b26f-460a602bb1b8", "PhoneName": "Galaxy Z Flip3 5G Flex Your Way 2022"}
+{"index": {"_index": "integration_phone", "_id": 12}}
+{"RefID": "0256eb9b-ce0a-47f1-b01d-0b83b5115d11", "PhoneName": "Samsung Galaxy M33 5G"}
+{"index": {"_index": "integration_phone", "_id": 13}}
+{"RefID": "02878efa-c4da-4b46-8ef9-b780b80fb2dc", "PhoneName": "Samsung Galaxy A73"}
+{"index": {"_index": "integration_phone", "_id": 14}}
+{"RefID": "0321adc0-5a8e-4af1-90ab-68dd44908292", "PhoneName": "Xiaomi Redmi Note 9 4GB/128GB (Xanh lá)"}
+{"index": {"_index": "integration_phone", "_id": 15}}
+{"RefID": "033620f7-5a91-41e0-a014-695ee484a410", "PhoneName": "iPhone 12 64GB"}
+{"index": {"_index": "integration_phone", "_id": 16}}
+{"RefID": "03557bf8-18c1-47b6-bde6-df443c62dda7", "PhoneName": "Samsung Galaxy S22 Ultra (12GB - 512GB)"}
+{"index": {"_index": "integration_phone", "_id": 17}}
+{"RefID": "03854eaf-cc53-4280-9734-3b626c1d5c0c", "PhoneName": "OPPO A95"}
+{"index": {"_index": "integration_phone", "_id": 18}}
+{"RefID": "03bb5c1d-e1ae-4507-9bf7-8a2156f320d5", "PhoneName": "Vivo Y01"}
+{"index": {"_index": "integration_phone", "_id": 19}}
+{"RefID": "03cdc345-5b0d-48d9-ae8b-edf85c7e7ad8", "PhoneName": "Vivo Y53s"}
+{"index": {"_index": "integration_phone", "_id": 20}}
+{"RefID": "045c5905-27e0-4ccd-87d9-e04412300e34", "PhoneName": "Xiaomi 11T 5G 256GB"}
+{"index": {"_index": "integration_phone", "_id": 21}}
+{"RefID": "04802a14-d86f-4066-a9cb-e5a40d6d25de", "PhoneName": "Samsung Galaxy S22+ 5G 128GB"}
+{"index": {"_index": "integration_phone", "_id": 22}}
+{"RefID": "051aa946-40b8-4fdf-8c15-7c211b7ae4c9", "PhoneName": "Samsung Galaxy S21 FE 5G (8GB/256GB)"}
+{"index": {"_index": "integration_phone", "_id": 23}}
+{"RefID": "0533fa96-f1d9-41c3-84a2-4284658c33b3", "PhoneName": "Vivo Y33s 8GB - 128GB"}
+{"index": {"_index": "integration_phone", "_id": 24}}
+{"RefID": "05b804f7-9023-47d3-825b-6be28100a4be", "PhoneName": "Realme C11 (2021) 4GB/64GB"}
+{"index": {"_index": "integration_phone", "_id": 25}}
+{"RefID": "05cd2789-c736-45a3-a393-5271849f0379", "PhoneName": "Realme 8 5G"}
+{"index": {"_index": "integration_phone", "_id": 26}}
+{"RefID": "0602dd35-3fd7-4475-bc8f-f0dad541d42c", "PhoneName": "Samsung Galaxy A52s 5G 128GB"}
+{"index": {"_index": "integration_phone", "_id": 27}}
+{"RefID": "06791f42-99d4-4222-83e1-8215919abbe8", "PhoneName": "Samsung Galaxy Note 10 (Aura Glow)"}
+{"index": {"_index": "integration_phone", "_id": 28}}
+{"RefID": "06ca8d52-1df8-4f7a-8888-82ae7b825203", "PhoneName": "Vivo Y33s"}
+{"index": {"_index": "integration_phone", "_id": 29}}
+{"RefID": "0772fb41-5898-4b34-bb68-5b5946d96975", "PhoneName": "Vivo Y55"}
+{"index": {"_index": "integration_phone", "_id": 30}}
+{"RefID": "077dd4de-fce0-4027-8d9c-84eb444075b6", "PhoneName": "Samsung Galaxy A12 4GB (2021)"}
+{"index": {"_index": "integration_phone", "_id": 31}}
+{"RefID": "07920390-13e5-4765-b32a-345590904e0e", "PhoneName": "OPPO A55 4GB-64GB"}
+{"index": {"_index": "integration_phone", "_id": 32}}
+{"RefID": "0876898a-0d14-40fb-ac62-0d6a7e88990e", "PhoneName": "Nokia G10 4GB-64GB"}
+{"index": {"_index": "integration_phone", "_id": 33}}
+{"RefID": "08984324-e09a-4620-9dd4-b3bbb98dae77", "PhoneName": "Samsung Galaxy A52s 5G 128GB"}
+{"index": {"_index": "integration_phone", "_id": 34}}
+{"RefID": "08b8e760-32f2-43f8-b649-1e8bbcfe21e0", "PhoneName": "Xiaomi Redmi Note 11 (6GB/128GB)"}
+{"index": {"_index": "integration_phone", "_id": 35}}
+{"RefID": "0939f5ad-e9af-49bb-b4cf-6f51b9bb6494", "PhoneName": "iPhone XR 128GB"}
+{"index": {"_index": "integration_phone", "_id": 36}}
+{"RefID": "09821cf6-a06c-4534-a6cb-c56cc48da1a8", "PhoneName": "iPhone 13 Pro Max 256GB"}
+{"index": {"_index": "integration_phone", "_id": 37}}
+{"RefID": "09b54e1b-5e5e-4d06-9608-d2de99322d35", "PhoneName": "Realme 9 4G"}
+{"index": {"_index": "integration_phone", "_id": 38}}
+{"RefID": "09d6a19b-4063-4e41-b9e1-42c31d3d4c87", "PhoneName": "Xiaomi Redmi Note 11 Pro Plus 5G"}
+{"index": {"_index": "integration_phone", "_id": 39}}
+{"RefID": "0a5ca916-7d1f-41d7-b85e-aaa8b5877daf", "PhoneName": "Samsung Galaxy A33 5G 6GB"}
+{"index": {"_index": "integration_phone", "_id": 40}}
+{"RefID": "0a5f132c-f112-4ba5-9a7e-072a24525fe8", "PhoneName": "OPPO A16K"}
+{"index": {"_index": "integration_phone", "_id": 41}}
+{"RefID": "0a8d4ba3-e972-466b-a0cc-3ffd61bde7d5", "PhoneName": "Realme 8 Pro 8GB - 128GB"}
+{"index": {"_index": "integration_phone", "_id": 42}}
+{"RefID": "0acfeeb8-d3a7-4567-9c07-abfb738ee820", "PhoneName": "iPhone 13 Pro 256GB"}
+{"index": {"_index": "integration_phone", "_id": 43}}
+{"RefID": "0ae1b9a0-b32c-4b22-a19a-a9c3002420ec", "PhoneName": "Samsung Galaxy M33 5G"}
+{"index": {"_index": "integration_phone", "_id": 44}}
+{"RefID": "0bf1b945-7990-4466-8a46-e2f27024fdba", "PhoneName": "Vivo V23e"}
+{"index": {"_index": "integration_phone", "_id": 45}}
+{"RefID": "0bfad718-dd2b-4b22-ae81-63e216212e70", "PhoneName": "iPhone 13 mini 256GB"}
+{"index": {"_index": "integration_phone", "_id": 46}}
+{"RefID": "0c4b0282-3fe6-475d-8d63-020362e12f42", "PhoneName": "Samsung Galaxy Z Flip3 5G 256GB"}
+{"index": {"_index": "integration_phone", "_id": 47}}
+{"RefID": "0d88a4bc-e6ce-4d53-b48a-e3a79e8bc4cb", "PhoneName": "Samsung Galaxy Note 20 Ultra (Đồng) SM-N985FZNGXXV"}
+{"index": {"_index": "integration_phone", "_id": 48}}
+{"RefID": "0dafa3f3-ab89-48dd-80de-b215cdd16f23", "PhoneName": "ASUS ROG Phone 5S 8GB 128GB"}
+{"index": {"_index": "integration_phone", "_id": 49}}
+{"RefID": "0dc3b65e-7837-4630-aa83-00ef734d96c6", "PhoneName": "Samsung Galaxy S22 Ultra 5G 512GB"}
+{"index": {"_index": "integration_phone", "_id": 50}}
+{"RefID": "0de0f202-5e67-4201-a2be-b5f7dcf2dc38", "PhoneName": "Samsung Galaxy A73 5G 128GB"}
+{"index": {"_index": "integration_phone", "_id": 51}}
+{"RefID": "0e0da74b-5588-4f62-854d-27b9007dc421", "PhoneName": "Nubia Red Magic 6R"}
+{"index": {"_index": "integration_phone", "_id": 52}}
+{"RefID": "0ef079bd-3380-4bd8-a2c6-927b405996dc", "PhoneName": "Samsung Galaxy A73 5G 128GB"}
+{"index": {"_index": "integration_phone", "_id": 53}}
+{"RefID": "0f059a2e-32d2-4378-8882-2deb9cbb890a", "PhoneName": "Samsung Galaxy A53 5G 128GB"}
+{"index": {"_index": "integration_phone", "_id": 54}}
+{"RefID": "0f094609-08aa-44c2-b84e-d8e55dca22af", "PhoneName": "iPhone 13 256GB"}
+{"index": {"_index": "integration_phone", "_id": 55}}
+{"RefID": "0f5bb1ca-0c39-4963-b5b0-19d1e828317e", "PhoneName": "OPPO Reno7 Pro 5G"}
+{"index": {"_index": "integration_phone", "_id": 56}}
+{"RefID": "10bfb984-8376-42a0-a9b5-1a32044b523f", "PhoneName": "Xiaomi Redmi Note 11S 5G"}
+{"index": {"_index": "integration_phone", "_id": 57}}
+{"RefID": "10f0eb84-d04d-4156-adc3-4683387b3ea1", "PhoneName": "Xiaomi Mi 11 Lite"}
+{"index": {"_index": "integration_phone", "_id": 58}}
+{"RefID": "11430321-eeb6-4930-b554-b04f605c51b2", "PhoneName": "Xiaomi 12"}
+{"index": {"_index": "integration_phone", "_id": 59}}
+{"RefID": "114b76f7-55bb-46c9-8b81-6a329aa36339", "PhoneName": "Samsung Galaxy M33 5G"}
+{"index": {"_index": "integration_phone", "_id": 60}}
+{"RefID": "1171a775-4424-4031-9109-d0508d5e3340", "PhoneName": "Vivo Y33s"}
+{"index": {"_index": "integration_phone", "_id": 61}}
+{"RefID": "11c0c5aa-cfb7-49ce-89ec-6f18de4a4d20", "PhoneName": "OPPO Reno7 5G 8GB - 256GB"}
+{"index": {"_index": "integration_phone", "_id": 62}}
+{"RefID": "1289fd4f-3c5a-4dcf-805f-60ec6d3f2abc", "PhoneName": "OPPO A95"}
+{"index": {"_index": "integration_phone", "_id": 63}}
+{"RefID": "12e0f9cb-c7e7-4a64-8472-d13fe8317e46", "PhoneName": "Tecno Pova 2"}
+{"index": {"_index": "integration_phone", "_id": 64}}
+{"RefID": "12e349eb-0429-4c88-8c45-05bd0b8cdc20", "PhoneName": "iPhone 13 Pro 128GB"}
+{"index": {"_index": "integration_phone", "_id": 65}}
+{"RefID": "12e7a9b6-9706-4e78-9b79-bf932c812601", "PhoneName": "iPhone 13 128GB"}
+{"index": {"_index": "integration_phone", "_id": 66}}
+{"RefID": "13ddd775-19bb-4a9d-bab3-3f4402e03193", "PhoneName": "iPhone 13 Pro Max 1TB"}
+{"index": {"_index": "integration_phone", "_id": 67}}
+{"RefID": "1423a1b5-1bbf-4277-a0dc-27ed66800874", "PhoneName": "Vivo Y15s 3GB - 32GB"}
+{"index": {"_index": "integration_phone", "_id": 68}}
+{"RefID": "146146a4-d712-49d4-9093-be41d4220b7f", "PhoneName": "Nokia G10"}
+{"index": {"_index": "integration_phone", "_id": 69}}
+{"RefID": "146af3c4-5bdb-496d-b9a6-bf646444835d", "PhoneName": "Samsung Galaxy A52 128GB"}
+{"index": {"_index": "integration_phone", "_id": 70}}
+{"RefID": "14a122cf-2663-467c-bfbe-474e1b90a4c7", "PhoneName": "OPPO Reno7 5G 8GB - 256GB"}
+{"index": {"_index": "integration_phone", "_id": 71}}
+{"RefID": "14a5c938-9b7c-49b5-b198-3d769510fc80", "PhoneName": "iPhone 12 128GB"}
+{"index": {"_index": "integration_phone", "_id": 72}}
+{"RefID": "14ba389e-c09d-46cd-ba59-a1656179ad70", "PhoneName": "Itel L6006"}
+{"index": {"_index": "integration_phone", "_id": 73}}
+{"RefID": "14c0add4-168c-4c07-80d8-24a068bae454", "PhoneName": "Realme 9 Pro Plus"}
+{"index": {"_index": "integration_phone", "_id": 74}}
+{"RefID": "14ed309e-674e-4e40-9897-f6dc973fc4d2", "PhoneName": "Samsung Galaxy Z Flip3 5G 256GB"}
+{"index": {"_index": "integration_phone", "_id": 75}}
+{"RefID": "150497b7-07c8-4b74-a5c5-8ac870534c8c", "PhoneName": "OPPO A94 8GB-128GB"}
+{"index": {"_index": "integration_phone", "_id": 76}}
+{"RefID": "15210f15-7c54-4b9d-a151-efe6cb9311b7", "PhoneName": "iPhone 12 mini 64GB"}
+{"index": {"_index": "integration_phone", "_id": 77}}
+{"RefID": "1547bd13-4176-4186-8bd0-ef9354d88701", "PhoneName": "ASUS ROG Phone 5S 8GB 128GB"}
+{"index": {"_index": "integration_phone", "_id": 78}}
+{"RefID": "15be2a3f-4cd6-4c18-b47f-c2610a961484", "PhoneName": "Samsung Galaxy A52s 5G 128GB"}
+{"index": {"_index": "integration_phone", "_id": 79}}
+{"RefID": "15f971b0-af1d-48cc-a190-35f951b7aaf1", "PhoneName": "OPPO Find X5 Pro 5G"}
+{"index": {"_index": "integration_phone", "_id": 80}}
+{"RefID": "16322efc-e30c-448d-b438-57949c1157e2", "PhoneName": "Samsung Galaxy S21 5G"}
+{"index": {"_index": "integration_phone", "_id": 81}}
+{"RefID": "16a9a9d5-a036-409c-9530-5c7136af86c9", "PhoneName": "iPhone 12 Pro Max 128GB"}
+{"index": {"_index": "integration_phone", "_id": 82}}
+{"RefID": "16b5edd1-d359-4b93-b460-89f2d74fe082", "PhoneName": "Samsung Galaxy S22 Ultra 5G 128GB"}
+{"index": {"_index": "integration_phone", "_id": 83}}
+{"RefID": "16c04f1e-2a43-4c5d-bc66-38f2e6f82670", "PhoneName": "Samsung Galaxy A53 5G 128GB"}
+{"index": {"_index": "integration_phone", "_id": 84}}
+{"RefID": "16ed55e0-931c-4d04-bf96-81b8ec4612e9", "PhoneName": "Itel L6006"}
+{"index": {"_index": "integration_phone", "_id": 85}}
+{"RefID": "16ee2fed-b99d-4bde-8cb0-bfa71cbee81d", "PhoneName": "Xiaomi 11T 5G 128GB"}
+{"index": {"_index": "integration_phone", "_id": 86}}
+{"RefID": "177b4693-5f67-4b0a-a688-1ea82a331f66", "PhoneName": "Samsung Galaxy S20 FE 256GB"}
+{"index": {"_index": "integration_phone", "_id": 87}}
+{"RefID": "1785f7e3-7a05-4087-a142-4a3a34b97456", "PhoneName": "iPhone 11 256GB"}
+{"index": {"_index": "integration_phone", "_id": 88}}
+{"RefID": "1786e285-c5ab-4133-be15-f660b79e7151", "PhoneName": "Xiaomi Mi 11 Lite 4G"}
+{"index": {"_index": "integration_phone", "_id": 89}}
+{"RefID": "178a6e96-ba25-48f3-a773-541ce8bfba6d", "PhoneName": "iPhone 13 Pro 1TB"}
+{"index": {"_index": "integration_phone", "_id": 90}}
+{"RefID": "17dff1fe-d1af-414c-adc5-4876b0832322", "PhoneName": "Tecno Spark 7T 4GB 64GB"}
+{"index": {"_index": "integration_phone", "_id": 91}}
+{"RefID": "181b8514-5e1e-4919-a8c9-31a64e33cd94", "PhoneName": "Realme C21Y 4GB"}
+{"index": {"_index": "integration_phone", "_id": 92}}
+{"RefID": "1839ac30-14fb-4547-846c-6dd8bccc6427", "PhoneName": "OPPO Reno7 Z 5G"}
+{"index": {"_index": "integration_phone", "_id": 93}}
+{"RefID": "18a0cdb4-56be-4460-86e8-b466fad994e3", "PhoneName": "Nubia Red Magic 6 Pro"}
+{"index": {"_index": "integration_phone", "_id": 94}}
+{"RefID": "18bd1a42-5b7c-4306-ad17-91a1e4b034a1", "PhoneName": "iPhone 13 Pro Max 512GB"}
+{"index": {"_index": "integration_phone", "_id": 95}}
+{"RefID": "195f5ba9-23fb-4995-b4be-55557d8003db", "PhoneName": "Samsung Galaxy S20 FE 256GB"}
+{"index": {"_index": "integration_phone", "_id": 96}}
+{"RefID": "1991c1a5-e268-4535-b445-b0184598a2ba", "PhoneName": "OPPO A16 3GB-32GB"}
+{"index": {"_index": "integration_phone", "_id": 97}}
+{"RefID": "19c61dc6-a974-46e8-b7eb-d8a19ab78340", "PhoneName": "Xiaomi 11 Lite 5G NE"}
+{"index": {"_index": "integration_phone", "_id": 98}}
+{"RefID": "19cec27f-93e1-4f49-b91c-6291d670ec70", "PhoneName": "Xiaomi Redmi 9A 2GB/32GB (Xám)"}
+{"index": {"_index": "integration_phone", "_id": 99}}
+{"RefID": "1a483967-1e69-4cc5-839c-4cc091cc18d4", "PhoneName": "Nubia Red Magic 6R"}
+{"index": {"_index": "integration_phone", "_id": 100}}
+{"RefID": "1a90588c-d7ea-4e79-a374-83078cebcd5b", "PhoneName": "Samsung Galaxy A03 3GB"}
+{"index": {"_index": "integration_phone", "_id": 101}}
+{"RefID": "1a964645-dbc9-45af-81a4-10dec0a712b2", "PhoneName": "Xiaomi Redmi Note 11S 5G"}
+{"index": {"_index": "integration_phone", "_id": 102}}
+{"RefID": "1c5d8055-7e91-4404-9d33-48fdac311c01", "PhoneName": "iPhone 12 Pro 512GB"}
+{"index": {"_index": "integration_phone", "_id": 103}}
+{"RefID": "1c711bb0-2ca3-44a3-ba67-dae190a16f46", "PhoneName": "Realme 9"}
+{"index": {"_index": "integration_phone", "_id": 104}}
+{"RefID": "1ca98113-e338-4ce9-bfc7-04ac81228ad3", "PhoneName": "Nokia C20 2GB - 32GB"}
+{"index": {"_index": "integration_phone", "_id": 105}}
+{"RefID": "1cd36217-431f-4673-85b8-087d3c90b98e", "PhoneName": "Nokia C20 2GB - 32GB"}
+{"index": {"_index": "integration_phone", "_id": 106}}
+{"RefID": "1cfa063e-9c59-421d-9c28-d894aff7ca81", "PhoneName": "OPPO A16"}
+{"index": {"_index": "integration_phone", "_id": 107}}
+{"RefID": "1d0c9edd-76df-45c8-a4d5-48f1329c5f25", "PhoneName": "Samsung Galaxy S21 Ultra 5G (12+128GB)  SM-G998BZSDXXV (Silver)"}
+{"index": {"_index": "integration_phone", "_id": 108}}
+{"RefID": "1d44a97f-25cd-4eaf-99fc-de27d8adb0bf", "PhoneName": "iPhone 12 mini 128GB"}
+{"index": {"_index": "integration_phone", "_id": 109}}
+{"RefID": "1d5a673b-45e8-4633-b26a-6fdeaeec50b3", "PhoneName": "Vivo Y15s 3GB - 32GB"}
+{"index": {"_index": "integration_phone", "_id": 110}}
+{"RefID": "1d9304e7-b873-418d-9592-707f9cfbbe55", "PhoneName": "Realme C21-Y 3GB"}
+{"index": {"_index": "integration_phone", "_id": 111}}
+{"RefID": "1d9f7f11-655e-4b0f-9007-9d5b9e646557", "PhoneName": "Xiaomi Redmi Note 11 (6GB/128GB)"}
+{"index": {"_index": "integration_phone", "_id": 112}}
+{"RefID": "1da96818-6f09-4dc1-9f64-49ab879b5a97", "PhoneName": "Xiaomi 12 8GB - 256GB"}
+{"index": {"_index": "integration_phone", "_id": 113}}
+{"RefID": "1edffc2b-22b7-42ef-8e45-0d7dc48a877d", "PhoneName": "iPhone SE 128GB (2022)"}
+{"index": {"_index": "integration_phone", "_id": 114}}
+{"RefID": "1f593c5b-1b0c-4a87-8c12-12d238f45979", "PhoneName": "iPhone 13 Pro 512GB"}
+{"index": {"_index": "integration_phone", "_id": 115}}
+{"RefID": "1f5ff5fc-4fd3-41d2-82da-58b8c3410563", "PhoneName": "Vivo T1X 8GB 128GB"}
+{"index": {"_index": "integration_phone", "_id": 116}}
+{"RefID": "1f6bab80-ff1b-41f9-b7bb-b0280c7862cd", "PhoneName": "iPhone 13 Pro Max 1TB"}
+{"index": {"_index": "integration_phone", "_id": 117}}
+{"RefID": "1fd53a47-0d4b-43a5-ae47-c71d1306d40b", "PhoneName": "Samsung Galaxy A23 4GB"}
+{"index": {"_index": "integration_phone", "_id": 118}}
+{"RefID": "1fec5e84-342e-43d2-89e2-2d415909d20c", "PhoneName": "Xiaomi Redmi 9C (2+32G) (Cam)"}
+{"index": {"_index": "integration_phone", "_id": 119}}
+{"RefID": "204cebb0-add1-4a74-8b04-1c84e04497c9", "PhoneName": "iPhone SE 64GB (2022)"}
+{"index": {"_index": "integration_phone", "_id": 120}}
+{"RefID": "20625114-31af-4c3a-a548-26c03f95476f", "PhoneName": "Xiaomi Redmi 9A 2GB-32GB"}
+{"index": {"_index": "integration_phone", "_id": 121}}
+{"RefID": "20780802-17de-4971-8a58-8d78db3f5ddf", "PhoneName": "Tecno Pova 2"}
+{"index": {"_index": "integration_phone", "_id": 122}}
+{"RefID": "20940f5d-31a3-477c-830f-68e221ee34fe", "PhoneName": "Xiaomi Redmi 9A"}
+{"index": {"_index": "integration_phone", "_id": 123}}
+{"RefID": "2098ef28-424d-4317-aebb-4edeceb94f26", "PhoneName": "Realme C11 (2021)"}
+{"index": {"_index": "integration_phone", "_id": 124}}
+{"RefID": "20cb5529-ee72-4a99-94d1-dec2400e128e", "PhoneName": "Samsung Galaxy S22 5G 256GB"}
+{"index": {"_index": "integration_phone", "_id": 125}}
+{"RefID": "214026c2-0438-4960-bead-9b3e7d46483c", "PhoneName": "Vivo Y15s"}
+{"index": {"_index": "integration_phone", "_id": 126}}
+{"RefID": "21a8ccbb-4e81-4e62-b47f-2342e5b81dfa", "PhoneName": "Samsung Galaxy A32"}
+{"index": {"_index": "integration_phone", "_id": 127}}
+{"RefID": "221c24d3-2c2e-41a6-ae9a-7d1004dc4e23", "PhoneName": "Samsung Galaxy Note 20"}
+{"index": {"_index": "integration_phone", "_id": 128}}
+{"RefID": "225318b4-5ed3-4983-8cce-0b877603bb27", "PhoneName": "Xiaomi Redmi 9A"}
+{"index": {"_index": "integration_phone", "_id": 129}}
+{"RefID": "22635861-4282-42d3-8fd0-e31bb944d533", "PhoneName": "Xiaomi 11T Pro 5G 12GB - 256GB"}
+{"index": {"_index": "integration_phone", "_id": 130}}
+{"RefID": "228f52b1-6e86-499c-9f6b-cce612d7c262", "PhoneName": "Samsung Galaxy A53 5G 128GB"}
+{"index": {"_index": "integration_phone", "_id": 131}}
+{"RefID": "233e1578-63ee-4b86-bca7-78483a29c3ca", "PhoneName": "OPPO Reno7 Z 5G 8GB - 128GB"}
+{"index": {"_index": "integration_phone", "_id": 132}}
+{"RefID": "233e3972-aa65-4940-a000-fd44a03f99fe", "PhoneName": "Xiaomi 11 Lite 5G NE 8GB - 256GB"}
+{"index": {"_index": "integration_phone", "_id": 133}}
+{"RefID": "2352ee50-6dc3-4ffe-90ce-31fa2613f38b", "PhoneName": "Nubia Red Magic 6s Pro Cyborg 16GB 256GB"}
+{"index": {"_index": "integration_phone", "_id": 134}}
+{"RefID": "239099e1-1614-44f7-a04d-65342e7a21be", "PhoneName": "Realme 8 Pro 8GB - 128GB"}
+{"index": {"_index": "integration_phone", "_id": 135}}
+{"RefID": "23cccd79-9d49-43c5-a69b-1f7ee231258a", "PhoneName": "Samsung Galaxy Z Flip3 5G 256GB"}
+{"index": {"_index": "integration_phone", "_id": 136}}
+{"RefID": "24338ceb-1702-45d3-8e8c-c75af5bf5754", "PhoneName": "Samsung Galaxy A53 5G 128GB"}
+{"index": {"_index": "integration_phone", "_id": 137}}
+{"RefID": "245684d8-9c1e-46a6-9408-b789f3d1f650", "PhoneName": "Xiaomi Mi 11 Lite 4G"}
+{"index": {"_index": "integration_phone", "_id": 138}}
+{"RefID": "2473e9fc-134c-4c04-a1f7-998c8dbf12a9", "PhoneName": "Samsung Galaxy S21 FE 5G (8GB/128GB)"}
+{"index": {"_index": "integration_phone", "_id": 139}}
+{"RefID": "24d8de60-b164-4433-b4a3-7babe495e7c5", "PhoneName": "Xiaomi Redmi 9C (3GB/64GB)"}
+{"index": {"_index": "integration_phone", "_id": 140}}
+{"RefID": "24e284b9-19b9-43aa-a9a8-f44e15f539b1", "PhoneName": "Samsung Galaxy Z Fold3 5G 256GB"}
+{"index": {"_index": "integration_phone", "_id": 141}}
+{"RefID": "251a717d-e243-4608-9367-cd283091d185", "PhoneName": "Samsung Galaxy S22+ 5G 128GB"}
+{"index": {"_index": "integration_phone", "_id": 142}}
+{"RefID": "2533a74e-552e-4d69-9bb8-15f6d8f1a056", "PhoneName": "Xiaomi Mi 11 Lite 5G"}
+{"index": {"_index": "integration_phone", "_id": 143}}
+{"RefID": "2599f086-9544-441f-a438-8f1cac8aebb2", "PhoneName": "Samsung Galaxy A33 5G 6GB"}
+{"index": {"_index": "integration_phone", "_id": 144}}
+{"RefID": "26031aa7-3c68-46af-baea-c7742ce2cbca", "PhoneName": "Xiaomi 11T Pro"}
+{"index": {"_index": "integration_phone", "_id": 145}}
+{"RefID": "263732c0-b558-4efc-9ded-b41f0f374c97", "PhoneName": "iPhone 13 Pro Max 128GB Graphite (MLL63VN/A) (Graphite)"}
+{"index": {"_index": "integration_phone", "_id": 146}}
+{"RefID": "2644ced4-354f-4537-9305-11d34789e6d4", "PhoneName": "Samsung Galaxy A33 5G 6GB"}
+{"index": {"_index": "integration_phone", "_id": 147}}
+{"RefID": "26cb55d5-43c7-4389-8b2e-36198a2e3d6a", "PhoneName": "Samsung Galaxy Z Fold3 5G 512GB"}
+{"index": {"_index": "integration_phone", "_id": 148}}
+{"RefID": "26fb7bf9-351c-4e77-b595-37c282c617a3", "PhoneName": "Samsung Galaxy S21 FE 5G (6GB/128GB)"}
+{"index": {"_index": "integration_phone", "_id": 149}}
+{"RefID": "27513c57-3a56-421a-b9e5-f1b4b3c8caad", "PhoneName": "Samsung Galaxy A32"}
+{"index": {"_index": "integration_phone", "_id": 150}}
+{"RefID": "277e6681-a83a-496d-98ea-fcfb0f3ca214", "PhoneName": "iPhone 13 Pro Max 1TB"}
+{"index": {"_index": "integration_phone", "_id": 151}}
+{"RefID": "27b21eae-dbb6-4f15-a4a2-16f432b3a1aa", "PhoneName": "iPhone 13 Pro Max 1TB"}
+{"index": {"_index": "integration_phone", "_id": 152}}
+{"RefID": "27cab08e-c6f9-4b58-8d6d-a92b90962570", "PhoneName": "iPhone 12 Pro Max 256GB"}
+{"index": {"_index": "integration_phone", "_id": 153}}
+{"RefID": "28cddce4-d62e-4569-909e-79164f80eeae", "PhoneName": "Realme C25Y 64GB"}
+{"index": {"_index": "integration_phone", "_id": 154}}
+{"RefID": "299cd164-b0e8-4bea-b9a9-87f1d8dc6879", "PhoneName": "iPhone 11 256GB"}
+{"index": {"_index": "integration_phone", "_id": 155}}
+{"RefID": "29d0e29b-3f1c-4a9a-9268-744a94cb9935", "PhoneName": "Samsung Galaxy A72"}
+{"index": {"_index": "integration_phone", "_id": 156}}
+{"RefID": "29e38cd2-b869-41e1-a45a-896bc8728e75", "PhoneName": "Xiaomi 12 Pro (5G)"}
+{"index": {"_index": "integration_phone", "_id": 157}}
+{"RefID": "2a0f3ae5-8bfb-4d01-893a-5a32a61736ff", "PhoneName": "Samsung Galaxy A32"}
+{"index": {"_index": "integration_phone", "_id": 158}}
+{"RefID": "2a6e0d93-d11f-48ad-96c6-f112a43eecbf", "PhoneName": "iPhone SE 256GB (2020) (Hộp mới)"}
+{"index": {"_index": "integration_phone", "_id": 159}}
+{"RefID": "2a7eb8ce-b7b6-4b7b-a15c-7a4f899d2e8f", "PhoneName": "iPhone 12 128GB"}
+{"index": {"_index": "integration_phone", "_id": 160}}
+{"RefID": "2a7ec658-5449-4184-98b9-198fe9d3469f", "PhoneName": "Itel L6502"}
+{"index": {"_index": "integration_phone", "_id": 161}}
+{"RefID": "2b1652b3-a2fe-45c4-bc11-e013c378a2fd", "PhoneName": "Xiaomi Redmi 10C 64GB"}
+{"index": {"_index": "integration_phone", "_id": 162}}
+{"RefID": "2b484274-8213-412d-a7b0-a215398f2b88", "PhoneName": "Tecno Spark 7T 6GB 128GB"}
+{"index": {"_index": "integration_phone", "_id": 163}}
+{"RefID": "2b575512-6a70-4def-afce-b1cf8573cafb", "PhoneName": "Realme 9 Pro 5G"}
+{"index": {"_index": "integration_phone", "_id": 164}}
+{"RefID": "2b6f8af8-0b69-403a-a511-65054d69f554", "PhoneName": "Samsung Galaxy A22"}
+{"index": {"_index": "integration_phone", "_id": 165}}
+{"RefID": "2b95fc8b-9a35-4b14-97f8-000adb131479", "PhoneName": "Realme 9 Pro 5G 8G-128GB"}
+{"index": {"_index": "integration_phone", "_id": 166}}
+{"RefID": "2bdb8631-9bb1-4d85-8c02-463b15079fc4", "PhoneName": "Samsung Galaxy Note 20"}
+{"index": {"_index": "integration_phone", "_id": 167}}
+{"RefID": "2c0a49d1-f10d-4187-b10b-148cad86eda1", "PhoneName": "Realme C11 (2021) 2GB/32GB"}
+{"index": {"_index": "integration_phone", "_id": 168}}
+{"RefID": "2c9558ec-f757-4dc6-b3e7-82e703be162e", "PhoneName": "Itel L6502"}
+{"index": {"_index": "integration_phone", "_id": 169}}
+{"RefID": "2ce23bc0-adad-4069-a8ac-87ba58ffe4f5", "PhoneName": "OPPO A16k 3GB-32GB"}
+{"index": {"_index": "integration_phone", "_id": 170}}
+{"RefID": "2d27dd0a-c864-42b4-8e1c-a94bd7cf8e15", "PhoneName": "iPhone 13 512GB"}
+{"index": {"_index": "integration_phone", "_id": 171}}
+{"RefID": "2d561608-8071-4a56-b407-fdb9b1585354", "PhoneName": "OPPO A76 6GB-128GB"}
+{"index": {"_index": "integration_phone", "_id": 172}}
+{"RefID": "2d720ff3-f07c-4ff4-b963-830756e4098a", "PhoneName": "Samsung Galaxy S21 FE 5G 8GB - 128GB"}
+{"index": {"_index": "integration_phone", "_id": 173}}
+{"RefID": "2dbded97-89ba-414d-b4bc-2d785dbb9287", "PhoneName": "iPhone 11 64GB (BLACK) (MHDA3VN/A)"}
+{"index": {"_index": "integration_phone", "_id": 174}}
+{"RefID": "2e47fa52-da33-4f6f-a775-8bd11e183e43", "PhoneName": "Nokia G21"}
+{"index": {"_index": "integration_phone", "_id": 175}}
+{"RefID": "2e75e126-c16e-4790-b4cc-ad8126c89c27", "PhoneName": "iPhone 13 Pro 128GB"}
+{"index": {"_index": "integration_phone", "_id": 176}}
+{"RefID": "2e977609-c4a2-49b5-8ffd-da0ef1be142c", "PhoneName": "Xiaomi Redmi Note 11S 5G"}
+{"index": {"_index": "integration_phone", "_id": 177}}
+{"RefID": "2ec24000-1169-43b2-b6d3-8d2205478441", "PhoneName": "OPPO Reno4 Pro"}
+{"index": {"_index": "integration_phone", "_id": 178}}
+{"RefID": "2f11d486-775b-4010-8470-56874c242f74", "PhoneName": "OPPO A74 5G"}
+{"index": {"_index": "integration_phone", "_id": 179}}
+{"RefID": "2fc93e2f-f592-4ecd-82be-40b0d3aa1269", "PhoneName": "Xiaomi 11 Lite 5G NE"}
+{"index": {"_index": "integration_phone", "_id": 180}}
+{"RefID": "2fdeea34-dfcd-4c12-b97d-e31aac234f64", "PhoneName": "Samsung Galaxy A22"}
+{"index": {"_index": "integration_phone", "_id": 181}}
+{"RefID": "305afd2e-1f2b-40df-9d8d-cb230bbeeea3", "PhoneName": "Samsung Galaxy Note 20 Ultra 5G"}
+{"index": {"_index": "integration_phone", "_id": 182}}
+{"RefID": "306f40f0-1cd1-4fc7-8af7-f898987a22ea", "PhoneName": "OPPO A55"}
+{"index": {"_index": "integration_phone", "_id": 183}}
+{"RefID": "3097a62d-eb24-43d6-a36e-93ae50f29e4c", "PhoneName": "Samsung Galaxy A12 (2021) (4GB/128GB) (Đen)"}
+{"index": {"_index": "integration_phone", "_id": 184}}
+{"RefID": "30b12c78-a8a0-4aa1-8d92-2cf7c2689d94", "PhoneName": "Samsung Galaxy S22 Ultra 5G 128GB"}
+{"index": {"_index": "integration_phone", "_id": 185}}
+{"RefID": "30b59cc3-b227-4619-b98e-a23602b98a40", "PhoneName": "iPhone 13 256GB"}
+{"index": {"_index": "integration_phone", "_id": 186}}
+{"RefID": "3100ce92-2d1d-490e-a7fa-a3e0fbe2e407", "PhoneName": "Xiaomi Redmi 10 (6GB/128GB)"}
+{"index": {"_index": "integration_phone", "_id": 187}}
+{"RefID": "31a1b3f6-d59d-4767-a82e-d3ea63969d3f", "PhoneName": "Vivo Y21 4GB+1GB - 64GB"}
+{"index": {"_index": "integration_phone", "_id": 188}}
+{"RefID": "321a5b23-5749-4196-b0bf-c9cb3620e02e", "PhoneName": "Samsung Galaxy Note 10 Lite, 128GB (SM-N770FZSUXXV) (Bạc)"}
+{"index": {"_index": "integration_phone", "_id": 189}}
+{"RefID": "326213fd-adfe-460e-9a76-93b1a1bf1f62", "PhoneName": "TECNO POP 5 2GB-32GB"}
+{"index": {"_index": "integration_phone", "_id": 190}}
+{"RefID": "32fd2f23-ec4b-4a11-bad5-5c734b95b031", "PhoneName": "iPhone 11 128GB"}
+{"index": {"_index": "integration_phone", "_id": 191}}
+{"RefID": "32feabb8-ea0e-4357-8706-b77d278d6414", "PhoneName": "Xiaomi Mi 11 5G"}
+{"index": {"_index": "integration_phone", "_id": 192}}
+{"RefID": "33299a69-8b79-43dc-baa6-5d67b3d7a187", "PhoneName": "Samsung Galaxy M33 5G"}
+{"index": {"_index": "integration_phone", "_id": 193}}
+{"RefID": "334b3750-c983-4146-acb4-d36312e6a984", "PhoneName": "Vsmart Aris Pro"}
+{"index": {"_index": "integration_phone", "_id": 194}}
+{"RefID": "33d67ac3-21bb-44c9-bc43-5cc7be7affb4", "PhoneName": "Samsung Galaxy S20,128GB (SM-G980FZADXXV) (Xám)"}
+{"index": {"_index": "integration_phone", "_id": 195}}
+{"RefID": "348fcee1-8b77-4dad-88a1-b553c838ebb7", "PhoneName": "Itel L6502"}
+{"index": {"_index": "integration_phone", "_id": 196}}
+{"RefID": "34ff75ab-7961-4dc4-b77c-b5143ba529a6", "PhoneName": "Samsung Galaxy S21 Ultra 5G 128GB"}
+{"index": {"_index": "integration_phone", "_id": 197}}
+{"RefID": "3545cb90-5a1f-44ec-b28f-3a551ca4f731", "PhoneName": "Realme 8 Pro 8GB - 128GB"}
+{"index": {"_index": "integration_phone", "_id": 198}}
+{"RefID": "359bb4fd-6990-4ed2-9985-a53a1bd6653e", "PhoneName": "Realme 9 4G"}
+{"index": {"_index": "integration_phone", "_id": 199}}
+{"RefID": "363daa99-4582-4031-af12-6d4c7e28d070", "PhoneName": "iPhone 11 64GB"}
+{"index": {"_index": "integration_phone", "_id": 200}}
+{"RefID": "364e5497-1478-40eb-8f7c-4bb35671be38", "PhoneName": "Samsung Galaxy S22 Ultra 5G 256GB"}
+{"index": {"_index": "integration_phone", "_id": 201}}
+{"RefID": "36a53b59-9574-4a6c-88c2-ba82be4e195c", "PhoneName": "Xiaomi Redmi 9C (4GB/128GB) (Xanh lá) (Green)"}
+{"index": {"_index": "integration_phone", "_id": 202}}
+{"RefID": "370bd192-c837-4168-8356-a3f37416d0bc", "PhoneName": "Vivo Y55"}
+{"index": {"_index": "integration_phone", "_id": 203}}
+{"RefID": "3713b7ea-c035-4d3e-830f-134a1a366e59", "PhoneName": "Samsung Galaxy S21 FE 5G (6GB/128GB)"}
+{"index": {"_index": "integration_phone", "_id": 204}}
+{"RefID": "372ddb14-d667-40e7-aab8-d0c01be94580", "PhoneName": "Xiaomi 12"}
+{"index": {"_index": "integration_phone", "_id": 205}}
+{"RefID": "374bbc66-0a85-4dce-b156-ea6b72b6eb26", "PhoneName": "Xiaomi 11 Lite 5G NE"}
+{"index": {"_index": "integration_phone", "_id": 206}}
+{"RefID": "375358e6-3cb3-410a-94e8-d8e0c40ba2c8", "PhoneName": "OPPO A55"}
+{"index": {"_index": "integration_phone", "_id": 207}}
+{"RefID": "37f328cf-f558-4e7c-b0af-357008e6d96c", "PhoneName": "iPhone 12 64GB"}
+{"index": {"_index": "integration_phone", "_id": 208}}
+{"RefID": "38a3ccd6-d409-4f7f-915b-4cf68d55db0e", "PhoneName": "iPhone 12 256GB"}
+{"index": {"_index": "integration_phone", "_id": 209}}
+{"RefID": "38abc6e8-2e87-4435-822e-818acfdf9070", "PhoneName": "Samsung Galaxy A03s"}
+{"index": {"_index": "integration_phone", "_id": 210}}
+{"RefID": "3922510e-96c2-4336-b621-5be06c519b17", "PhoneName": "iPhone 13 mini 128GB"}
+{"index": {"_index": "integration_phone", "_id": 211}}
+{"RefID": "393dccad-ebab-43a4-a44c-3023258bd4c6", "PhoneName": "Samsung Galaxy A22"}
+{"index": {"_index": "integration_phone", "_id": 212}}
+{"RefID": "3977255c-c5b6-4e60-9a42-bb2c6f8f856e", "PhoneName": "Samsung Galaxy A12 6GB (2021)"}
+{"index": {"_index": "integration_phone", "_id": 213}}
+{"RefID": "39815355-e292-4977-93d1-23337c30ad9a", "PhoneName": "Samsung Galaxy S22 5G 128GB"}
+{"index": {"_index": "integration_phone", "_id": 214}}
+{"RefID": "39bf1bf8-d26e-4488-8968-e5a41ea77532", "PhoneName": "Xiaomi Redmi Note 11"}
+{"index": {"_index": "integration_phone", "_id": 215}}
+{"RefID": "39fe5ed9-aa24-4345-bd50-9f56afdf223e", "PhoneName": "iPhone 13 Pro Max 1TB"}
+{"index": {"_index": "integration_phone", "_id": 216}}
+{"RefID": "3a1c4856-5191-479a-9787-cdf373893f96", "PhoneName": "Samsung Galaxy Z Fold3 5G 512GB"}
+{"index": {"_index": "integration_phone", "_id": 217}}
+{"RefID": "3a501953-eb8a-4702-a355-aae604a90676", "PhoneName": "Nokia C20 2GB 16GB"}
+{"index": {"_index": "integration_phone", "_id": 218}}
+{"RefID": "3b0d26d9-aa52-4ba5-a33c-05a7a9c34307", "PhoneName": "iPhone 12 mini 256GB"}
+{"index": {"_index": "integration_phone", "_id": 219}}
+{"RefID": "3b455029-40a4-4c3d-93d0-d9f51f02a643", "PhoneName": "Samsung Galaxy A52s 5G 128GB"}
+{"index": {"_index": "integration_phone", "_id": 220}}
+{"RefID": "3b459c68-0f0f-4bbb-86e0-87ff1e5a870e", "PhoneName": "Samsung Galaxy S20 FE 256GB"}
+{"index": {"_index": "integration_phone", "_id": 221}}
+{"RefID": "3b8579c2-5cf3-42e9-9154-3659744d8d08", "PhoneName": "Itel L6006"}
+{"index": {"_index": "integration_phone", "_id": 222}}
+{"RefID": "3becd21a-d4a5-4687-b9f2-f65f67d1ee6d", "PhoneName": "Samsung Galaxy S21 FE 5G (8GB/256GB)"}
+{"index": {"_index": "integration_phone", "_id": 223}}
+{"RefID": "3c05d9d1-b701-474d-a234-a93fb48212fb", "PhoneName": "Samsung Galaxy A52s 5G 128GB"}
+{"index": {"_index": "integration_phone", "_id": 224}}
+{"RefID": "3c950876-c06a-434d-ad27-8624bc24ea6f", "PhoneName": "Xiaomi 12"}
+{"index": {"_index": "integration_phone", "_id": 225}}
+{"RefID": "3c9ec740-b43c-472f-9a2b-6218f2df74a5", "PhoneName": "Galaxy Z Flip3 5G Flex Your Way 2022"}
+{"index": {"_index": "integration_phone", "_id": 226}}
+{"RefID": "3cb221d6-e568-452f-843f-00847d338bc9", "PhoneName": "iPhone 13 512GB"}
+{"index": {"_index": "integration_phone", "_id": 227}}
+{"RefID": "3cf26151-de6d-4c9f-8ee2-9638305a0a03", "PhoneName": "Samsung Galaxy M53"}
+{"index": {"_index": "integration_phone", "_id": 228}}
+{"RefID": "3d0fe5b0-8693-4d28-8a91-61edcbeb0cec", "PhoneName": "Xiaomi Redmi 10 (4GB - 128GB)"}
+{"index": {"_index": "integration_phone", "_id": 229}}
+{"RefID": "3d4f024d-f41e-4836-aed7-b8b59c8db9d1", "PhoneName": "Realme 8"}
+{"index": {"_index": "integration_phone", "_id": 230}}
+{"RefID": "3db7c29d-fcfb-4efb-bd34-6ec26658c850", "PhoneName": "Samsung Galaxy A73 5G 128GB"}
+{"index": {"_index": "integration_phone", "_id": 231}}
+{"RefID": "3dd25a9e-48a7-4835-a95b-acdf5e9f8504", "PhoneName": "Samsung Galaxy A52s 5G 128GB"}
+{"index": {"_index": "integration_phone", "_id": 232}}
+{"RefID": "3e23b95b-e6bf-4cd4-8097-4580b3f8a57d", "PhoneName": "Vivo T1X 8GB 128GB"}
+{"index": {"_index": "integration_phone", "_id": 233}}
+{"RefID": "3e5e959b-31d5-4227-8633-ae314c7de81c", "PhoneName": "Xiaomi 11 Lite 5G NE"}
+{"index": {"_index": "integration_phone", "_id": 234}}
+{"RefID": "3e61eac2-3d20-4f7e-b0ee-494c44525dd4", "PhoneName": "Xiaomi Redmi 9A"}
+{"index": {"_index": "integration_phone", "_id": 235}}
+{"RefID": "3e8add00-3bac-416d-8fa6-5350578fc09c", "PhoneName": "Realme C21-Y 4GB"}
+{"index": {"_index": "integration_phone", "_id": 236}}
+{"RefID": "3eba1833-35ab-42e2-9532-e144ecb25b9a", "PhoneName": "Xiaomi Redmi Note 11 Pro"}
+{"index": {"_index": "integration_phone", "_id": 237}}
+{"RefID": "3eed527d-d05b-47a5-b401-61ecdaeaaf44", "PhoneName": "Xiaomi Mi Note 10 Pro (Xanh lá)"}
+{"index": {"_index": "integration_phone", "_id": 238}}
+{"RefID": "3f128452-47c5-4239-9ba2-a6cf9e931713", "PhoneName": "OPPO Reno7 Z 5G"}
+{"index": {"_index": "integration_phone", "_id": 239}}
+{"RefID": "3f1cac98-8c67-469d-8dcb-38127f951343", "PhoneName": "OPPO A95"}
+{"index": {"_index": "integration_phone", "_id": 240}}
+{"RefID": "3f5a00dc-a091-4e6a-8326-d51b9360c3cd", "PhoneName": "Itel L6502"}
+{"index": {"_index": "integration_phone", "_id": 241}}
+{"RefID": "3f8600b0-7859-43e2-96ac-4dd740a8532f", "PhoneName": "Samsung Galaxy A52s 5G 128GB"}
+{"index": {"_index": "integration_phone", "_id": 242}}
+{"RefID": "3f976e12-bc4b-4564-b9b9-dd28479068f0", "PhoneName": "iPhone 13 Pro 128GB"}
+{"index": {"_index": "integration_phone", "_id": 243}}
+{"RefID": "3facc155-7686-4e02-9448-0d2d65634e92", "PhoneName": "Samsung Galaxy S22 Ultra 5G 128GB"}
+{"index": {"_index": "integration_phone", "_id": 244}}
+{"RefID": "3fb0fb25-4793-417e-ba50-965fe0880d33", "PhoneName": "Samsung Galaxy Z Fold3 5G 256GB"}
+{"index": {"_index": "integration_phone", "_id": 245}}
+{"RefID": "3fcbbe19-d306-4e69-a486-1e0b05722e2a", "PhoneName": "Vivo Y33s"}
+{"index": {"_index": "integration_phone", "_id": 246}}
+{"RefID": "40073036-6e73-444d-8a75-c635a120b0a9", "PhoneName": "Tecno Spark 7T 4GB 64GB"}
+{"index": {"_index": "integration_phone", "_id": 247}}
+{"RefID": "40197f96-f78b-4ec2-8734-5a39123342d3", "PhoneName": "Samsung Galaxy A33 5G 6GB"}
+{"index": {"_index": "integration_phone", "_id": 248}}
+{"RefID": "405b0ea0-cec1-430a-936f-dbc7bbdc1f31", "PhoneName": "iPhone 13 Pro Max 128GB"}
+{"index": {"_index": "integration_phone", "_id": 249}}
+{"RefID": "40720717-6ee5-4d1c-ab91-cec7a8a623dd", "PhoneName": "iPhone 11 64GB (PRODUCT) (RED)"}
+{"index": {"_index": "integration_phone", "_id": 250}}
+{"RefID": "407c1bef-f130-4d99-9b46-cd6b050d5195", "PhoneName": "Vivo Y21"}
+{"index": {"_index": "integration_phone", "_id": 251}}
+{"RefID": "40c208ec-ed26-4a5c-b329-8bb2b39bb09d", "PhoneName": "iPhone 13 mini 512GB"}
+{"index": {"_index": "integration_phone", "_id": 252}}
+{"RefID": "40ceeded-5814-4dd7-8a76-a83790850ce4", "PhoneName": "iPhone 12 64GB"}
+{"index": {"_index": "integration_phone", "_id": 253}}
+{"RefID": "419a935f-89fa-44db-b55e-14625551f8e2", "PhoneName": "Samsung Galaxy S21 5G"}
+{"index": {"_index": "integration_phone", "_id": 254}}
+{"RefID": "419bdbba-8214-47d6-aa0b-29c509db7d95", "PhoneName": "Samsung Galaxy S22 Ultra 5G 256GB"}
+{"index": {"_index": "integration_phone", "_id": 255}}
+{"RefID": "43421e4d-a728-4d5c-a950-6c7c610f3178", "PhoneName": "Xiaomi Mi 11 Lite 5G"}
+{"index": {"_index": "integration_phone", "_id": 256}}
+{"RefID": "4399ac89-29a3-467c-a3ac-e188bc9ff9dc", "PhoneName": "iPhone 13 Pro 256GB"}
+{"index": {"_index": "integration_phone", "_id": 257}}
+{"RefID": "43e11fad-5230-42ab-8014-8942170eef2e", "PhoneName": "Xiaomi 11 Lite 5G NE"}
+{"index": {"_index": "integration_phone", "_id": 258}}
+{"RefID": "4406b71d-ca12-409e-b9bc-845b852a8871", "PhoneName": "OPPO A55 4GB-64GB"}
+{"index": {"_index": "integration_phone", "_id": 259}}
+{"RefID": "44461168-6027-4956-9967-54f160a966e4", "PhoneName": "Xiaomi 11 Lite 5G NE"}
+{"index": {"_index": "integration_phone", "_id": 260}}
+{"RefID": "44608946-b6b9-4c2b-a733-7b8663a3b2be", "PhoneName": "Realme 9 4G"}
+{"index": {"_index": "integration_phone", "_id": 261}}
+{"RefID": "44641c5d-27a5-43bd-9c55-56dcf5bfcfdd", "PhoneName": "Samsung Galaxy A13 4GB"}
+{"index": {"_index": "integration_phone", "_id": 262}}
+{"RefID": "45256343-f384-4ebc-b8c3-a4f541a77f6b", "PhoneName": "iPhone SE 128GB (2022)"}
+{"index": {"_index": "integration_phone", "_id": 263}}
+{"RefID": "453e3838-cd7d-4e7e-9659-db3d31b2b8f5", "PhoneName": "Samsung Galaxy S22 Ultra 5G 12GB/512GB (Đen) (Black)"}
+{"index": {"_index": "integration_phone", "_id": 264}}
+{"RefID": "4557638d-0eb3-4945-aeb9-4f1dfd3f991d", "PhoneName": "Samsung Galaxy A13 6GB"}
+{"index": {"_index": "integration_phone", "_id": 265}}
+{"RefID": "456e9a89-05df-402b-b38e-46d197c40ce8", "PhoneName": "Samsung Galaxy Z Flip3 5G"}
+{"index": {"_index": "integration_phone", "_id": 266}}
+{"RefID": "462fbff7-482a-4436-9c56-bf34e5857006", "PhoneName": "Vivo Y21s 4GB"}
+{"index": {"_index": "integration_phone", "_id": 267}}
+{"RefID": "46492fe0-b18f-4e28-bfd3-1c990960ec85", "PhoneName": "OPPO A76 6GB-128GB"}
+{"index": {"_index": "integration_phone", "_id": 268}}
+{"RefID": "464c8e56-038f-43cb-8cef-938d942c2da3", "PhoneName": "Xiaomi Mi 11 5G"}
+{"index": {"_index": "integration_phone", "_id": 269}}
+{"RefID": "466a3d3b-5db2-4160-b732-cef6b6f06c52", "PhoneName": "iPhone 12 64GB"}
+{"index": {"_index": "integration_phone", "_id": 270}}
+{"RefID": "46a70ac6-5a98-40aa-b594-6b25a55e3356", "PhoneName": "iPhone 11 128GB"}
+{"index": {"_index": "integration_phone", "_id": 271}}
+{"RefID": "46d95c10-8531-44bc-bab4-6ae780464184", "PhoneName": "Samsung Galaxy S22 5G 256GB"}
+{"index": {"_index": "integration_phone", "_id": 272}}
+{"RefID": "473b1673-d8e8-4556-806b-d3fbcd10f787", "PhoneName": "Vivo Y55"}
+{"index": {"_index": "integration_phone", "_id": 273}}
+{"RefID": "47a88511-f25c-403c-934b-c8b62b664a75", "PhoneName": "iPhone 12 128GB"}
+{"index": {"_index": "integration_phone", "_id": 274}}
+{"RefID": "47ce1a9a-5875-4601-b73f-fe8b36aefb52", "PhoneName": "Vivo Y33s 8GB - 128GB"}
+{"index": {"_index": "integration_phone", "_id": 275}}
+{"RefID": "47f0fff3-6885-465f-8ac6-a01d2aaa0ddc", "PhoneName": "Samsung Galaxy S22 Ultra 5G 128GB"}
+{"index": {"_index": "integration_phone", "_id": 276}}
+{"RefID": "4827ecb2-d58b-426e-8fcc-d66bce8090f7", "PhoneName": "Xiaomi 12 8GB - 256GB"}
+{"index": {"_index": "integration_phone", "_id": 277}}
+{"RefID": "4857cf82-935c-4059-aee5-4d1033f30967", "PhoneName": "Xiaomi 11 Lite 5G NE"}
+{"index": {"_index": "integration_phone", "_id": 278}}
+{"RefID": "4872c19e-420e-4722-a170-4789989d2a5e", "PhoneName": "Samsung Galaxy A22"}
+{"index": {"_index": "integration_phone", "_id": 279}}
+{"RefID": "4875b434-0a3c-41cb-bf9e-5d5ce2c3fb8f", "PhoneName": "Xiaomi 11 Lite 5G NE"}
+{"index": {"_index": "integration_phone", "_id": 280}}
+{"RefID": "4882ae08-0ad5-41c3-9355-d7c0cbbd3098", "PhoneName": "Samsung Galaxy A52 128GB"}
+{"index": {"_index": "integration_phone", "_id": 281}}
+{"RefID": "488a775b-3346-494c-8231-1f97976483f6", "PhoneName": "Samsung Galaxy A52 128GB"}
+{"index": {"_index": "integration_phone", "_id": 282}}
+{"RefID": "48c90d26-89d0-415b-8f4a-3a530e7b20dc", "PhoneName": "Máy tính bảng Samsung Galaxy Tab S7 128GB (Đồng) (SM-T875NZNAXXV)"}
+{"index": {"_index": "integration_phone", "_id": 283}}
+{"RefID": "48ce3145-6413-453a-a25f-b65c66b2d08a", "PhoneName": "Xiaomi 12 8GB - 256GB"}
+{"index": {"_index": "integration_phone", "_id": 284}}
+{"RefID": "48e07dd4-551c-4a68-a160-15a920b477ff", "PhoneName": "Samsung Galaxy Z Flip, 256GB (SM-F700FZKDXEV) (Đen)"}
+{"index": {"_index": "integration_phone", "_id": 285}}
+{"RefID": "49091e1f-b7d0-48e6-a37c-1cf09aa6b324", "PhoneName": "iPhone 13 512GB"}
+{"index": {"_index": "integration_phone", "_id": 286}}
+{"RefID": "49f447f5-805c-40c8-bede-441bb50ff5fa", "PhoneName": "iPhone 13 mini 512GB"}
+{"index": {"_index": "integration_phone", "_id": 287}}
+{"RefID": "4a1b8232-f5e2-462f-afb4-7d528678d712", "PhoneName": "OPPO A15s"}
+{"index": {"_index": "integration_phone", "_id": 288}}
+{"RefID": "4a2cc18d-222d-41cd-bae9-47e27e128751", "PhoneName": "Xiaomi Redmi Note 11S"}
+{"index": {"_index": "integration_phone", "_id": 289}}
+{"RefID": "4a6b3439-33e8-44ab-95cf-d12b711e4837", "PhoneName": "Vivo T1X"}
+{"index": {"_index": "integration_phone", "_id": 290}}
+{"RefID": "4b6dcbc8-1198-4b20-81e4-47abce046cd0", "PhoneName": "Samsung Galaxy Note 20 (Đồng) SM-N980FZNGXXV"}
+{"index": {"_index": "integration_phone", "_id": 291}}
+{"RefID": "4b778f7c-b652-4dae-9e66-ab65a655428d", "PhoneName": "OPPO A55 4GB-64GB"}
+{"index": {"_index": "integration_phone", "_id": 292}}
+{"RefID": "4c135bbf-7d9e-4d40-a9d8-d91f4f7ab6e6", "PhoneName": "Samsung Galaxy A33 5G 6GB"}
+{"index": {"_index": "integration_phone", "_id": 293}}
+{"RefID": "4c189b5a-3122-49bd-8803-d5e5bf5de826", "PhoneName": "Xiaomi 11 Lite 5G NE 8GB - 256GB"}
+{"index": {"_index": "integration_phone", "_id": 294}}
+{"RefID": "4c3772fc-fa77-4d3c-a4f9-c30fffba04cc", "PhoneName": "iPhone SE 64GB (2020) (Hộp mới)"}
+{"index": {"_index": "integration_phone", "_id": 295}}
+{"RefID": "4c49dfb4-e794-426f-af59-c07dde2ed333", "PhoneName": "iPhone SE 2022"}
+{"index": {"_index": "integration_phone", "_id": 296}}
+{"RefID": "4c768a09-38db-46fe-ac51-9822eb4d3f76", "PhoneName": "Xiaomi Redmi 9 3GB/32GB (Tím)"}
+{"index": {"_index": "integration_phone", "_id": 297}}
+{"RefID": "4c793d4a-9dc9-4bbf-b72b-d1a620a0181d", "PhoneName": "iPhone 13 Pro Max 1TB"}
+{"index": {"_index": "integration_phone", "_id": 298}}
+{"RefID": "4c8398c7-196d-4bad-8bc1-3a771d6faf46", "PhoneName": "Samsung Galaxy Note 20"}
+{"index": {"_index": "integration_phone", "_id": 299}}
+{"RefID": "4cc04d7e-f203-4c05-8429-7af749b18c43", "PhoneName": "OPPO A95 8GB-128GB"}
+{"index": {"_index": "integration_phone", "_id": 300}}
+{"RefID": "4d36d803-b257-4b24-9e81-56a8f2f50212", "PhoneName": "Xiaomi Redmi 9A"}
+{"index": {"_index": "integration_phone", "_id": 301}}
+{"RefID": "4da15aa4-dca0-4965-9d05-23a531d6186b", "PhoneName": "iPhone SE 64GB (2020) (Hộp mới)"}
+{"index": {"_index": "integration_phone", "_id": 302}}
+{"RefID": "4dbc554d-2190-4618-9c66-54177bbb77a7", "PhoneName": "iPhone 11 256GB"}
+{"index": {"_index": "integration_phone", "_id": 303}}
+{"RefID": "4debbe56-ba53-4c97-91bc-c732435abcb6", "PhoneName": "iPhone 11 256GB"}
+{"index": {"_index": "integration_phone", "_id": 304}}
+{"RefID": "4e011089-d8c2-415c-a08b-0f96305cbea9", "PhoneName": "Xiaomi 11 Lite 5G NE"}
+{"index": {"_index": "integration_phone", "_id": 305}}
+{"RefID": "4e1c1797-3f6d-413a-80db-4ea51a9fd462", "PhoneName": "iPhone 13 Pro Max 512GB"}
+{"index": {"_index": "integration_phone", "_id": 306}}
+{"RefID": "4e1d5104-ef74-4a73-a68b-75b00b5e3a44", "PhoneName": "iPhone 12 Pro Max 128GB Graphite MGD73VN/A"}
+{"index": {"_index": "integration_phone", "_id": 307}}
+{"RefID": "4e5164f1-41bb-4b23-8ca6-966367ce44a8", "PhoneName": "Xiaomi 11 Lite 5G NE"}
+{"index": {"_index": "integration_phone", "_id": 308}}
+{"RefID": "4e6b6422-8b5f-4bff-b1be-4d4543cb3666", "PhoneName": "iPhone 12 mini 256GB"}
+{"index": {"_index": "integration_phone", "_id": 309}}
+{"RefID": "4e9227ef-ab75-44f9-9af7-5a27081264da", "PhoneName": "Tecno Pova 2 6G 128GB"}
+{"index": {"_index": "integration_phone", "_id": 310}}
+{"RefID": "4eafe78d-1351-4f42-b6fa-b25cf6034131", "PhoneName": "Xiaomi Redmi Note 11 Pro Plus 5G"}
+{"index": {"_index": "integration_phone", "_id": 311}}
+{"RefID": "4f3e2772-f883-404b-acb3-66da734100eb", "PhoneName": "OPPO A55"}
+{"index": {"_index": "integration_phone", "_id": 312}}
+{"RefID": "4fa7cdf4-f56b-457c-b024-beb2b6a66f88", "PhoneName": "Xiaomi Redmi 9C (4GB/128GB) (Xám) (Gray)"}
+{"index": {"_index": "integration_phone", "_id": 313}}
+{"RefID": "4fc908c6-0489-4b6e-a1d0-5d4eead309ea", "PhoneName": "iPhone 13 128GB"}
+{"index": {"_index": "integration_phone", "_id": 314}}
+{"RefID": "4fdf11e5-51e5-4bc7-9805-a5e16b536b8b", "PhoneName": "Samsung Galaxy A23 4GB"}
+{"index": {"_index": "integration_phone", "_id": 315}}
+{"RefID": "4feb03dc-655b-499d-996e-1b313d6edb11", "PhoneName": "Samsung Galaxy A12 6GB (2021)"}
+{"index": {"_index": "integration_phone", "_id": 316}}
+{"RefID": "4feff4bb-e838-4e3a-af7f-226c84efa401", "PhoneName": "Vivo Y53s 8GB+3GB - 128GB"}
+{"index": {"_index": "integration_phone", "_id": 317}}
+{"RefID": "507ed3cd-887a-4c79-83a1-785825c2703f", "PhoneName": "Samsung Galaxy S22 Ultra 5G 256GB"}
+{"index": {"_index": "integration_phone", "_id": 318}}
+{"RefID": "50a55f46-e5ea-46a1-8e8b-2d5a83f8cf94", "PhoneName": "iPhone 13 Pro Max 512GB"}
+{"index": {"_index": "integration_phone", "_id": 319}}
+{"RefID": "511db7cf-4b32-4706-a5a5-97a07edc52fa", "PhoneName": "OPPO A74 5G"}
+{"index": {"_index": "integration_phone", "_id": 320}}
+{"RefID": "5194c699-e2f2-4a09-a1c1-4b4607057808", "PhoneName": "Vivo Y15s 3GB - 32GB"}
+{"index": {"_index": "integration_phone", "_id": 321}}
+{"RefID": "51b38498-e15e-49e2-841b-943f5b4b7d9e", "PhoneName": "Samsung Galaxy A03s"}
+{"index": {"_index": "integration_phone", "_id": 322}}
+{"RefID": "52073df1-6a9e-4b27-9a96-e66bb6cf045a", "PhoneName": "Xiaomi 11T Pro 5G 12GB - 256GB"}
+{"index": {"_index": "integration_phone", "_id": 323}}
+{"RefID": "52293da7-6b92-4e2f-84f4-f6ebdbc766be", "PhoneName": "Tecno Pova 2"}
+{"index": {"_index": "integration_phone", "_id": 324}}
+{"RefID": "524c66e1-6474-4aa1-bce4-9ad12488c2c5", "PhoneName": "Xiaomi Redmi Note 11 128GB"}
+{"index": {"_index": "integration_phone", "_id": 325}}
+{"RefID": "527c7ef5-e2d0-4fd3-97fa-26bd2ed80032", "PhoneName": "Xiaomi Redmi 9A"}
+{"index": {"_index": "integration_phone", "_id": 326}}
+{"RefID": "527dbe54-7f40-4b95-a4da-108ef41faeb5", "PhoneName": "iPhone 11 64GB"}
+{"index": {"_index": "integration_phone", "_id": 327}}
+{"RefID": "52870616-c3d0-48f4-9ec4-ae686a0162f7", "PhoneName": "OPPO A16"}
+{"index": {"_index": "integration_phone", "_id": 328}}
+{"RefID": "52a0916b-d767-4983-89bc-029def17b8e9", "PhoneName": "Xiaomi Redmi Note 11S"}
+{"index": {"_index": "integration_phone", "_id": 329}}
+{"RefID": "53cdaec6-000c-48fa-8736-d8e2814116b7", "PhoneName": "iPhone 13 Pro 128GB"}
+{"index": {"_index": "integration_phone", "_id": 330}}
+{"RefID": "53dd13b0-e4b8-43b8-951e-4a05536d3405", "PhoneName": "iPhone 13 Pro Max 512GB"}
+{"index": {"_index": "integration_phone", "_id": 331}}
+{"RefID": "5403dbb7-39e7-4ad8-911b-80745fd0498c", "PhoneName": "OPPO A95 8GB-128GB"}
+{"index": {"_index": "integration_phone", "_id": 332}}
+{"RefID": "5467fcd2-206e-43b0-9b15-7c3222bad0cd", "PhoneName": "TP-Link Neffos N105"}
+{"index": {"_index": "integration_phone", "_id": 333}}
+{"RefID": "549a3a3f-170f-443a-9062-93f07d87c252", "PhoneName": "Tecno Pova 2"}
+{"index": {"_index": "integration_phone", "_id": 334}}
+{"RefID": "54ded13d-3587-4eb2-bd8b-e57bc48ccb4b", "PhoneName": "Samsung Galaxy S21 FE 5G (6GB/128GB)"}
+{"index": {"_index": "integration_phone", "_id": 335}}
+{"RefID": "54f46b41-aa47-491f-85f2-853092e25e70", "PhoneName": "OPPO A55 4GB-64GB"}
+{"index": {"_index": "integration_phone", "_id": 336}}
+{"RefID": "551120bc-883a-43de-a989-244dc806038e", "PhoneName": "iPhone 13 Pro Max 1TB"}
+{"index": {"_index": "integration_phone", "_id": 337}}
+{"RefID": "5512e392-6455-4800-b435-c271f45c40c1", "PhoneName": "OPPO A16k 3GB-32GB"}
+{"index": {"_index": "integration_phone", "_id": 338}}
+{"RefID": "55649f00-5124-4bca-b4a5-ace451326f62", "PhoneName": "Samsung Galaxy A31, 128GB (SM-A315GZBWXXV) (Xanh)"}
+{"index": {"_index": "integration_phone", "_id": 339}}
+{"RefID": "5571b3a7-dc66-4c90-a7d2-dda1b15b63ce", "PhoneName": "Samsung Galaxy Z Flip3 5G 256GB"}
+{"index": {"_index": "integration_phone", "_id": 340}}
+{"RefID": "55f42134-cd56-406c-a9ec-f97ebbbea7fb", "PhoneName": "Xiaomi 11T"}
+{"index": {"_index": "integration_phone", "_id": 341}}
+{"RefID": "560a0c50-e25f-4c24-a0e5-095c5d94374b", "PhoneName": "iPhone SE 256GB (2020) (Hộp mới)"}
+{"index": {"_index": "integration_phone", "_id": 342}}
+{"RefID": "56a6659d-e7a8-4a33-a750-d29add9f4981", "PhoneName": "Samsung Galaxy S21 5G"}
+{"index": {"_index": "integration_phone", "_id": 343}}
+{"RefID": "56b62b85-ab70-4de0-98ea-db7630e644e3", "PhoneName": "iPhone 13 Pro Max 256GB"}
+{"index": {"_index": "integration_phone", "_id": 344}}
+{"RefID": "56c9fe23-09f5-4789-8210-25dd51308e87", "PhoneName": "Nokia G21 6GB-128GB\t"}
+{"index": {"_index": "integration_phone", "_id": 345}}
+{"RefID": "56d9d571-592f-41c7-be22-c8facd977751", "PhoneName": "Samsung Galaxy A53 5G 128GB"}
+{"index": {"_index": "integration_phone", "_id": 346}}
+{"RefID": "57116ce7-75ab-43dd-aba5-a1dc0c1c1239", "PhoneName": "Samsung Galaxy A33 5G 6GB"}
+{"index": {"_index": "integration_phone", "_id": 347}}
+{"RefID": "575ee70b-aa82-4b23-a621-51c5ad40f4aa", "PhoneName": "Samsung Galaxy S22 Ultra 5G 512GB"}
+{"index": {"_index": "integration_phone", "_id": 348}}
+{"RefID": "578572c9-8079-45ef-bb53-46bce186060b", "PhoneName": "Samsung Galaxy A72"}
+{"index": {"_index": "integration_phone", "_id": 349}}
+{"RefID": "57bffd50-5a77-46d1-b196-bbb3f2e3602b", "PhoneName": "OPPO Reno7 4G (8GB - 128GB)"}
+{"index": {"_index": "integration_phone", "_id": 350}}
+{"RefID": "588e0f59-6bce-4f79-979b-87fbfd40dff7", "PhoneName": "iPhone 13 mini 256GB"}
+{"index": {"_index": "integration_phone", "_id": 351}}
+{"RefID": "58948796-79cd-4970-a731-6533eed98d30", "PhoneName": "Xiaomi Redmi Note 10 Pro (8GB/128GB)"}
+{"index": {"_index": "integration_phone", "_id": 352}}
+{"RefID": "58c2ebfd-6b95-4a5a-82ee-7a2463764cfa", "PhoneName": "Samsung Galaxy A22"}
+{"index": {"_index": "integration_phone", "_id": 353}}
+{"RefID": "5986a443-a79d-498a-9597-b4fe14dfafbd", "PhoneName": "OPPO Reno7 4G (8GB - 128GB)"}
+{"index": {"_index": "integration_phone", "_id": 354}}
+{"RefID": "5994d193-94ed-4a22-a7ef-a215bd62dde7", "PhoneName": "iPhone 13 Pro Max 256GB"}
+{"index": {"_index": "integration_phone", "_id": 355}}
+{"RefID": "59e6ab9e-d1bb-46f9-a872-0377bc990954", "PhoneName": "OPPO Reno6 5G"}
+{"index": {"_index": "integration_phone", "_id": 356}}
+{"RefID": "5a125f4f-cf30-417a-85df-308c8850c59f", "PhoneName": "Samsung Galaxy Z Flip3 5G 256GB"}
+{"index": {"_index": "integration_phone", "_id": 357}}
+{"RefID": "5a9fe91a-37b8-47cb-9301-3eb4978d521b", "PhoneName": "Realme C21-Y 3GB"}
+{"index": {"_index": "integration_phone", "_id": 358}}
+{"RefID": "5ac0e38b-c04f-4d41-bbce-0202b5aaa583", "PhoneName": "Samsung Galaxy Z Flip3 5G 128GB"}
+{"index": {"_index": "integration_phone", "_id": 359}}
+{"RefID": "5ac66887-d145-4f57-bd68-01d323aa9b3a", "PhoneName": "OPPO A94 8GB-128GB"}
+{"index": {"_index": "integration_phone", "_id": 360}}
+{"RefID": "5ae7137c-d496-46fb-8c20-64fb9769142c", "PhoneName": "Nokia C30 3GB-32GB"}
+{"index": {"_index": "integration_phone", "_id": 361}}
+{"RefID": "5c1f990b-25f4-4b27-81e0-095ecfd6940a", "PhoneName": "Samsung Galaxy S21 FE 5G (8GB/128GB)"}
+{"index": {"_index": "integration_phone", "_id": 362}}
+{"RefID": "5c4c36c9-1e03-4e6c-92b5-c966a0acd4fc", "PhoneName": "Vivo Y33s"}
+{"index": {"_index": "integration_phone", "_id": 363}}
+{"RefID": "5c605c36-f121-4705-a18c-5b5a29787065", "PhoneName": "iPhone 13 Pro 256GB"}
+{"index": {"_index": "integration_phone", "_id": 364}}
+{"RefID": "5cd8363e-4401-4ac4-bf17-9abc5ec98d69", "PhoneName": "Samsung Galaxy A02S (4GB/64GB) (Đen)"}
+{"index": {"_index": "integration_phone", "_id": 365}}
+{"RefID": "5cf83496-e805-413c-b245-d69fce0c723a", "PhoneName": "Vivo Y21s 6GB"}
+{"index": {"_index": "integration_phone", "_id": 366}}
+{"RefID": "5dc8b325-072f-4abc-b55e-7e70d511696d", "PhoneName": "Tecno Pova 2"}
+{"index": {"_index": "integration_phone", "_id": 367}}
+{"RefID": "5de90a42-13d0-41a3-be37-17e3bcc0b8c7", "PhoneName": "Samsung Galaxy Z Flip3 5G 128GB"}
+{"index": {"_index": "integration_phone", "_id": 368}}
+{"RefID": "5df51d01-7a6f-4486-939b-08fc1d7eef91", "PhoneName": "Realme C25Y 64GB"}
+{"index": {"_index": "integration_phone", "_id": 369}}
+{"RefID": "5e151bd6-ac40-4629-b56a-89733ce2988b", "PhoneName": "Xiaomi 11 Lite 5G NE"}
+{"index": {"_index": "integration_phone", "_id": 370}}
+{"RefID": "5e4fecc2-3006-4996-820f-28a4977f2174", "PhoneName": "iPhone 11 256GB"}
+{"index": {"_index": "integration_phone", "_id": 371}}
+{"RefID": "5e8a8a4e-d05f-4f77-98c6-263a61e21e67", "PhoneName": "Samsung Galaxy A12 6GB (2021)"}
+{"index": {"_index": "integration_phone", "_id": 372}}
+{"RefID": "5ecc3356-88d0-418b-ade5-1e05f65575ea", "PhoneName": "OPPO A16 3GB-32GB"}
+{"index": {"_index": "integration_phone", "_id": 373}}
+{"RefID": "5ef7e14c-f40f-4ebd-8079-f9230a3ad90c", "PhoneName": "iPhone 12 128GB"}
+{"index": {"_index": "integration_phone", "_id": 374}}
+{"RefID": "5ef95ab1-3126-4a54-86d5-9f5ada063ab9", "PhoneName": "Samsung Galaxy S22 5G 128GB"}
+{"index": {"_index": "integration_phone", "_id": 375}}
+{"RefID": "5f086591-76f9-4589-b2ac-1f757891f55a", "PhoneName": "OPPO A16K"}
+{"index": {"_index": "integration_phone", "_id": 376}}
+{"RefID": "5f72d9a3-5611-4a69-a8a1-40a26155f4f2", "PhoneName": "Samsung Galaxy S21+ 5G 128GB"}
+{"index": {"_index": "integration_phone", "_id": 377}}
+{"RefID": "5fbd076c-8818-4d97-9b5d-1da5b0199c13", "PhoneName": "OPPO A95"}
+{"index": {"_index": "integration_phone", "_id": 378}}
+{"RefID": "5fde63ce-ca09-405e-a926-4ebf33b01a72", "PhoneName": "Xiaomi 11 Lite 5G NE"}
+{"index": {"_index": "integration_phone", "_id": 379}}
+{"RefID": "6051054a-b71c-4539-a226-e699e23e5164", "PhoneName": "OPPO Reno7 5G"}
+{"index": {"_index": "integration_phone", "_id": 380}}
+{"RefID": "60d56ee0-df2a-4d8b-a17b-cfca2588958c", "PhoneName": "Xiaomi Redmi Note 9s 4GB/64GB (Trắng)"}
+{"index": {"_index": "integration_phone", "_id": 381}}
+{"RefID": "60fd5d9a-b27d-4a1e-8a84-351ebd9c9e75", "PhoneName": "Xiaomi Redmi 10C 128GB"}
+{"index": {"_index": "integration_phone", "_id": 382}}
+{"RefID": "61144037-9bec-4420-b11a-bb1fb3466e1c", "PhoneName": "Vivo Y33s"}
+{"index": {"_index": "integration_phone", "_id": 383}}
+{"RefID": "6122e1da-b4af-49be-9310-99e3102f98e6", "PhoneName": "Xiaomi 11T"}
+{"index": {"_index": "integration_phone", "_id": 384}}
+{"RefID": "6126481c-091e-4cdd-9263-151b8435741a", "PhoneName": "Realme 9 Pro 5G 8G-128GB"}
+{"index": {"_index": "integration_phone", "_id": 385}}
+{"RefID": "6143c197-5653-409b-aaca-9db0f4c60432", "PhoneName": "Samsung Galaxy Note 20 Ultra 5G"}
+{"index": {"_index": "integration_phone", "_id": 386}}
+{"RefID": "6162aefb-38da-4812-81b4-cc38a1cc487c", "PhoneName": "Samsung Galaxy S22 5G 128GB"}
+{"index": {"_index": "integration_phone", "_id": 387}}
+{"RefID": "616beaf7-d5c3-4465-8296-2e999aaf678d", "PhoneName": "Samsung Galaxy A12 4GB (2021)"}
+{"index": {"_index": "integration_phone", "_id": 388}}
+{"RefID": "6217f1a7-480c-47fc-826c-a2e827a65655", "PhoneName": "iPhone 13 Pro Max 1TB"}
+{"index": {"_index": "integration_phone", "_id": 389}}
+{"RefID": "622f7da0-e581-48ea-9bec-d36fb75640d3", "PhoneName": "OPPO Reno5 5G"}
+{"index": {"_index": "integration_phone", "_id": 390}}
+{"RefID": "6262b73a-f933-407e-a3b0-d6cb38f28411", "PhoneName": "Nokia C20"}
+{"index": {"_index": "integration_phone", "_id": 391}}
+{"RefID": "62dd1a3b-743e-4772-9ce2-ce07bec8639c", "PhoneName": "Xiaomi Redmi Note 11 Pro"}
+{"index": {"_index": "integration_phone", "_id": 392}}
+{"RefID": "640464e1-0594-4716-8c16-eac8da132708", "PhoneName": "Vivo Y33s"}
+{"index": {"_index": "integration_phone", "_id": 393}}
+{"RefID": "64397eb5-25a0-49dc-87fa-8556342771e3", "PhoneName": "Xiaomi Redmi 9C (3GB/64GB)"}
+{"index": {"_index": "integration_phone", "_id": 394}}
+{"RefID": "64700fd7-2071-48ad-a95f-a1e519944eb6", "PhoneName": "Xiaomi Redmi 9C"}
+{"index": {"_index": "integration_phone", "_id": 395}}
+{"RefID": "64ba9dfa-9194-4fd2-94b4-d3a8d7d6d8cd", "PhoneName": "Samsung Galaxy Z Flip3 5G 128GB"}
+{"index": {"_index": "integration_phone", "_id": 396}}
+{"RefID": "64f89d79-8cc4-477c-bc93-9eaa46724b02", "PhoneName": "Vivo Y15a"}
+{"index": {"_index": "integration_phone", "_id": 397}}
+{"RefID": "653c44e5-fa4b-4b58-810f-085a28ac41b5", "PhoneName": "iPhone 11 128GB"}
+{"index": {"_index": "integration_phone", "_id": 398}}
+{"RefID": "655cf312-5dd8-4ab9-8654-5431edb2ba2f", "PhoneName": "Samsung Galaxy S21+ 5G 128GB"}
+{"index": {"_index": "integration_phone", "_id": 399}}
+{"RefID": "65a0005b-9ba6-4058-86d7-a395cd983fa7", "PhoneName": "Samsung Galaxy Note 20 Ultra 5G"}
+{"index": {"_index": "integration_phone", "_id": 400}}
+{"RefID": "65afc280-5a71-4439-a701-0e71093c1fc9", "PhoneName": "Realme 9 4G"}
+{"index": {"_index": "integration_phone", "_id": 401}}
+{"RefID": "65f2f106-a888-4344-b08c-6dc24dd6a7d6", "PhoneName": "Xiaomi 11 Lite 5G NE"}
+{"index": {"_index": "integration_phone", "_id": 402}}
+{"RefID": "66037858-f811-4dd8-8171-03593a9cc502", "PhoneName": "Samsung Galaxy S21 5G"}
+{"index": {"_index": "integration_phone", "_id": 403}}
+{"RefID": "661eeeae-f87d-4840-8066-4cef49ca4d8c", "PhoneName": "iPhone 13 256GB"}
+{"index": {"_index": "integration_phone", "_id": 404}}
+{"RefID": "666faf4c-526f-46d8-b8bd-108d5e0c2319", "PhoneName": "iPhone 13 128GB"}
+{"index": {"_index": "integration_phone", "_id": 405}}
+{"RefID": "66e5b3c5-2c58-48db-8f59-dfa0dccf8146", "PhoneName": "Samsung Galaxy S22 Plus (8GB + 128GB)"}
+{"index": {"_index": "integration_phone", "_id": 406}}
+{"RefID": "67e36bd9-d971-4a7a-a54b-ed4f592d04d0", "PhoneName": "iPhone 12 mini 128GB"}
+{"index": {"_index": "integration_phone", "_id": 407}}
+{"RefID": "67e81076-37d0-4d00-9391-e38bb40d8b8f", "PhoneName": "Samsung Galaxy A73 5G 128GB"}
+{"index": {"_index": "integration_phone", "_id": 408}}
+{"RefID": "68012f46-24c8-4ab8-953e-eb866128cbde", "PhoneName": "Samsung Galaxy M33 5G"}
+{"index": {"_index": "integration_phone", "_id": 409}}
+{"RefID": "683cdcbf-938f-4cd2-b1f6-84c27705a3de", "PhoneName": "TECNO SPARK 7 2GB-32GB"}
+{"index": {"_index": "integration_phone", "_id": 410}}
+{"RefID": "68643ab6-3223-4192-abcd-ce71e54b5f1f", "PhoneName": "Samsung Galaxy M53"}
+{"index": {"_index": "integration_phone", "_id": 411}}
+{"RefID": "68ae7b08-9184-4a7d-be2a-2c49bddeace1", "PhoneName": "Vsmart Aris Pro"}
+{"index": {"_index": "integration_phone", "_id": 412}}
+{"RefID": "68d23cb2-1de6-44ed-9035-2d9a05831a06", "PhoneName": "Samsung Galaxy A52s 5G 128GB"}
+{"index": {"_index": "integration_phone", "_id": 413}}
+{"RefID": "691b98c2-d74e-4805-bbd2-6e36ffa82721", "PhoneName": "Xiaomi 12 Pro (5G)"}
+{"index": {"_index": "integration_phone", "_id": 414}}
+{"RefID": "6934a5a0-397d-4c10-a5ed-a2e1693a7caf", "PhoneName": "Samsung Galaxy A32"}
+{"index": {"_index": "integration_phone", "_id": 415}}
+{"RefID": "69b37b23-eae8-40b4-a3f5-282f22482b40", "PhoneName": "Xiaomi 11 Lite 5G NE"}
+{"index": {"_index": "integration_phone", "_id": 416}}
+{"RefID": "6a2510a5-1a2f-480f-aa34-c6d4e93ad486", "PhoneName": "Xiaomi Redmi Note 10 Pro (8GB/128GB)"}
+{"index": {"_index": "integration_phone", "_id": 417}}
+{"RefID": "6b213cc1-aa65-4ec4-b018-9149c7179b92", "PhoneName": "Samsung Galaxy Note 20"}
+{"index": {"_index": "integration_phone", "_id": 418}}
+{"RefID": "6b8e7694-ddd9-4b14-9242-358e0ab78a38", "PhoneName": "Vsmart Aris 8GB 128GB"}
+{"index": {"_index": "integration_phone", "_id": 419}}
+{"RefID": "6b8e7994-3b57-44fe-9a21-be2990114fe0", "PhoneName": "Vivo Y33s 8GB - 128GB"}
+{"index": {"_index": "integration_phone", "_id": 420}}
+{"RefID": "6be0b282-c930-432d-b1aa-a0e70e5f9813", "PhoneName": "Xiaomi Mi 11 Lite"}
+{"index": {"_index": "integration_phone", "_id": 421}}
+{"RefID": "6c3342ec-4c7d-415d-a494-3f67e495f9dd", "PhoneName": "iPhone 11 128GB"}
+{"index": {"_index": "integration_phone", "_id": 422}}
+{"RefID": "6c6702fd-8d38-4432-886c-edcd0527675a", "PhoneName": "iPhone 13 mini 128GB"}
+{"index": {"_index": "integration_phone", "_id": 423}}
+{"RefID": "6c851245-8b98-4bf0-9ac0-cfa65bdf67a8", "PhoneName": "Samsung Galaxy A33 5G 6GB"}
+{"index": {"_index": "integration_phone", "_id": 424}}
+{"RefID": "6cf9699e-5adb-4609-b7ba-b0735a752dde", "PhoneName": "OPPO A16"}
+{"index": {"_index": "integration_phone", "_id": 425}}
+{"RefID": "6cfceb6f-8d3d-42f7-bf36-a38b91e0cd4f", "PhoneName": "Xiaomi Redmi Note 11S 6GB - 128GB"}
+{"index": {"_index": "integration_phone", "_id": 426}}
+{"RefID": "6d112024-151a-4cbc-98ef-f303ed36119d", "PhoneName": "Samsung Galaxy S22 Ultra (8GB - 128GB)"}
+{"index": {"_index": "integration_phone", "_id": 427}}
+{"RefID": "6d478a21-7d88-4fde-9036-02e89c003358", "PhoneName": "OPPO A16k 3GB-32GB"}
+{"index": {"_index": "integration_phone", "_id": 428}}
+{"RefID": "6def09e7-a967-4974-a43d-bc55b3f0db3e", "PhoneName": "OPPO A55"}
+{"index": {"_index": "integration_phone", "_id": 429}}
+{"RefID": "6df6e8b8-14b0-4f0c-b0ef-e4c3f287fbb4", "PhoneName": "iPhone 13 Pro 1TB"}
+{"index": {"_index": "integration_phone", "_id": 430}}
+{"RefID": "6eb01e13-b7f0-4976-95e2-2f9adf451de0", "PhoneName": "OPPO A55 4GB-64GB"}
+{"index": {"_index": "integration_phone", "_id": 431}}
+{"RefID": "6f0a3fca-de47-4a62-9e8e-00dcef1985a3", "PhoneName": "iPhone 12 Pro 256GB"}
+{"index": {"_index": "integration_phone", "_id": 432}}
+{"RefID": "6f523bf5-f355-42bb-b1c1-e43301bf2f2c", "PhoneName": "Xiaomi Mi 11 Lite"}
+{"index": {"_index": "integration_phone", "_id": 433}}
+{"RefID": "6f59ec25-0749-41cf-a8c2-6db18dff6e41", "PhoneName": "Xiaomi Redmi 10 (2022)"}
+{"index": {"_index": "integration_phone", "_id": 434}}
+{"RefID": "6f769b18-f84d-4149-ac26-ad80299e3676", "PhoneName": "Samsung Galaxy A03s"}
+{"index": {"_index": "integration_phone", "_id": 435}}
+{"RefID": "6f9995d8-e726-4712-a389-2ad25a357937", "PhoneName": "Realme C25Y 128GB"}
+{"index": {"_index": "integration_phone", "_id": 436}}
+{"RefID": "705bedc4-4f3e-486a-8657-2c915fffa5a1", "PhoneName": "Xiaomi 12 8GB - 256GB"}
+{"index": {"_index": "integration_phone", "_id": 437}}
+{"RefID": "705e76e1-012c-41ce-ac63-a1ac0bd94887", "PhoneName": "Samsung Galaxy S22 Ultra 5G 12GB/256GB (Xanh lá) (Green)"}
+{"index": {"_index": "integration_phone", "_id": 438}}
+{"RefID": "705f1fb9-8d79-4bf8-91e9-479f59ed9d07", "PhoneName": "iPhone 13 512GB"}
+{"index": {"_index": "integration_phone", "_id": 439}}
+{"RefID": "707ff75b-6325-49f5-8659-75ba28e10d75", "PhoneName": "OPPO Find X5 Pro 5G"}
+{"index": {"_index": "integration_phone", "_id": 440}}
+{"RefID": "709d186a-3efa-4d48-bb77-bcb39b46933c", "PhoneName": "Xiaomi Poco F2 Pro 6GB/128GB (Trắng)"}
+{"index": {"_index": "integration_phone", "_id": 441}}
+{"RefID": "70c1a746-5690-49ea-8f62-6a4b15a40a68", "PhoneName": "Samsung Galaxy S22 Ultra 5G 512GB"}
+{"index": {"_index": "integration_phone", "_id": 442}}
+{"RefID": "70d86597-8c62-4a09-9771-11447d557470", "PhoneName": "Vivo Y21s 4GB"}
+{"index": {"_index": "integration_phone", "_id": 443}}
+{"RefID": "7105579e-bae9-4304-b04f-0b16f56cdeff", "PhoneName": "Xiaomi Redmi Note 10 Pro (8GB/128GB)"}
+{"index": {"_index": "integration_phone", "_id": 444}}
+{"RefID": "710f0331-019a-41d7-b1b1-bab26b712e49", "PhoneName": "Xiaomi Mi 11 Lite"}
+{"index": {"_index": "integration_phone", "_id": 445}}
+{"RefID": "710f8783-0097-4055-a96e-435499a90c21", "PhoneName": "Samsung Galaxy S21 FE 5G (8GB/128GB)"}
+{"index": {"_index": "integration_phone", "_id": 446}}
+{"RefID": "7136e577-b87f-4547-8b53-2cbdca60acf0", "PhoneName": "Samsung Galaxy S21 FE 5G 6GB - 128GB"}
+{"index": {"_index": "integration_phone", "_id": 447}}
+{"RefID": "71710a1c-14d3-4f8b-95a5-6b99e777b69b", "PhoneName": "Samsung Galaxy A23 6GB"}
+{"index": {"_index": "integration_phone", "_id": 448}}
+{"RefID": "71b97cbc-bcde-4439-8a7c-62fa870a8edb", "PhoneName": "Nokia C21 Plus 3GB 64GB"}
+{"index": {"_index": "integration_phone", "_id": 449}}
+{"RefID": "71d9d8b9-6434-4375-b353-5d4fd9bfc992", "PhoneName": "Samsung Galaxy A52s 5G 128GB"}
+{"index": {"_index": "integration_phone", "_id": 450}}
+{"RefID": "720841a1-807f-4e59-9904-0ba22a8f9fe7", "PhoneName": "Itel L6502"}
+{"index": {"_index": "integration_phone", "_id": 451}}
+{"RefID": "722ae0b6-474e-4444-afba-947f54c1da4a", "PhoneName": "Nokia C21 Plus 3GB 32GB"}
+{"index": {"_index": "integration_phone", "_id": 452}}
+{"RefID": "7251fbcc-9aea-45c8-b3b4-956b427b71ea", "PhoneName": "Samsung Galaxy A22"}
+{"index": {"_index": "integration_phone", "_id": 453}}
+{"RefID": "728d38ae-c163-4186-b281-21489b56cac4", "PhoneName": "Samsung Galaxy A32"}
+{"index": {"_index": "integration_phone", "_id": 454}}
+{"RefID": "7296746a-6802-419a-a410-f21588631927", "PhoneName": "Samsung Galaxy A13 6GB"}
+{"index": {"_index": "integration_phone", "_id": 455}}
+{"RefID": "72d2e2ae-b1d9-46ea-8770-0460aa8625b2", "PhoneName": "Xiaomi Redmi Note 11 (4GB/128GB)"}
+{"index": {"_index": "integration_phone", "_id": 456}}
+{"RefID": "72e30212-e20d-4324-a4a6-4a080a5275d8", "PhoneName": "iPhone 13 512GB"}
+{"index": {"_index": "integration_phone", "_id": 457}}
+{"RefID": "733527d8-628b-4242-9687-4b2248058672", "PhoneName": "Samsung Galaxy M33 5G"}
+{"index": {"_index": "integration_phone", "_id": 458}}
+{"RefID": "739af515-0d37-4a38-95f6-eb09e9a9fd95", "PhoneName": "Samsung Galaxy A33 5G 6GB"}
+{"index": {"_index": "integration_phone", "_id": 459}}
+{"RefID": "73fed600-c0f7-4976-b85c-8cfe46317c03", "PhoneName": "Realme C11 (2021) 2GB/32GB"}
+{"index": {"_index": "integration_phone", "_id": 460}}
+{"RefID": "7426598e-101c-4216-adcb-2d363111b3a2", "PhoneName": "Samsung Galaxy S21 FE 5G 6GB - 128GB"}
+{"index": {"_index": "integration_phone", "_id": 461}}
+{"RefID": "742fbef2-b625-4009-91fb-a46e37bc416d", "PhoneName": "Vivo Y33s"}
+{"index": {"_index": "integration_phone", "_id": 462}}
+{"RefID": "744c1920-16d6-4418-b095-7936588f6b13", "PhoneName": "Samsung Galaxy S22 Ultra 5G 8GB/128GB (Trắng) (White)"}
+{"index": {"_index": "integration_phone", "_id": 463}}
+{"RefID": "745843d2-69f2-49ab-8505-2293e1f9aefc", "PhoneName": "OPPO Find X3 Pro 5G"}
+{"index": {"_index": "integration_phone", "_id": 464}}
+{"RefID": "745c2468-23ed-482d-b97c-a96e09fd4454", "PhoneName": "OPPO A76"}
+{"index": {"_index": "integration_phone", "_id": 465}}
+{"RefID": "7471a002-c29b-4b1f-81ce-d3c7503b20f9", "PhoneName": "Xiaomi 12 8GB - 256GB"}
+{"index": {"_index": "integration_phone", "_id": 466}}
+{"RefID": "74810db4-2dce-4e52-b54c-799b00878709", "PhoneName": "Samsung Galaxy A13 6GB"}
+{"index": {"_index": "integration_phone", "_id": 467}}
+{"RefID": "74ff2c09-01e7-480b-b0e2-a8e15c83ac50", "PhoneName": "OPPO A55 4GB-64GB"}
+{"index": {"_index": "integration_phone", "_id": 468}}
+{"RefID": "750d4f7f-b203-4d4b-a996-bf3847d45373", "PhoneName": "iPhone 13 Pro Max 512GB"}
+{"index": {"_index": "integration_phone", "_id": 469}}
+{"RefID": "767b4a21-90e0-4b22-b4a5-ab2f9a32e751", "PhoneName": "Xiaomi 11T Pro"}
+{"index": {"_index": "integration_phone", "_id": 470}}
+{"RefID": "76938ef5-edf0-4825-a096-1ce7da573d97", "PhoneName": "Samsung Galaxy A32"}
+{"index": {"_index": "integration_phone", "_id": 471}}
+{"RefID": "76b111ed-1c06-4e50-afd2-4adffc5fc26a", "PhoneName": "Xiaomi Redmi Note 11 Pro Plus 5G"}
+{"index": {"_index": "integration_phone", "_id": 472}}
+{"RefID": "76e1b76e-6f50-452e-8335-3e3e25a337c5", "PhoneName": "Nokia G11"}
+{"index": {"_index": "integration_phone", "_id": 473}}
+{"RefID": "76fbbaa5-9581-44d4-a910-27cd16cb3687", "PhoneName": "Xiaomi Redmi 9T (4+64G) (Xám)"}
+{"index": {"_index": "integration_phone", "_id": 474}}
+{"RefID": "7736a216-68a5-4814-a958-ecf41de6e352", "PhoneName": "iPhone 13 Pro 128GB"}
+{"index": {"_index": "integration_phone", "_id": 475}}
+{"RefID": "7785d735-b327-4cee-b80b-14f737360cbb", "PhoneName": "Samsung Galaxy S21 FE 5G (8GB/256GB)"}
+{"index": {"_index": "integration_phone", "_id": 476}}
+{"RefID": "77e76e59-fc26-4b1f-8f78-f9d256890674", "PhoneName": "OPPO A74 5G"}
+{"index": {"_index": "integration_phone", "_id": 477}}
+{"RefID": "77eb1c72-e9ad-42ac-986a-4107fd193eab", "PhoneName": "Realme C11 (2021) 2GB/32GB"}
+{"index": {"_index": "integration_phone", "_id": 478}}
+{"RefID": "78f5eef4-b288-48b6-8a16-512e767db745", "PhoneName": "Samsung Galaxy S22+ 5G 256GB"}
+{"index": {"_index": "integration_phone", "_id": 479}}
+{"RefID": "796d9dbf-c5af-45bc-adea-577e5bfbfcc1", "PhoneName": "Vivo Y15s"}
+{"index": {"_index": "integration_phone", "_id": 480}}
+{"RefID": "79f6711b-0401-48e3-a684-972ef616cf4a", "PhoneName": "Nokia C20 2GB 16GB"}
+{"index": {"_index": "integration_phone", "_id": 481}}
+{"RefID": "7a78d238-8382-40e4-aec8-4d42f4768391", "PhoneName": "iPhone 12 256GB"}
+{"index": {"_index": "integration_phone", "_id": 482}}
+{"RefID": "7aabf785-b08b-4fc5-90cd-c1d32c727bab", "PhoneName": "iPhone 12 256GB"}
+{"index": {"_index": "integration_phone", "_id": 483}}
+{"RefID": "7b0fa313-0b3b-4822-9b41-d9c46c992d89", "PhoneName": "Samsung Galaxy A32"}
+{"index": {"_index": "integration_phone", "_id": 484}}
+{"RefID": "7b5ef0b3-b01c-4e3a-b2df-0e01edc0f98c", "PhoneName": "Samsung Galaxy Note 10+ (Aura Glow)"}
+{"index": {"_index": "integration_phone", "_id": 485}}
+{"RefID": "7b5fc32d-6e75-49c4-b0bc-1e31012d5aa9", "PhoneName": "iPhone 13 Pro 256GB"}
+{"index": {"_index": "integration_phone", "_id": 486}}
+{"RefID": "7b67ffef-5dfc-4b8b-8906-bf3960228dc9", "PhoneName": "iPhone 13 256GB"}
+{"index": {"_index": "integration_phone", "_id": 487}}
+{"RefID": "7b8c94cb-480e-40db-972e-9c254b3bd181", "PhoneName": "Realme C25s"}
+{"index": {"_index": "integration_phone", "_id": 488}}
+{"RefID": "7c0fe20b-c480-4b76-9b13-d2bf4cf0a026", "PhoneName": "iPhone 11 64GB"}
+{"index": {"_index": "integration_phone", "_id": 489}}
+{"RefID": "7c13ceeb-eded-4ade-a968-5e3166ece581", "PhoneName": "Samsung Galaxy Note 20"}
+{"index": {"_index": "integration_phone", "_id": 490}}
+{"RefID": "7c1a89e0-b7b6-4c59-9b73-a0a288696dc9", "PhoneName": "Samsung Galaxy A22"}
+{"index": {"_index": "integration_phone", "_id": 491}}
+{"RefID": "7d40b8d4-0515-4222-9f76-134b1b9dc05b", "PhoneName": "iPhone 13 128GB Midnight (MLPF3VN/A) (Midnight)"}
+{"index": {"_index": "integration_phone", "_id": 492}}
+{"RefID": "7da9ae8f-3677-47a0-a5a3-cd4264c3a7cf", "PhoneName": "Realme 9i (4GB/64GB)"}
+{"index": {"_index": "integration_phone", "_id": 493}}
+{"RefID": "7e7d7d9d-3731-4c19-9b0f-842ab860a77b", "PhoneName": "Xiaomi Redmi Note 11S"}
+{"index": {"_index": "integration_phone", "_id": 494}}
+{"RefID": "7ebe3086-bc11-495e-bf5a-731d852fa162", "PhoneName": "iPhone 13 mini 128GB"}
+{"index": {"_index": "integration_phone", "_id": 495}}
+{"RefID": "7f110504-fe73-4db8-8ddc-70de595634d4", "PhoneName": "Realme 9 Pro Plus"}
+{"index": {"_index": "integration_phone", "_id": 496}}
+{"RefID": "7f394991-47fd-4ac7-ae21-7b2c578fb31d", "PhoneName": "Itel L6502"}
+{"index": {"_index": "integration_phone", "_id": 497}}
+{"RefID": "7f3bf325-2a9f-46ff-a6c7-cf297705be6c", "PhoneName": "Xiaomi Redmi Note 10 Pro (8GB/128GB)"}
+{"index": {"_index": "integration_phone", "_id": 498}}
+{"RefID": "7f867985-1854-4486-9b6f-34af2e9e1da3", "PhoneName": "Samsung Galaxy M33 5G"}
+{"index": {"_index": "integration_phone", "_id": 499}}
+{"RefID": "802b6d3e-2a7d-4692-a056-20923661b5ea", "PhoneName": "TECNO SPARK 7 2GB-32GB"}
+{"index": {"_index": "integration_phone", "_id": 500}}
+{"RefID": "804e2255-db1e-496d-b9b0-1380d99d4680", "PhoneName": "Samsung Galaxy A53 5G 128GB"}
+{"index": {"_index": "integration_phone", "_id": 501}}
+{"RefID": "806b136b-dbe3-400e-986c-904b1eba0855", "PhoneName": "OPPO A16k 3GB-32GB"}
+{"index": {"_index": "integration_phone", "_id": 502}}
+{"RefID": "8074adda-849c-4e6f-a01d-70d41b804f86", "PhoneName": "Samsung Galaxy S20 FE 256GB"}
+{"index": {"_index": "integration_phone", "_id": 503}}
+{"RefID": "807e2033-d6d5-4820-9b4c-9b68a12a6557", "PhoneName": "iPhone 12 mini 256GB"}
+{"index": {"_index": "integration_phone", "_id": 504}}
+{"RefID": "80ecc620-3442-4386-96bc-b1a0d4ed4a48", "PhoneName": "Vivo V23e 8GB - 128GB"}
+{"index": {"_index": "integration_phone", "_id": 505}}
+{"RefID": "80ef1c80-534b-49ec-816c-f0908f0cbe75", "PhoneName": "Nokia C21 Plus 3GB 64GB"}
+{"index": {"_index": "integration_phone", "_id": 506}}
+{"RefID": "8138618a-fa93-4691-a9eb-1788cd792784", "PhoneName": "Xiaomi Redmi 10 (4GB/128GB) (Xanh dương) (Blue)"}
+{"index": {"_index": "integration_phone", "_id": 507}}
+{"RefID": "814f7845-35be-4584-980c-95e6f1854fa6", "PhoneName": "Samsung Galaxy A32"}
+{"index": {"_index": "integration_phone", "_id": 508}}
+{"RefID": "8209fc66-7420-4410-a706-df26d75f50c2", "PhoneName": "OPPO A16K"}
+{"index": {"_index": "integration_phone", "_id": 509}}
+{"RefID": "82553d8d-e02a-4491-8fd6-6d3029da49f9", "PhoneName": "OPPO A16 3GB-32GB"}
+{"index": {"_index": "integration_phone", "_id": 510}}
+{"RefID": "830675a6-7144-431b-bd3c-84a2d95ba220", "PhoneName": "TECNO SPARK 7 2GB-32GB"}
+{"index": {"_index": "integration_phone", "_id": 511}}
+{"RefID": "8363cab0-5d80-4ba1-a9d5-86afb77a0f9a", "PhoneName": "OPPO Reno6 Pro 5G"}
+{"index": {"_index": "integration_phone", "_id": 512}}
+{"RefID": "83d0bf7b-5e14-4173-ace3-66f741af7350", "PhoneName": "Nokia C20 2GB - 32GB"}
+{"index": {"_index": "integration_phone", "_id": 513}}
+{"RefID": "83f7a630-9098-42fa-86dd-fb90bb61dc61", "PhoneName": "Samsung Galaxy A03 3GB"}
+{"index": {"_index": "integration_phone", "_id": 514}}
+{"RefID": "8418d787-13cd-40ff-98cd-bbac4c8cc5d7", "PhoneName": "iPhone SE 64GB (2022)"}
+{"index": {"_index": "integration_phone", "_id": 515}}
+{"RefID": "84b1f0c8-505a-4ce8-991a-bf03d41fc724", "PhoneName": "Samsung Galaxy A30s (Xanh)"}
+{"index": {"_index": "integration_phone", "_id": 516}}
+{"RefID": "84c3a754-7602-4379-a375-151ad3481a05", "PhoneName": "iPhone 13 Pro Max 128GB"}
+{"index": {"_index": "integration_phone", "_id": 517}}
+{"RefID": "84e2698f-db4f-402a-bd93-5c9e20cb0dd4", "PhoneName": "Realme 9 4G"}
+{"index": {"_index": "integration_phone", "_id": 518}}
+{"RefID": "8503b269-8850-45f3-9ee5-80ed57ae861d", "PhoneName": "OPPO A16K"}
+{"index": {"_index": "integration_phone", "_id": 519}}
+{"RefID": "8675846f-d0ac-4ed2-9e5f-60952f17e65d", "PhoneName": "iPhone 13 Pro Max 1TB"}
+{"index": {"_index": "integration_phone", "_id": 520}}
+{"RefID": "86d313f6-fbc8-4455-b165-c1f14d73183d", "PhoneName": "Xiaomi Redmi Note 9s 4GB/64GB (Xanh)"}
+{"index": {"_index": "integration_phone", "_id": 521}}
+{"RefID": "87633b07-49ed-41f3-8662-5ff5544f4e7a", "PhoneName": "Samsung Galaxy M33 5G"}
+{"index": {"_index": "integration_phone", "_id": 522}}
+{"RefID": "878bbaa7-a923-47ee-a4cd-cc6977ab5b1e", "PhoneName": "iPhone 13 256GB"}
+{"index": {"_index": "integration_phone", "_id": 523}}
+{"RefID": "87b2546f-42c2-41f2-bfdf-8ec95c2e20d9", "PhoneName": "Samsung Galaxy A33 5G 6GB"}
+{"index": {"_index": "integration_phone", "_id": 524}}
+{"RefID": "87b6806f-9ff1-4128-9eca-9ec3c1f6f461", "PhoneName": "Samsung Galaxy S20 FE 256GB"}
+{"index": {"_index": "integration_phone", "_id": 525}}
+{"RefID": "87c6d707-da44-4361-a7d4-68f9eec5b10b", "PhoneName": "Xiaomi Redmi 10 (6GB/128GB)"}
+{"index": {"_index": "integration_phone", "_id": 526}}
+{"RefID": "87cf739a-0ca6-452e-8c28-edcfeec6fd28", "PhoneName": "Xiaomi Redmi 9A 2GB-32GB"}
+{"index": {"_index": "integration_phone", "_id": 527}}
+{"RefID": "88038f2b-60cd-4643-8ce4-eab7dd09fdd5", "PhoneName": "Realme 9 Pro 5G"}
+{"index": {"_index": "integration_phone", "_id": 528}}
+{"RefID": "881a2050-f7e9-4d05-9dac-8cce2fb910f5", "PhoneName": "Samsung Galaxy Z Fold3 5G 512GB"}
+{"index": {"_index": "integration_phone", "_id": 529}}
+{"RefID": "8824ae38-984b-446a-8962-74683bcea0ac", "PhoneName": "Itel L6006"}
+{"index": {"_index": "integration_phone", "_id": 530}}
+{"RefID": "88669ad4-71b7-441e-8ee1-4e24868a5d02", "PhoneName": "Xiaomi Redmi 9A 2GB-32GB"}
+{"index": {"_index": "integration_phone", "_id": 531}}
+{"RefID": "886dbd9f-776e-4971-86fa-cd5323faf408", "PhoneName": "Nokia C30"}
+{"index": {"_index": "integration_phone", "_id": 532}}
+{"RefID": "88e10078-a194-4724-9b98-6749baaa0a9b", "PhoneName": "Xiaomi 11 Lite 5G NE"}
+{"index": {"_index": "integration_phone", "_id": 533}}
+{"RefID": "89105823-4ddb-4c65-9786-7db787464c36", "PhoneName": "Tecno Pova Neo (4GB - 64GB)"}
+{"index": {"_index": "integration_phone", "_id": 534}}
+{"RefID": "897978cd-ce6b-41b0-93ee-cac23b47eab3", "PhoneName": "Xiaomi Redmi Note 10S 8GB"}
+{"index": {"_index": "integration_phone", "_id": 535}}
+{"RefID": "89fc4e37-8836-4c08-b596-7fa9db3fb363", "PhoneName": "iPhone 12 mini 64GB"}
+{"index": {"_index": "integration_phone", "_id": 536}}
+{"RefID": "8a499cd9-e526-4593-9458-abc7ff1a758b", "PhoneName": "Realme C21Y 3GB"}
+{"index": {"_index": "integration_phone", "_id": 537}}
+{"RefID": "8a54d3ee-f939-43db-94eb-3bb4e843c7ff", "PhoneName": "OPPO Reno7 4G (8GB - 128GB)"}
+{"index": {"_index": "integration_phone", "_id": 538}}
+{"RefID": "8a7f7a7d-8b3d-4be9-9384-21c0495dd881", "PhoneName": "Vivo Y21"}
+{"index": {"_index": "integration_phone", "_id": 539}}
+{"RefID": "8afedb50-a9ec-4995-8837-e53941039a23", "PhoneName": "iPhone 13 Pro Max 128GB"}
+{"index": {"_index": "integration_phone", "_id": 540}}
+{"RefID": "8affeac5-91d4-4cc1-8b3b-10c9e5bde07d", "PhoneName": "Samsung Galaxy M53"}
+{"index": {"_index": "integration_phone", "_id": 541}}
+{"RefID": "8b2a1229-b968-4f8d-887a-11855d9e81c6", "PhoneName": "Samsung Galaxy S22 Ultra 5G 256GB"}
+{"index": {"_index": "integration_phone", "_id": 542}}
+{"RefID": "8b2c2b00-90bd-4910-b6aa-a7514dda30d1", "PhoneName": "OPPO Reno7 Z 5G"}
+{"index": {"_index": "integration_phone", "_id": 543}}
+{"RefID": "8b2d02c0-0ee2-4713-bf82-d3f15d9b6044", "PhoneName": "Xiaomi Redmi Note 11 (4GB/128GB)"}
+{"index": {"_index": "integration_phone", "_id": 544}}
+{"RefID": "8b766eea-b67a-4769-bc37-e652f55c446c", "PhoneName": "iPhone 12 Pro Max 512GB"}
+{"index": {"_index": "integration_phone", "_id": 545}}
+{"RefID": "8b9d6f4d-b88c-44b7-bff7-54ef6f00a593", "PhoneName": "iPhone 12 mini 64GB Black MGDX3VN/A"}
+{"index": {"_index": "integration_phone", "_id": 546}}
+{"RefID": "8c5a2ba4-b2ae-4659-a239-fe759873c63e", "PhoneName": "Samsung Galaxy S20 FE (8GB/256GB)"}
+{"index": {"_index": "integration_phone", "_id": 547}}
+{"RefID": "8c613d63-243d-47d9-ba9c-62a9601c7cb5", "PhoneName": "OPPO A76"}
+{"index": {"_index": "integration_phone", "_id": 548}}
+{"RefID": "8c7b6dd0-a34a-4fbd-bbd6-6852ba8369b0", "PhoneName": "Samsung Galaxy S22+ 5G 256GB"}
+{"index": {"_index": "integration_phone", "_id": 549}}
+{"RefID": "8ce8457b-e8b0-4401-819b-8a9ccc2cacbe", "PhoneName": "OPPO A16k 3GB-32GB"}
+{"index": {"_index": "integration_phone", "_id": 550}}
+{"RefID": "8d3199c6-3a10-470e-a9b1-f12af5bdba42", "PhoneName": "iPhone 12 128GB"}
+{"index": {"_index": "integration_phone", "_id": 551}}
+{"RefID": "8d56056d-b109-4566-ac00-f9d019ba8985", "PhoneName": "Xiaomi 11T Pro"}
+{"index": {"_index": "integration_phone", "_id": 552}}
+{"RefID": "8daa0483-1529-4686-80be-c2c809981d29", "PhoneName": "Xiaomi Redmi 10C 64GB"}
+{"index": {"_index": "integration_phone", "_id": 553}}
+{"RefID": "8dcd4d67-5c53-40b1-853f-3025133cf182", "PhoneName": "Samsung Galaxy A53 5G 128GB"}
+{"index": {"_index": "integration_phone", "_id": 554}}
+{"RefID": "8e04206f-87fc-457f-856f-a9fcecd595b7", "PhoneName": "Samsung Galaxy M53"}
+{"index": {"_index": "integration_phone", "_id": 555}}
+{"RefID": "8e10d0be-3697-4429-be45-7564210c9b63", "PhoneName": "Galaxy Z Flip3 5G Flex Your Way 2022"}
+{"index": {"_index": "integration_phone", "_id": 556}}
+{"RefID": "8e40f236-92f4-4091-a70e-e6021b0d45e3", "PhoneName": "Itel L6502"}
+{"index": {"_index": "integration_phone", "_id": 557}}
+{"RefID": "8e70ceea-dd77-4554-b082-52d8e29a711f", "PhoneName": "Samsung Galaxy Z Flip3 5G 256GB"}
+{"index": {"_index": "integration_phone", "_id": 558}}
+{"RefID": "8eaa606d-7c0b-488d-969f-048fe761162a", "PhoneName": "OPPO A94 8GB-128GB"}
+{"index": {"_index": "integration_phone", "_id": 559}}
+{"RefID": "8eba4073-79b2-4ec8-8308-b6a436a5d817", "PhoneName": "iPhone 13 mini 512GB"}
+{"index": {"_index": "integration_phone", "_id": 560}}
+{"RefID": "8ebabea6-1de7-4596-9d43-f4279683ac15", "PhoneName": "iPhone 12 mini 128GB"}
+{"index": {"_index": "integration_phone", "_id": 561}}
+{"RefID": "8ebe06ea-7c4f-4909-8aa6-c85634bb32e7", "PhoneName": "Itel L6006"}
+{"index": {"_index": "integration_phone", "_id": 562}}
+{"RefID": "8efe7a28-e67f-4db1-a847-dd62c524f8ac", "PhoneName": "Samsung Galaxy S21 5G"}
+{"index": {"_index": "integration_phone", "_id": 563}}
+{"RefID": "8f5e5294-564f-4c9c-87a4-fa30b30a374d", "PhoneName": "iPhone 12 64GB"}
+{"index": {"_index": "integration_phone", "_id": 564}}
+{"RefID": "8f605a02-9e86-4548-8089-f1b9e36580b9", "PhoneName": "Samsung Galaxy A32"}
+{"index": {"_index": "integration_phone", "_id": 565}}
+{"RefID": "8f8ce269-ac63-4128-a85c-8dd944c05477", "PhoneName": "OPPO A16K"}
+{"index": {"_index": "integration_phone", "_id": 566}}
+{"RefID": "8fbd9d5b-5171-4b48-8455-52528bd1c82f", "PhoneName": "OPPO Reno5 5G"}
+{"index": {"_index": "integration_phone", "_id": 567}}
+{"RefID": "900ff7f7-9540-4ee1-91fd-63c29cdc94ae", "PhoneName": "Tecno Pova 2 6G 128GB"}
+{"index": {"_index": "integration_phone", "_id": 568}}
+{"RefID": "90238add-23b7-44f0-b24c-400c32ee6568", "PhoneName": "Xiaomi 11 Lite 5G NE"}
+{"index": {"_index": "integration_phone", "_id": 569}}
+{"RefID": "90347b4d-f023-4fde-b875-00f756fc7469", "PhoneName": "Samsung Galaxy S20 FE 256GB"}
+{"index": {"_index": "integration_phone", "_id": 570}}
+{"RefID": "9058e163-0023-4c99-b8d1-c242a62a66a5", "PhoneName": "Vivo Y55"}
+{"index": {"_index": "integration_phone", "_id": 571}}
+{"RefID": "905c1d5d-dae0-405c-bdbf-5e5098e81fa1", "PhoneName": "Samsung Galaxy S21 5G"}
+{"index": {"_index": "integration_phone", "_id": 572}}
+{"RefID": "90943b9f-6fea-4d20-b223-8ca94267f8b7", "PhoneName": "Samsung Galaxy Z Flip3 5G"}
+{"index": {"_index": "integration_phone", "_id": 573}}
+{"RefID": "90959412-2c5f-4a91-beba-c1bc0ec9b1b0", "PhoneName": "TECNO SPARK 7 2GB-32GB"}
+{"index": {"_index": "integration_phone", "_id": 574}}
+{"RefID": "910d00fc-87e4-4db0-909c-2967ea4e2825", "PhoneName": "Samsung Galaxy A03 4GB"}
+{"index": {"_index": "integration_phone", "_id": 575}}
+{"RefID": "915cca9d-b389-4a95-beae-f276fedfc5ee", "PhoneName": "iPhone 11 Pro 64GB (Space gray)"}
+{"index": {"_index": "integration_phone", "_id": 576}}
+{"RefID": "91ae3896-467e-4328-97ef-1c7da6ddb372", "PhoneName": "OPPO A16K"}
+{"index": {"_index": "integration_phone", "_id": 577}}
+{"RefID": "9219a4f9-69a8-458f-8241-a5cea4723860", "PhoneName": "Samsung Galaxy A01,16GB (SM-A015FZBDXEV) (Xanh)"}
+{"index": {"_index": "integration_phone", "_id": 578}}
+{"RefID": "922faa87-ac75-43e4-ac94-056708d69f6c", "PhoneName": "Xiaomi Redmi Note 11 Pro Plus 5G"}
+{"index": {"_index": "integration_phone", "_id": 579}}
+{"RefID": "92a476c0-d889-4434-a6af-db5db7d818dd", "PhoneName": "Samsung Galaxy S21+ 5G 128GB"}
+{"index": {"_index": "integration_phone", "_id": 580}}
+{"RefID": "92eb9c2a-abf8-4e72-b3f5-b1da85504897", "PhoneName": "OPPO A55"}
+{"index": {"_index": "integration_phone", "_id": 581}}
+{"RefID": "93065d45-b843-4f03-9755-be74cefb72e8", "PhoneName": "Samsung Galaxy S22 Ultra 5G 8GB/128GB (Đỏ) (Red)"}
+{"index": {"_index": "integration_phone", "_id": 582}}
+{"RefID": "930a10b8-93f8-4877-8a83-f375b89d4ada", "PhoneName": "Samsung Galaxy A52 128GB"}
+{"index": {"_index": "integration_phone", "_id": 583}}
+{"RefID": "93723434-2968-4a1d-9783-64a646e2cceb", "PhoneName": "Samsung Galaxy A53 5G 256GB"}
+{"index": {"_index": "integration_phone", "_id": 584}}
+{"RefID": "93b207bb-3792-40c4-9a55-4cff5fefebcb", "PhoneName": "Xiaomi Redmi Note 10 4GB/64GB (Xám)"}
+{"index": {"_index": "integration_phone", "_id": 585}}
+{"RefID": "93c4634c-feda-4b55-ad57-1db658beb439", "PhoneName": "OPPO A16K"}
+{"index": {"_index": "integration_phone", "_id": 586}}
+{"RefID": "93f58b71-d65a-4e7c-9447-d0cb2bf1e3a4", "PhoneName": "Xiaomi Redmi Note 9 Pro 6GB/128GB (Trắng)"}
+{"index": {"_index": "integration_phone", "_id": 587}}
+{"RefID": "94993c28-80eb-4e7c-9344-a3781096fc42", "PhoneName": "Vivo V23 5G"}
+{"index": {"_index": "integration_phone", "_id": 588}}
+{"RefID": "94a25ad7-777a-46c3-8231-86db2c05cca7", "PhoneName": "Samsung Galaxy S22+ 5G 128GB"}
+{"index": {"_index": "integration_phone", "_id": 589}}
+{"RefID": "94a60f9c-b652-45ab-a6c4-a8877f5f0c84", "PhoneName": "Samsung Galaxy A21S, 32GB (SM-A217FZBDXXV) (Xanh)"}
+{"index": {"_index": "integration_phone", "_id": 590}}
+{"RefID": "94be7aa2-dc76-400a-9b8a-d83282516635", "PhoneName": "Xiaomi 11T 5G 256GB"}
+{"index": {"_index": "integration_phone", "_id": 591}}
+{"RefID": "953ec99c-5b5b-43f5-a092-ee918f0dd1e3", "PhoneName": "OPPO A76 6GB-128GB"}
+{"index": {"_index": "integration_phone", "_id": 592}}
+{"RefID": "956eefc4-c725-4603-8804-dfaf0fd8e7d4", "PhoneName": "iPhone 12 mini 64GB"}
+{"index": {"_index": "integration_phone", "_id": 593}}
+{"RefID": "95bea77a-2529-418d-b251-24b11ff86d93", "PhoneName": "Vsmart Aris Pro"}
+{"index": {"_index": "integration_phone", "_id": 594}}
+{"RefID": "95f24017-7a2a-49bd-a730-21779181b42c", "PhoneName": "Xiaomi Redmi Note 11 Pro Plus 5G"}
+{"index": {"_index": "integration_phone", "_id": 595}}
+{"RefID": "971a8958-0575-4fd9-a4c1-c6a943eb64b6", "PhoneName": "Vivo V23e"}
+{"index": {"_index": "integration_phone", "_id": 596}}
+{"RefID": "979578ec-ac2d-47d2-ac41-a50cd3f59d63", "PhoneName": "Tecno Pova Neo (4GB - 64GB)"}
+{"index": {"_index": "integration_phone", "_id": 597}}
+{"RefID": "97fc6c4d-0bc0-4cda-97c1-90fc9b525345", "PhoneName": "iPhone SE 256GB (2020) (Hộp mới)"}
+{"index": {"_index": "integration_phone", "_id": 598}}
+{"RefID": "98484ae0-3bc5-4807-9876-8d823b16bba0", "PhoneName": "Realme 9 4G"}
+{"index": {"_index": "integration_phone", "_id": 599}}
+{"RefID": "984d9f32-427a-4999-b700-0b5914159541", "PhoneName": "Realme 9 Pro 5G"}
+{"index": {"_index": "integration_phone", "_id": 600}}
+{"RefID": "9862332f-dd07-438b-95e1-6cf6141190a1", "PhoneName": "iPhone 12 mini 128GB"}
+{"index": {"_index": "integration_phone", "_id": 601}}
+{"RefID": "987e7c93-970d-4c46-9b4d-1e45973c0d06", "PhoneName": "Samsung Galaxy M53"}
+{"index": {"_index": "integration_phone", "_id": 602}}
+{"RefID": "98d634de-b3e7-4d18-a2f8-7ff83041d502", "PhoneName": "Xiaomi Redmi Note 11 Pro 5G"}
+{"index": {"_index": "integration_phone", "_id": 603}}
+{"RefID": "992b4bea-73a7-4ec1-bda6-e39b60b5f10b", "PhoneName": "Samsung Galaxy Note 20 Ultra 5G"}
+{"index": {"_index": "integration_phone", "_id": 604}}
+{"RefID": "99976265-fd9c-494c-94a9-97a5cdd34ba4", "PhoneName": "iPhone 12 64GB Black MGJ53VN/A"}
+{"index": {"_index": "integration_phone", "_id": 605}}
+{"RefID": "99af9410-b0fc-42d8-8923-e66bbe3d7946", "PhoneName": "TP-Link Neffos N150"}
+{"index": {"_index": "integration_phone", "_id": 606}}
+{"RefID": "99e1301c-3c2d-4e16-a33d-ca459fa16993", "PhoneName": "iPhone 12 mini 64GB"}
+{"index": {"_index": "integration_phone", "_id": 607}}
+{"RefID": "99fe604e-436a-443d-b624-84f746528735", "PhoneName": "Samsung Galaxy A33 5G 6GB"}
+{"index": {"_index": "integration_phone", "_id": 608}}
+{"RefID": "9b466fd4-238e-4036-890d-b2d46b6bbede", "PhoneName": "Samsung Galaxy A52s 5G 128GB"}
+{"index": {"_index": "integration_phone", "_id": 609}}
+{"RefID": "9c32b9a6-05af-4f60-ac5a-f24abeb31ed9", "PhoneName": "iPhone 13 Pro Max 256GB"}
+{"index": {"_index": "integration_phone", "_id": 610}}
+{"RefID": "9d43d57d-520d-444b-b239-90e9d326faaa", "PhoneName": "OPPO A15s"}
+{"index": {"_index": "integration_phone", "_id": 611}}
+{"RefID": "9d55a6fa-7468-4ca9-a6d8-9b25dcb6b187", "PhoneName": "Realme C35 128GB"}
+{"index": {"_index": "integration_phone", "_id": 612}}
+{"RefID": "9da4b9af-7103-4816-8772-4786fa539b1b", "PhoneName": "Xiaomi Redmi Note 10 Pro (8GB/128GB)"}
+{"index": {"_index": "integration_phone", "_id": 613}}
+{"RefID": "9dcd5c2c-b231-4230-abd6-0f4cb3765573", "PhoneName": "iPhone 13 Pro 512GB"}
+{"index": {"_index": "integration_phone", "_id": 614}}
+{"RefID": "9e1a5b8a-a4ab-4ffc-a5bb-ca8a24f07fbb", "PhoneName": "Vsmart Aris Pro"}
+{"index": {"_index": "integration_phone", "_id": 615}}
+{"RefID": "9e1f87e0-e8df-4f89-8d3c-96816285d0ff", "PhoneName": "Nokia C20"}
+{"index": {"_index": "integration_phone", "_id": 616}}
+{"RefID": "9e37595e-6545-4afd-b67e-be42531a3c13", "PhoneName": "Itel L6006"}
+{"index": {"_index": "integration_phone", "_id": 617}}
+{"RefID": "9e567491-f0e4-43c9-b154-c936c7a66a1d", "PhoneName": "Vivo Y15a"}
+{"index": {"_index": "integration_phone", "_id": 618}}
+{"RefID": "a004e741-35a6-46b3-87e9-445dabb0432e", "PhoneName": "Samsung Galaxy A73 128GB"}
+{"index": {"_index": "integration_phone", "_id": 619}}
+{"RefID": "a014c548-e267-4474-94ca-800d91fbf990", "PhoneName": "OPPO Reno6 Z 5G"}
+{"index": {"_index": "integration_phone", "_id": 620}}
+{"RefID": "a044e92b-838e-4e32-8bba-8b5207261779", "PhoneName": "Realme C21-Y 4GB"}
+{"index": {"_index": "integration_phone", "_id": 621}}
+{"RefID": "a17167b0-7d08-41bc-8261-6e885db384bc", "PhoneName": "iPhone 12 Pro Max 512GB"}
+{"index": {"_index": "integration_phone", "_id": 622}}
+{"RefID": "a1c413ee-dac5-4c37-a652-3aca620502b1", "PhoneName": "Samsung Galaxy A03 3GB"}
+{"index": {"_index": "integration_phone", "_id": 623}}
+{"RefID": "a1fd23f7-9a4e-49b9-acb4-e4203cd1b92c", "PhoneName": "OPPO A55"}
+{"index": {"_index": "integration_phone", "_id": 624}}
+{"RefID": "a2277135-46f6-4b44-b43e-f0305c9b074e", "PhoneName": "Xiaomi 11 Lite 5G NE (8GB/128GB) (Đen) (Black)"}
+{"index": {"_index": "integration_phone", "_id": 625}}
+{"RefID": "a26f39fb-8b4d-4f87-8ea6-6f067ff8fc53", "PhoneName": "Vsmart Aris 8GB 128GB"}
+{"index": {"_index": "integration_phone", "_id": 626}}
+{"RefID": "a29196c2-22c0-4c95-a665-91b243e59783", "PhoneName": "Samsung Galaxy A33 5G 6GB"}
+{"index": {"_index": "integration_phone", "_id": 627}}
+{"RefID": "a2adb122-095e-4b6f-9bc7-39582661b03e", "PhoneName": "OPPO Reno7 Pro 5G"}
+{"index": {"_index": "integration_phone", "_id": 628}}
+{"RefID": "a2de8076-a2d5-4391-87db-8e19cdc7776a", "PhoneName": "iPhone SE 128GB (2020) (Hộp mới)"}
+{"index": {"_index": "integration_phone", "_id": 629}}
+{"RefID": "a30d50e2-b3a2-44cc-8aca-d1c2fb9059d8", "PhoneName": "Vivo Y01"}
+{"index": {"_index": "integration_phone", "_id": 630}}
+{"RefID": "a31e537e-d530-4e07-ab79-79499a7689a6", "PhoneName": "iPhone 12 Pro 256GB"}
+{"index": {"_index": "integration_phone", "_id": 631}}
+{"RefID": "a34fa84a-b73a-4376-b85c-6788bd4cc794", "PhoneName": "iPhone SE 2022"}
+{"index": {"_index": "integration_phone", "_id": 632}}
+{"RefID": "a364836b-f7c0-4e8d-8930-df1536cd465a", "PhoneName": "Xiaomi Redmi 10C 128GB"}
+{"index": {"_index": "integration_phone", "_id": 633}}
+{"RefID": "a481b14d-b93e-405a-8fb2-c772d91acde4", "PhoneName": "Vivo V21 5G"}
+{"index": {"_index": "integration_phone", "_id": 634}}
+{"RefID": "a48ff783-4b50-488e-9835-3e5de7ae5950", "PhoneName": "Samsung Galaxy S22 5G 128GB"}
+{"index": {"_index": "integration_phone", "_id": 635}}
+{"RefID": "a4aaa584-3707-42bc-9746-d7d3623c4cb1", "PhoneName": "Samsung Galaxy A32"}
+{"index": {"_index": "integration_phone", "_id": 636}}
+{"RefID": "a4cfadb1-0b8b-4391-8d4d-7a6035f85a78", "PhoneName": "Xiaomi Redmi 9C"}
+{"index": {"_index": "integration_phone", "_id": 637}}
+{"RefID": "a5129767-99dc-4f21-8a1d-767dd42ed443", "PhoneName": "Vivo V21 5G"}
+{"index": {"_index": "integration_phone", "_id": 638}}
+{"RefID": "a6016eed-e7fc-4077-b440-0d947dd77b97", "PhoneName": "iPhone 12 Pro 256GB"}
+{"index": {"_index": "integration_phone", "_id": 639}}
+{"RefID": "a627773f-8af3-4353-8739-592f339231f6", "PhoneName": "Xiaomi Redmi 10 4GB - 128GB (2022)"}
+{"index": {"_index": "integration_phone", "_id": 640}}
+{"RefID": "a6811736-8436-41b3-b962-f32761897a9d", "PhoneName": "TECNO SPARK 7T 4GB-64GB"}
+{"index": {"_index": "integration_phone", "_id": 641}}
+{"RefID": "a6f5f557-37d5-4381-be34-baab0f668d4b", "PhoneName": "TECNO SPARK 7 2GB-32GB"}
+{"index": {"_index": "integration_phone", "_id": 642}}
+{"RefID": "a77dbb29-5a32-4645-97e7-04602542d749", "PhoneName": "Samsung Galaxy S20 FE (8GB/256GB)"}
+{"index": {"_index": "integration_phone", "_id": 643}}
+{"RefID": "a7bb5a1b-0324-4d46-930f-988da3e1e790", "PhoneName": "Samsung Galaxy A32"}
+{"index": {"_index": "integration_phone", "_id": 644}}
+{"RefID": "a806f11f-b6b8-4163-9149-9bba73a86ad2", "PhoneName": "Samsung Galaxy A52 128GB"}
+{"index": {"_index": "integration_phone", "_id": 645}}
+{"RefID": "a87f13ef-bf1c-445b-9f51-a4da6abc548b", "PhoneName": "Nubia Red Magic 6S Pro Ghost 16GB 256GB"}
+{"index": {"_index": "integration_phone", "_id": 646}}
+{"RefID": "a89b9ee1-88ae-4f42-83d2-e5bccd8a84fd", "PhoneName": "Xiaomi Redmi 9C (3GB/64GB) (Cam) (Coral)"}
+{"index": {"_index": "integration_phone", "_id": 647}}
+{"RefID": "a8c43b24-0a45-493e-9de1-d95eee9c0666", "PhoneName": "Xiaomi Redmi Note 11S 6GB - 128GB"}
+{"index": {"_index": "integration_phone", "_id": 648}}
+{"RefID": "a929d67a-c3cf-4b15-bbbe-bff8be854e9e", "PhoneName": "Xiaomi Mi 11 Lite 4G"}
+{"index": {"_index": "integration_phone", "_id": 649}}
+{"RefID": "a98cb889-ea8f-44bc-a643-de4e60f3e32c", "PhoneName": "Xiaomi 11T 5G 128GB"}
+{"index": {"_index": "integration_phone", "_id": 650}}
+{"RefID": "a9a760c7-596f-4b0c-ac3f-0e87bc0a16d6", "PhoneName": "Samsung Galaxy A52s 5G 128GB"}
+{"index": {"_index": "integration_phone", "_id": 651}}
+{"RefID": "a9abf78a-dc84-4596-b92f-c511c0013212", "PhoneName": "Vivo Y01"}
+{"index": {"_index": "integration_phone", "_id": 652}}
+{"RefID": "a9d5f12c-4c43-4fb9-8222-2b3223a62bc4", "PhoneName": "Samsung Galaxy A13 4GB"}
+{"index": {"_index": "integration_phone", "_id": 653}}
+{"RefID": "aa43d3d6-c9c1-4de1-84bc-0730a013aa9f", "PhoneName": "OPPO A76"}
+{"index": {"_index": "integration_phone", "_id": 654}}
+{"RefID": "aa5da778-322f-4935-967d-c7975630eaf0", "PhoneName": "Realme 8 5G"}
+{"index": {"_index": "integration_phone", "_id": 655}}
+{"RefID": "aa70f694-5105-4b2b-a1ed-f37ba91e206e", "PhoneName": "iPhone 13 Pro Max 1TB"}
+{"index": {"_index": "integration_phone", "_id": 656}}
+{"RefID": "aa7af319-50c8-4372-9184-4994209bf3a9", "PhoneName": "OPPO A55 4GB-64GB"}
+{"index": {"_index": "integration_phone", "_id": 657}}
+{"RefID": "aad80527-93ec-4cfc-b218-982faf7bfcc6", "PhoneName": "Xiaomi Redmi Note 11 (4GB/64GB)"}
+{"index": {"_index": "integration_phone", "_id": 658}}
+{"RefID": "ab0cf000-d495-4fa4-a074-72a748b551a2", "PhoneName": "iPhone 12 Pro 512GB"}
+{"index": {"_index": "integration_phone", "_id": 659}}
+{"RefID": "ab1e579d-4c42-41b6-ace3-1d3e1074ad3d", "PhoneName": "Realme 9 Pro 5G 8G-128GB"}
+{"index": {"_index": "integration_phone", "_id": 660}}
+{"RefID": "ab3c9b1a-fe3e-4c77-9967-a170d16558dd", "PhoneName": "OPPO Reno4 Pro"}
+{"index": {"_index": "integration_phone", "_id": 661}}
+{"RefID": "ab498cc6-6c9b-4f7d-b751-b32ffa1f9586", "PhoneName": "Samsung Galaxy A03 4GB"}
+{"index": {"_index": "integration_phone", "_id": 662}}
+{"RefID": "ab98a2ff-eeee-4a2b-a282-567a4896aa4e", "PhoneName": "OPPO A16K"}
+{"index": {"_index": "integration_phone", "_id": 663}}
+{"RefID": "abb44b39-2a3b-42c9-aa0c-7a953ac7b594", "PhoneName": "Xiaomi Redmi 9A 2GB-32GB"}
+{"index": {"_index": "integration_phone", "_id": 664}}
+{"RefID": "abc6e6ef-9321-4ccc-a71e-f7f13f483152", "PhoneName": "OPPO A16k 3GB-32GB"}
+{"index": {"_index": "integration_phone", "_id": 665}}
+{"RefID": "ac41edfa-497d-4de6-8224-90e6d7b4ffcf", "PhoneName": "Samsung Galaxy S21+ 256GB"}
+{"index": {"_index": "integration_phone", "_id": 666}}
+{"RefID": "ac459ae0-df1d-49f4-86f7-6c5e3ace553a", "PhoneName": "Xiaomi Redmi Note 11"}
+{"index": {"_index": "integration_phone", "_id": 667}}
+{"RefID": "ac6eabab-4c19-48cb-a6dd-0a57a945aad6", "PhoneName": "ASUS ROG Phone 5S 16GB 512GB"}
+{"index": {"_index": "integration_phone", "_id": 668}}
+{"RefID": "aca147b1-319e-497d-b7d9-20db87c88732", "PhoneName": "iPhone 11 128GB"}
+{"index": {"_index": "integration_phone", "_id": 669}}
+{"RefID": "acc4927b-5f3d-4e2c-adf2-c3a20c878db1", "PhoneName": "Samsung Galaxy A03s"}
+{"index": {"_index": "integration_phone", "_id": 670}}
+{"RefID": "ad79f171-f78a-4da3-94d2-4d26fb02eeda", "PhoneName": "Vivo V21 5G"}
+{"index": {"_index": "integration_phone", "_id": 671}}
+{"RefID": "ad7c0500-5c21-4fef-b019-c4c2b2be36b5", "PhoneName": "Samsung Galaxy S20 FE (8GB/256GB)"}
+{"index": {"_index": "integration_phone", "_id": 672}}
+{"RefID": "adb1118b-59ef-4e93-b3c2-46e97322cf2b", "PhoneName": "Xiaomi 11T Pro 5G 12GB - 256GB"}
+{"index": {"_index": "integration_phone", "_id": 673}}
+{"RefID": "ae0a8b92-97c7-4b7b-aaf5-5482517653a5", "PhoneName": "Tecno Pova 2"}
+{"index": {"_index": "integration_phone", "_id": 674}}
+{"RefID": "ae4501f2-1e0c-4432-b05c-f9d77654f7e0", "PhoneName": "Nokia G21 6GB-128GB\t"}
+{"index": {"_index": "integration_phone", "_id": 675}}
+{"RefID": "aefa68af-4e84-4f6f-96e2-07edf111f807", "PhoneName": "Vivo Y21s 6GB"}
+{"index": {"_index": "integration_phone", "_id": 676}}
+{"RefID": "af2df13b-4276-4922-a28b-aaecdb970548", "PhoneName": "iPhone SE 2022 64GB Midnight (MMXF3VN/A) (Midnight)"}
+{"index": {"_index": "integration_phone", "_id": 677}}
+{"RefID": "af6e8371-1cdb-433c-ab75-3294738de4fa", "PhoneName": "Samsung Galaxy S20 FE (8GB/256GB)"}
+{"index": {"_index": "integration_phone", "_id": 678}}
+{"RefID": "af8b25a3-9169-405d-a286-306dd062e22c", "PhoneName": "Xiaomi Redmi 9C"}
+{"index": {"_index": "integration_phone", "_id": 679}}
+{"RefID": "afa72620-8b0d-4663-b8c4-770f5b4167d3", "PhoneName": "TECNO POP 5 2GB-32GB"}
+{"index": {"_index": "integration_phone", "_id": 680}}
+{"RefID": "afdac787-d6f9-4dcd-add6-528fca656fdb", "PhoneName": "Xiaomi Redmi 9A"}
+{"index": {"_index": "integration_phone", "_id": 681}}
+{"RefID": "b0254891-2e2c-400d-bcd9-0f69943518de", "PhoneName": "Realme 9 Pro 5G 8G-128GB"}
+{"index": {"_index": "integration_phone", "_id": 682}}
+{"RefID": "b029401f-e7ee-4198-b4c0-d22812b6f8eb", "PhoneName": "Nokia G21"}
+{"index": {"_index": "integration_phone", "_id": 683}}
+{"RefID": "b05dec8e-4f3e-42c4-9ffe-9b1e52149ede", "PhoneName": "ASUS ROG Phone 5S 16GB 256GB"}
+{"index": {"_index": "integration_phone", "_id": 684}}
+{"RefID": "b065df7b-9ff4-42fe-8c0c-fdecb314c865", "PhoneName": "iPhone 11 128GB"}
+{"index": {"_index": "integration_phone", "_id": 685}}
+{"RefID": "b0edbe52-a27a-43e3-a768-92f5ead1c5f7", "PhoneName": "TECNO POP 5 2GB-32GB"}
+{"index": {"_index": "integration_phone", "_id": 686}}
+{"RefID": "b10a1417-e4ef-4aff-a841-5994f5fa5ad8", "PhoneName": "Samsung Galaxy S22 5G 128GB"}
+{"index": {"_index": "integration_phone", "_id": 687}}
+{"RefID": "b1a5a007-a15d-4eaa-928c-5aa83e06748e", "PhoneName": "Samsung Galaxy A03s"}
+{"index": {"_index": "integration_phone", "_id": 688}}
+{"RefID": "b1cfbc57-7c75-49ec-9223-7687db5f8f11", "PhoneName": "iPhone 11 64GB"}
+{"index": {"_index": "integration_phone", "_id": 689}}
+{"RefID": "b1d67a8e-7900-4a5d-b1f0-334c63a3406c", "PhoneName": "iPhone 13 128GB"}
+{"index": {"_index": "integration_phone", "_id": 690}}
+{"RefID": "b1f15665-6f9f-43a6-ad11-210122bf70f0", "PhoneName": "OPPO Reno7 4G (8GB - 128GB)"}
+{"index": {"_index": "integration_phone", "_id": 691}}
+{"RefID": "b2076cb5-f8a9-4001-9839-24ee2b1dd9c9", "PhoneName": "OPPO A76"}
+{"index": {"_index": "integration_phone", "_id": 692}}
+{"RefID": "b23028c0-2871-43ff-96fb-7b95c272185e", "PhoneName": "Samsung Galaxy S21+ 5G (8+128GB) SM-G996BZKDXXV (Black)"}
+{"index": {"_index": "integration_phone", "_id": 693}}
+{"RefID": "b2548bb1-4ae4-4306-803c-94cce8f23016", "PhoneName": "Xiaomi Redmi 9C"}
+{"index": {"_index": "integration_phone", "_id": 694}}
+{"RefID": "b2a52e16-a6fd-4925-8671-798f04eb6c64", "PhoneName": "OPPO Reno7 Z 5G 8GB - 128GB"}
+{"index": {"_index": "integration_phone", "_id": 695}}
+{"RefID": "b2d41dcf-9aeb-4034-ab5d-7b03a2389590", "PhoneName": "iPhone 12 64GB"}
+{"index": {"_index": "integration_phone", "_id": 696}}
+{"RefID": "b3260c7e-af82-4424-b984-2b856033c86f", "PhoneName": "Nokia G11"}
+{"index": {"_index": "integration_phone", "_id": 697}}
+{"RefID": "b330d0fe-9954-4d57-a902-14a5d4250021", "PhoneName": "Samsung Galaxy A33 5G 6GB"}
+{"index": {"_index": "integration_phone", "_id": 698}}
+{"RefID": "b3639d3b-96c3-444c-ada2-7789cdb67baf", "PhoneName": "Samsung Galaxy Z Fold3 5G 512GB"}
+{"index": {"_index": "integration_phone", "_id": 699}}
+{"RefID": "b3707f2c-d78e-4f15-93d3-069b23de88e3", "PhoneName": "Itel L6502"}
+{"index": {"_index": "integration_phone", "_id": 700}}
+{"RefID": "b393f71c-6721-4edc-b0c8-ae38fa31c506", "PhoneName": "TECNO POVA 2 4GB-64GB"}
+{"index": {"_index": "integration_phone", "_id": 701}}
+{"RefID": "b3a54b2b-3ab8-4acf-bef8-a674e4a94f67", "PhoneName": "Xiaomi 12"}
+{"index": {"_index": "integration_phone", "_id": 702}}
+{"RefID": "b42093df-27f4-4a52-9918-c68a6cfb60e2", "PhoneName": "Vsmart Aris Pro"}
+{"index": {"_index": "integration_phone", "_id": 703}}
+{"RefID": "b46efa82-c617-458b-b7f2-38d6203fb351", "PhoneName": "Xiaomi Redmi 10C 64GB"}
+{"index": {"_index": "integration_phone", "_id": 704}}
+{"RefID": "b4f55cbd-29a3-4bd9-aecc-c907749030e3", "PhoneName": "Xiaomi Redmi Note 10 Pro (6+128G) (Xanh Dương)"}
+{"index": {"_index": "integration_phone", "_id": 705}}
+{"RefID": "b5a768c9-b696-4a2b-a47d-d3e6164722c4", "PhoneName": "Xiaomi Redmi Note 11"}
+{"index": {"_index": "integration_phone", "_id": 706}}
+{"RefID": "b5ab2b6d-bf0d-4862-8531-b8f1d4a40a7d", "PhoneName": "OPPO Reno6 Z 5G"}
+{"index": {"_index": "integration_phone", "_id": 707}}
+{"RefID": "b5ab62c1-7f21-4081-a298-afa94feba016", "PhoneName": "iPhone 13 Pro Max 256GB"}
+{"index": {"_index": "integration_phone", "_id": 708}}
+{"RefID": "b5b7f57c-8d81-4d15-85b9-7b48adae8c6a", "PhoneName": "Xiaomi Redmi Note 11S 6GB - 128GB"}
+{"index": {"_index": "integration_phone", "_id": 709}}
+{"RefID": "b5ccd6a3-e336-4d9a-8429-327fbefec57e", "PhoneName": "Vivo Y01"}
+{"index": {"_index": "integration_phone", "_id": 710}}
+{"RefID": "b67313aa-284e-4598-a35d-0d1617f070da", "PhoneName": "Realme C11 (2021) 4GB/64GB"}
+{"index": {"_index": "integration_phone", "_id": 711}}
+{"RefID": "b6c1b0dc-4232-4bda-92a9-b96dd48563a7", "PhoneName": "iPhone 11 128GB"}
+{"index": {"_index": "integration_phone", "_id": 712}}
+{"RefID": "b6cb55b5-6be6-4649-8a34-4544cd534acf", "PhoneName": "Samsung Galaxy A73 5G 128GB"}
+{"index": {"_index": "integration_phone", "_id": 713}}
+{"RefID": "b737a990-51f8-49f4-a4b0-00e7ddc594a1", "PhoneName": "iPhone SE 128GB (2020) (Hộp mới)"}
+{"index": {"_index": "integration_phone", "_id": 714}}
+{"RefID": "b74a0144-a956-4cdc-8080-480a20d3b594", "PhoneName": "Samsung Galaxy S21 FE 5G (8GB/256GB)"}
+{"index": {"_index": "integration_phone", "_id": 715}}
+{"RefID": "b7521ecf-a3ae-46a1-b943-ef59b956247e", "PhoneName": "Samsung Galaxy A73 5G 128GB"}
+{"index": {"_index": "integration_phone", "_id": 716}}
+{"RefID": "b7cd824f-ed97-4933-97d4-49a9c1829479", "PhoneName": "Samsung Galaxy A53 5G 128GB"}
+{"index": {"_index": "integration_phone", "_id": 717}}
+{"RefID": "b7da1b25-effc-4706-acea-0b21800008c8", "PhoneName": "Nokia G11"}
+{"index": {"_index": "integration_phone", "_id": 718}}
+{"RefID": "b7f8549e-7ec1-47dd-9df0-813ab09bdcf1", "PhoneName": "Samsung Galaxy A03s"}
+{"index": {"_index": "integration_phone", "_id": 719}}
+{"RefID": "b839595d-ec46-400a-9dde-8b821f07ffec", "PhoneName": "iPhone 12 Pro 256GB"}
+{"index": {"_index": "integration_phone", "_id": 720}}
+{"RefID": "b8866214-bb0c-45be-9090-23b3f9d0f80a", "PhoneName": "Samsung Galaxy Z Fold3 5G 256GB"}
+{"index": {"_index": "integration_phone", "_id": 721}}
+{"RefID": "b8bad688-de23-4f4b-9926-e97b47481360", "PhoneName": "Xiaomi Redmi Note 11 (4GB/64GB)"}
+{"index": {"_index": "integration_phone", "_id": 722}}
+{"RefID": "b92ab9e6-cb4d-4003-803a-11f72d0ac673", "PhoneName": "Itel L6006"}
+{"index": {"_index": "integration_phone", "_id": 723}}
+{"RefID": "b940d422-43ec-48a8-b2f7-272d5c43fb9e", "PhoneName": "OPPO A16"}
+{"index": {"_index": "integration_phone", "_id": 724}}
+{"RefID": "b96741ca-7a30-4056-a3eb-83a5317470a0", "PhoneName": "Nubia Red Magic 6R"}
+{"index": {"_index": "integration_phone", "_id": 725}}
+{"RefID": "b9e146c1-a018-49a8-bf1a-b9e472611cef", "PhoneName": "Realme 8"}
+{"index": {"_index": "integration_phone", "_id": 726}}
+{"RefID": "ba01c67f-e76b-4e39-9baf-9c3158e10321", "PhoneName": "iPhone 13 mini 128GB"}
+{"index": {"_index": "integration_phone", "_id": 727}}
+{"RefID": "ba1d1d75-c7b8-472a-a5ae-ca613a5984e7", "PhoneName": "iPhone SE 128GB (2020) (Hộp mới)"}
+{"index": {"_index": "integration_phone", "_id": 728}}
+{"RefID": "ba86aae3-53d9-4d72-ba45-050634e1c2a7", "PhoneName": "Xiaomi 12 Pro (5G)"}
+{"index": {"_index": "integration_phone", "_id": 729}}
+{"RefID": "baad005b-3e7c-484c-a272-4515c064bce5", "PhoneName": "Samsung Galaxy S22 Ultra 5G 12GB/512GB (Đỏ) (Red)"}
+{"index": {"_index": "integration_phone", "_id": 730}}
+{"RefID": "bac10097-e582-4853-b7c2-e4a895a62485", "PhoneName": "Xiaomi Redmi 9A"}
+{"index": {"_index": "integration_phone", "_id": 731}}
+{"RefID": "bac1d6f9-b2af-4612-af1b-a9db12748730", "PhoneName": "Xiaomi Redmi 10 (2022)"}
+{"index": {"_index": "integration_phone", "_id": 732}}
+{"RefID": "bb11b67a-61e1-4431-9e55-819aa36fa03d", "PhoneName": "OPPO A55 4GB-64GB"}
+{"index": {"_index": "integration_phone", "_id": 733}}
+{"RefID": "bb1d0292-dd9a-454d-96c6-5bd209d060fb", "PhoneName": "Nubia Red Magic 6"}
+{"index": {"_index": "integration_phone", "_id": 734}}
+{"RefID": "bb397e61-bf9f-4f50-bc63-3e50d77c6973", "PhoneName": "Xiaomi Redmi Note 10S 8GB-128GB"}
+{"index": {"_index": "integration_phone", "_id": 735}}
+{"RefID": "bbc4a70c-b577-4d6c-9a1c-207c0409eb5f", "PhoneName": "iPhone SE 128GB (2022)"}
+{"index": {"_index": "integration_phone", "_id": 736}}
+{"RefID": "bbe6714c-3c6b-4807-a2b3-0ae91bbd7c1d", "PhoneName": "OPPO Reno7 Z 5G"}
+{"index": {"_index": "integration_phone", "_id": 737}}
+{"RefID": "bbff8a7f-19aa-4d52-97d7-f7e0366e248b", "PhoneName": "Xiaomi 11 Lite 5G NE 8GB - 256GB"}
+{"index": {"_index": "integration_phone", "_id": 738}}
+{"RefID": "bd4fbad9-ec4f-48a9-8927-3ad18c578a3d", "PhoneName": "Vivo Y33s"}
+{"index": {"_index": "integration_phone", "_id": 739}}
+{"RefID": "bd9107f6-c347-439e-abb9-d9bd3d41a857", "PhoneName": "Xiaomi 11T"}
+{"index": {"_index": "integration_phone", "_id": 740}}
+{"RefID": "bdba5994-e656-4496-bcee-a7c44712c0e1", "PhoneName": "Samsung Galaxy A33 5G 6GB"}
+{"index": {"_index": "integration_phone", "_id": 741}}
+{"RefID": "bdc49fef-ff5e-4c4c-ba10-deb01933f043", "PhoneName": "iPhone 13 mini 256GB"}
+{"index": {"_index": "integration_phone", "_id": 742}}
+{"RefID": "bde78dda-277f-415d-9342-4be977f5906d", "PhoneName": "Samsung Galaxy Note 20"}
+{"index": {"_index": "integration_phone", "_id": 743}}
+{"RefID": "be32d9e2-d461-440d-84c3-0e6495782b60", "PhoneName": "OPPO Reno6 Pro 5G"}
+{"index": {"_index": "integration_phone", "_id": 744}}
+{"RefID": "be689349-5c8c-4b30-8988-49e3647c60a8", "PhoneName": "iPhone 13 Pro 128GB Graphite (MLV93VN/A) (Graphite)"}
+{"index": {"_index": "integration_phone", "_id": 745}}
+{"RefID": "be859359-e3eb-4728-87ee-b62a4d304b63", "PhoneName": "Samsung Galaxy S22 Plus (8GB - 256GB)"}
+{"index": {"_index": "integration_phone", "_id": 746}}
+{"RefID": "be9cb032-36b6-467e-b897-5d14f6b9b0cc", "PhoneName": "Samsung Galaxy S22 Ultra 5G 12GB/256GB (Đen) (Black)"}
+{"index": {"_index": "integration_phone", "_id": 747}}
+{"RefID": "be9d3d79-7f5a-4e6a-b206-52b9a04a2610", "PhoneName": "Samsung Galaxy A23 6GB"}
+{"index": {"_index": "integration_phone", "_id": 748}}
+{"RefID": "bec09d19-1148-4f89-8b5c-b174f8295b60", "PhoneName": "iPhone 13 Pro 128GB"}
+{"index": {"_index": "integration_phone", "_id": 749}}
+{"RefID": "becdbd22-55bb-4011-9a1f-177763120257", "PhoneName": "iPhone 13 mini 128GB"}
+{"index": {"_index": "integration_phone", "_id": 750}}
+{"RefID": "bee26f2c-eddb-4ff2-9b20-bb189276a8e3", "PhoneName": "Vivo Y33s 8GB - 128GB"}
+{"index": {"_index": "integration_phone", "_id": 751}}
+{"RefID": "bee3bea3-7a1a-4c53-ab60-c6d58c1f7ea8", "PhoneName": "OPPO A95 8GB-128GB"}
+{"index": {"_index": "integration_phone", "_id": 752}}
+{"RefID": "bf06ad16-ac80-41d7-91e5-59aa3580dfdf", "PhoneName": "Xiaomi Redmi 9A"}
+{"index": {"_index": "integration_phone", "_id": 753}}
+{"RefID": "bf2505ef-d514-4352-8fad-4d81a596ea7b", "PhoneName": "Nubia Red Magic 6R"}
+{"index": {"_index": "integration_phone", "_id": 754}}
+{"RefID": "bf282017-9514-4d0c-b7c5-b1d8dcc30ab6", "PhoneName": "OPPO A55"}
+{"index": {"_index": "integration_phone", "_id": 755}}
+{"RefID": "bff9c01f-3723-40b4-bee6-2b66c2f15ec3", "PhoneName": "Samsung Galaxy S21+ 5G 128GB"}
+{"index": {"_index": "integration_phone", "_id": 756}}
+{"RefID": "c0235e0b-5720-4bcc-bb55-c518dbf1cbda", "PhoneName": "Samsung Galaxy A33 5G 6GB"}
+{"index": {"_index": "integration_phone", "_id": 757}}
+{"RefID": "c0457cc1-7605-44ee-b84a-1e948564c901", "PhoneName": "Samsung Galaxy A32"}
+{"index": {"_index": "integration_phone", "_id": 758}}
+{"RefID": "c05dd876-b586-4da3-8f19-ebcedf34ce73", "PhoneName": "iPhone 12 128GB"}
+{"index": {"_index": "integration_phone", "_id": 759}}
+{"RefID": "c05dee07-473c-4783-87ae-acd4e5a79697", "PhoneName": "Xiaomi 11T 5G 128GB"}
+{"index": {"_index": "integration_phone", "_id": 760}}
+{"RefID": "c0cf8f47-7328-48e6-be2f-dc5788c5fe99", "PhoneName": "Samsung Galaxy A53 5G 128GB"}
+{"index": {"_index": "integration_phone", "_id": 761}}
+{"RefID": "c0e0242d-bb89-4d66-be80-245e9134fdf4", "PhoneName": "iPhone 13 Pro 512GB"}
+{"index": {"_index": "integration_phone", "_id": 762}}
+{"RefID": "c12808cb-42c2-4854-9b10-d1292280011d", "PhoneName": "Samsung Galaxy A73 5G 128GB"}
+{"index": {"_index": "integration_phone", "_id": 763}}
+{"RefID": "c137125f-a46b-415d-b43c-d2174c942ac3", "PhoneName": "Nubia Red Magic 6s Pro Cyborg 12GB 128GB"}
+{"index": {"_index": "integration_phone", "_id": 764}}
+{"RefID": "c15867ee-7587-4a3a-8f8e-f6a873a5a332", "PhoneName": "Xiaomi 12"}
+{"index": {"_index": "integration_phone", "_id": 765}}
+{"RefID": "c1676e4a-d667-4621-8f9e-3f481baead24", "PhoneName": "Samsung Galaxy S22 Plus (8GB - 256GB)"}
+{"index": {"_index": "integration_phone", "_id": 766}}
+{"RefID": "c16c9d81-c557-4f3a-af66-94008418db9c", "PhoneName": "Samsung Galaxy M53"}
+{"index": {"_index": "integration_phone", "_id": 767}}
+{"RefID": "c1a1ec5e-2d09-4875-89c4-75ff863a8ba2", "PhoneName": "Samsung Galaxy A52s 5G 128GB"}
+{"index": {"_index": "integration_phone", "_id": 768}}
+{"RefID": "c1a7b4ee-7176-448d-9224-6f862e21eaad", "PhoneName": "Samsung Galaxy S21+ 5G 128GB"}
+{"index": {"_index": "integration_phone", "_id": 769}}
+{"RefID": "c1b1a71c-06d2-4376-a9d9-769e2ac4e971", "PhoneName": "Realme C11 (2021)"}
+{"index": {"_index": "integration_phone", "_id": 770}}
+{"RefID": "c1db4421-4c2f-4a12-8d14-cbb85fb8dffb", "PhoneName": "Realme 9 4G"}
+{"index": {"_index": "integration_phone", "_id": 771}}
+{"RefID": "c1f88d49-2110-4d32-acbf-2132c3c73c5e", "PhoneName": "ASUS ROG Phone 5S 12GB 256GB"}
+{"index": {"_index": "integration_phone", "_id": 772}}
+{"RefID": "c1f98a4f-c07d-4099-9d93-dfc36c91103c", "PhoneName": "OPPO A16k 3GB-32GB"}
+{"index": {"_index": "integration_phone", "_id": 773}}
+{"RefID": "c266ce0c-9276-4111-be1f-50f692bb7655", "PhoneName": "OPPO Find X5 Pro 5G"}
+{"index": {"_index": "integration_phone", "_id": 774}}
+{"RefID": "c2ea054d-ee13-42d4-8796-d20a8650fb1c", "PhoneName": "iPhone 13 Pro 1TB"}
+{"index": {"_index": "integration_phone", "_id": 775}}
+{"RefID": "c32b428a-16e2-429c-a727-73c892ff4079", "PhoneName": "Vivo Y33s 8GB - 128GB"}
+{"index": {"_index": "integration_phone", "_id": 776}}
+{"RefID": "c395c814-511c-471b-9fb2-9c6cb2a0519f", "PhoneName": "Samsung Galaxy S21 5G"}
+{"index": {"_index": "integration_phone", "_id": 777}}
+{"RefID": "c3960b44-9d3c-47b6-b236-09480a23844c", "PhoneName": "Samsung Galaxy S22 Ultra 5G 12GB/256GB (Đỏ) (Red)"}
+{"index": {"_index": "integration_phone", "_id": 778}}
+{"RefID": "c3c5f9da-1c46-4340-8cde-88f7462d43de", "PhoneName": "iPhone 13 Pro Max 128GB"}
+{"index": {"_index": "integration_phone", "_id": 779}}
+{"RefID": "c3e9c85b-3b54-4683-91fd-632cddc5b6a7", "PhoneName": "Samsung Galaxy A33 5G 6GB"}
+{"index": {"_index": "integration_phone", "_id": 780}}
+{"RefID": "c4314510-1f22-4640-b52a-e2a6128ded5e", "PhoneName": "Xiaomi Redmi Note 9s 4GB/64GB (Xám)"}
+{"index": {"_index": "integration_phone", "_id": 781}}
+{"RefID": "c44e62be-9c93-4e70-ab97-f77151dd7c2f", "PhoneName": "Samsung Galaxy A33 5G 6GB"}
+{"index": {"_index": "integration_phone", "_id": 782}}
+{"RefID": "c45fbba9-aff2-4796-879e-223d7640bb13", "PhoneName": "Realme 9 Pro Plus"}
+{"index": {"_index": "integration_phone", "_id": 783}}
+{"RefID": "c4858cc0-d368-44b3-8d89-0af9264f7af3", "PhoneName": "iPhone 11 64GB"}
+{"index": {"_index": "integration_phone", "_id": 784}}
+{"RefID": "c4a32a01-f66c-4658-80b3-0f9be0e1d7d2", "PhoneName": "OPPO A95 8GB-128GB"}
+{"index": {"_index": "integration_phone", "_id": 785}}
+{"RefID": "c519d8f1-d8df-41fd-b003-55bb4cad5741", "PhoneName": "Xiaomi Redmi Note 11 Pro 5G"}
+{"index": {"_index": "integration_phone", "_id": 786}}
+{"RefID": "c5563d83-5261-4a63-ad69-0577d6dfefb7", "PhoneName": "Xiaomi Mi Note 10 Lite 6GB/64GB (Tím)"}
+{"index": {"_index": "integration_phone", "_id": 787}}
+{"RefID": "c5856772-947a-43dd-8768-ec6d765800bc", "PhoneName": "Samsung Galaxy A52s 5G 128GB"}
+{"index": {"_index": "integration_phone", "_id": 788}}
+{"RefID": "c5d2cea0-5266-4e0f-b17c-899a6be78662", "PhoneName": "iPhone 12 Pro 128GB Graphite MGMK3VN/A"}
+{"index": {"_index": "integration_phone", "_id": 789}}
+{"RefID": "c603a2b9-d4d7-4516-8f57-3a70f337d08c", "PhoneName": "Realme 8"}
+{"index": {"_index": "integration_phone", "_id": 790}}
+{"RefID": "c61eb3fe-8600-4ad6-89df-0ebcf6e0decb", "PhoneName": "Itel L6006"}
+{"index": {"_index": "integration_phone", "_id": 791}}
+{"RefID": "c6643ddf-1bc8-47d0-b6eb-f79be0f07856", "PhoneName": "OPPO A16K"}
+{"index": {"_index": "integration_phone", "_id": 792}}
+{"RefID": "c6695231-a323-47bf-9c40-c134b3b5abf1", "PhoneName": "Tecno Pova 2 6G 128GB"}
+{"index": {"_index": "integration_phone", "_id": 793}}
+{"RefID": "c67e5cb2-a16e-43e0-967f-bbf1f47419c7", "PhoneName": "Samsung Galaxy M53"}
+{"index": {"_index": "integration_phone", "_id": 794}}
+{"RefID": "c778ccec-2622-4ef5-89bf-d3f498696586", "PhoneName": "OPPO Reno4 Pro"}
+{"index": {"_index": "integration_phone", "_id": 795}}
+{"RefID": "c7ae528b-8362-4837-9304-3e68674ed1d4", "PhoneName": "Samsung Galaxy S22 Plus (8GB - 256GB)"}
+{"index": {"_index": "integration_phone", "_id": 796}}
+{"RefID": "c7d65bc1-2295-4fa0-a603-ce12ede78f85", "PhoneName": "Vsmart Aris Pro"}
+{"index": {"_index": "integration_phone", "_id": 797}}
+{"RefID": "c7e0b192-e3f2-4b22-af33-54b62871ba89", "PhoneName": "Xiaomi 11 Lite 5G NE 8GB - 256GB"}
+{"index": {"_index": "integration_phone", "_id": 798}}
+{"RefID": "c834446a-963f-455d-bf05-c48f71ccac5b", "PhoneName": "Samsung Galaxy S21+ 5G 128GB"}
+{"index": {"_index": "integration_phone", "_id": 799}}
+{"RefID": "c881b7d7-4ba2-46dd-86b3-80097e95aa65", "PhoneName": "Xiaomi Redmi Note 10 (6GB+128G) (Trắng)"}
+{"index": {"_index": "integration_phone", "_id": 800}}
+{"RefID": "c8901578-3205-40de-9885-d52848c578ba", "PhoneName": "Xiaomi Redmi Note 10S 8GB"}
+{"index": {"_index": "integration_phone", "_id": 801}}
+{"RefID": "c891b040-75c8-4ed5-9515-8644c17f755a", "PhoneName": "Xiaomi Redmi 10C 128GB"}
+{"index": {"_index": "integration_phone", "_id": 802}}
+{"RefID": "c89b4393-32eb-4f51-b155-73ade6a7b5e1", "PhoneName": "Samsung Galaxy S22+ 5G 256GB"}
+{"index": {"_index": "integration_phone", "_id": 803}}
+{"RefID": "c8ebb7c6-fd83-42c4-bba9-ed40f3d328e6", "PhoneName": "Samsung Galaxy A32"}
+{"index": {"_index": "integration_phone", "_id": 804}}
+{"RefID": "c8f35ff2-f484-4d75-90b4-5d3baa106092", "PhoneName": "Vivo Y53s 8GB+3GB - 128GB"}
+{"index": {"_index": "integration_phone", "_id": 805}}
+{"RefID": "c8f69da1-9f92-41fc-920b-f1eb70966887", "PhoneName": "Samsung Galaxy S21 Ultra 128GB"}
+{"index": {"_index": "integration_phone", "_id": 806}}
+{"RefID": "c9cfd3c1-2775-4203-9dcf-b1ecf88d88c4", "PhoneName": "iPhone SE 2022 128GB"}
+{"index": {"_index": "integration_phone", "_id": 807}}
+{"RefID": "ca1090cc-97eb-4314-9bf3-dc940997f863", "PhoneName": "iPhone 12 256GB"}
+{"index": {"_index": "integration_phone", "_id": 808}}
+{"RefID": "ca184ffd-5ee6-4a4b-b687-ccf620f8e27b", "PhoneName": "Samsung Galaxy A13 4GB"}
+{"index": {"_index": "integration_phone", "_id": 809}}
+{"RefID": "ca5d5c91-4803-4b74-a812-20f9f35739bd", "PhoneName": "Xiaomi Redmi 10 (4GB - 64GB)"}
+{"index": {"_index": "integration_phone", "_id": 810}}
+{"RefID": "cb372d02-6d23-47b5-aeba-bbff6d76f2a9", "PhoneName": "iPhone 13 128GB"}
+{"index": {"_index": "integration_phone", "_id": 811}}
+{"RefID": "cb569541-57f8-49d8-8e03-e2b4f7d050c3", "PhoneName": "iPhone 12 64GB Black MGJ53VN/A"}
+{"index": {"_index": "integration_phone", "_id": 812}}
+{"RefID": "cb6f7b66-1684-4573-ae0d-c4a7fda77a01", "PhoneName": "Xiaomi Redmi 9C"}
+{"index": {"_index": "integration_phone", "_id": 813}}
+{"RefID": "cb9b1fb0-69cf-4157-bc42-596977694952", "PhoneName": "OPPO A16k 3GB-32GB"}
+{"index": {"_index": "integration_phone", "_id": 814}}
+{"RefID": "cbbee021-5576-44c5-a55a-37e5dd5a4a5d", "PhoneName": "Realme C35 64GB"}
+{"index": {"_index": "integration_phone", "_id": 815}}
+{"RefID": "cbd3fdb8-3548-477c-a834-701c78e4ffea", "PhoneName": "Samsung Galaxy S21+ 5G 128GB"}
+{"index": {"_index": "integration_phone", "_id": 816}}
+{"RefID": "cd1aa2b9-1dce-48ea-877f-07a01b42c066", "PhoneName": "Samsung Galaxy A73"}
+{"index": {"_index": "integration_phone", "_id": 817}}
+{"RefID": "cdc3c800-a0f3-48f4-9f9b-d5766d53d9df", "PhoneName": "OPPO A16k 3GB-32GB"}
+{"index": {"_index": "integration_phone", "_id": 818}}
+{"RefID": "cdceeeac-e764-4303-8ed4-957eb8730f40", "PhoneName": "iPhone 13 256GB - Xanh lá"}
+{"index": {"_index": "integration_phone", "_id": 819}}
+{"RefID": "ce4b2c52-0d4a-465a-b1a1-fff8b7e904c9", "PhoneName": "Vivo Y21 4GB+1GB - 64GB"}
+{"index": {"_index": "integration_phone", "_id": 820}}
+{"RefID": "cee959cb-e9c9-4ea4-8632-316b6a333e7e", "PhoneName": "Xiaomi Redmi 9A"}
+{"index": {"_index": "integration_phone", "_id": 821}}
+{"RefID": "cf13bc2f-f27f-4e81-8fd2-9e92b33e62f8", "PhoneName": "Xiaomi 11 Lite 5G NE"}
+{"index": {"_index": "integration_phone", "_id": 822}}
+{"RefID": "cf46473c-579c-439e-8f6f-138b342fcd1e", "PhoneName": "Xiaomi Redmi Note 11"}
+{"index": {"_index": "integration_phone", "_id": 823}}
+{"RefID": "cf472fec-e02b-4566-b383-e6a0da228560", "PhoneName": "Samsung Galaxy A53 5G 128GB"}
+{"index": {"_index": "integration_phone", "_id": 824}}
+{"RefID": "cf9c7f36-4136-4c53-aabf-ed02de806e93", "PhoneName": "OPPO Reno7 4G (8GB - 128GB)"}
+{"index": {"_index": "integration_phone", "_id": 825}}
+{"RefID": "d00486fe-f292-4ea2-aa12-7bed3933dea0", "PhoneName": "Realme 9 Pro 5G"}
+{"index": {"_index": "integration_phone", "_id": 826}}
+{"RefID": "d0063552-23c5-4692-a31b-02910b905442", "PhoneName": "Samsung Galaxy S22 5G 128GB"}
+{"index": {"_index": "integration_phone", "_id": 827}}
+{"RefID": "d0333752-0862-49e5-9d3d-fc88c8375164", "PhoneName": "ASUS ROG Phone 5S 16GB 512GB"}
+{"index": {"_index": "integration_phone", "_id": 828}}
+{"RefID": "d0e77b96-d929-4a27-8cf9-93d1db87baef", "PhoneName": "iPhone 13 128GB"}
+{"index": {"_index": "integration_phone", "_id": 829}}
+{"RefID": "d1787b95-6efb-4812-bd7b-519e352d6777", "PhoneName": "iPhone 13 mini 256GB Midnight (MLK53VN/A) (Midnight)"}
+{"index": {"_index": "integration_phone", "_id": 830}}
+{"RefID": "d18d8857-a8d6-4445-ab3d-3fdac6208a37", "PhoneName": "Nokia 6.2"}
+{"index": {"_index": "integration_phone", "_id": 831}}
+{"RefID": "d267b8ac-5dd3-42d2-9b4e-ad46cba1ef83", "PhoneName": "Tecno Pova 2"}
+{"index": {"_index": "integration_phone", "_id": 832}}
+{"RefID": "d2a6c724-47e9-418e-ad54-e2e78a254351", "PhoneName": "Xiaomi 11 Lite 5G NE"}
+{"index": {"_index": "integration_phone", "_id": 833}}
+{"RefID": "d2c1d056-7d41-4a3f-9480-e42dcc41133c", "PhoneName": "Xiaomi 11T Pro 5G 8GB"}
+{"index": {"_index": "integration_phone", "_id": 834}}
+{"RefID": "d3008289-1a15-420f-8c03-18f0b2fb7090", "PhoneName": "iPhone 12 256GB"}
+{"index": {"_index": "integration_phone", "_id": 835}}
+{"RefID": "d308efd0-0059-4161-9b8b-104a466b3a21", "PhoneName": "Xiaomi Mi 11 5G 128GB"}
+{"index": {"_index": "integration_phone", "_id": 836}}
+{"RefID": "d30ea86e-b35f-49cf-af7e-de09b984eaff", "PhoneName": "Xiaomi Redmi 9C (4GB/128GB)"}
+{"index": {"_index": "integration_phone", "_id": 837}}
+{"RefID": "d35c833a-b3e1-4d7c-950d-4e6f0e4385c5", "PhoneName": "iPhone 12 mini 64GB"}
+{"index": {"_index": "integration_phone", "_id": 838}}
+{"RefID": "d36da57f-4a32-438a-9238-68dc87dfc2d0", "PhoneName": "Samsung Galaxy A73 5G 128GB"}
+{"index": {"_index": "integration_phone", "_id": 839}}
+{"RefID": "d39ed575-a677-4697-aa2f-e558f4c31232", "PhoneName": "Itel L6006"}
+{"index": {"_index": "integration_phone", "_id": 840}}
+{"RefID": "d5185b36-3e41-45b2-9d50-65891818bf04", "PhoneName": "Samsung Galaxy A52s 5G 128GB"}
+{"index": {"_index": "integration_phone", "_id": 841}}
+{"RefID": "d5487cbf-309e-4f08-93e1-9e4faecce52e", "PhoneName": "iPhone 12 mini 256GB"}
+{"index": {"_index": "integration_phone", "_id": 842}}
+{"RefID": "d5f51e7b-de3e-4643-a74b-d8e9e4454084", "PhoneName": "Samsung Galaxy S22+ 5G 128GB"}
+{"index": {"_index": "integration_phone", "_id": 843}}
+{"RefID": "d6236748-33b2-4779-b7db-da54dbd44a1f", "PhoneName": "Realme 9 4G"}
+{"index": {"_index": "integration_phone", "_id": 844}}
+{"RefID": "d6308cc1-8dc7-45a0-bd10-f40ce54da5d4", "PhoneName": "Samsung Galaxy A53 5G 128GB"}
+{"index": {"_index": "integration_phone", "_id": 845}}
+{"RefID": "d65e4521-9910-4080-b0b7-7eec873dbd78", "PhoneName": "Vivo Y53s"}
+{"index": {"_index": "integration_phone", "_id": 846}}
+{"RefID": "d69d445f-3050-420c-a98c-9db1e348322f", "PhoneName": "Samsung Galaxy S22+ 5G 256GB"}
+{"index": {"_index": "integration_phone", "_id": 847}}
+{"RefID": "d6a4f1ed-c3ca-4bf5-8b78-0efe9e5e8e68", "PhoneName": "iPhone 13 Pro 256GB"}
+{"index": {"_index": "integration_phone", "_id": 848}}
+{"RefID": "d717cd91-4709-484e-9167-a54d639fc965", "PhoneName": "iPhone 13 mini 128GB"}
+{"index": {"_index": "integration_phone", "_id": 849}}
+{"RefID": "d7261c74-a619-4a18-8293-4ced495123dd", "PhoneName": "Vivo V23e 8GB - 128GB"}
+{"index": {"_index": "integration_phone", "_id": 850}}
+{"RefID": "d767b70b-485b-40a9-b4eb-70a9a4f86c37", "PhoneName": "iPhone 12 Pro Max 512GB"}
+{"index": {"_index": "integration_phone", "_id": 851}}
+{"RefID": "d77f0ce4-d44f-47c6-8653-d8c909a0217c", "PhoneName": "Samsung Galaxy A23 4GB"}
+{"index": {"_index": "integration_phone", "_id": 852}}
+{"RefID": "d7d19ba1-70c6-4fae-944e-b83c665a98e8", "PhoneName": "Samsung Galaxy Note 20 Ultra 5G"}
+{"index": {"_index": "integration_phone", "_id": 853}}
+{"RefID": "d85cad50-0571-4514-a022-5d018e7b8523", "PhoneName": "Vivo Y53s"}
+{"index": {"_index": "integration_phone", "_id": 854}}
+{"RefID": "d8bb03ff-58c1-4ca0-90a2-1dfd61a016c6", "PhoneName": "ASUS ROG Phone 5S 16GB 256GB"}
+{"index": {"_index": "integration_phone", "_id": 855}}
+{"RefID": "d8e41926-e11d-4636-b4e9-3588c440c54a", "PhoneName": "iPhone 13 Pro Max 256GB"}
+{"index": {"_index": "integration_phone", "_id": 856}}
+{"RefID": "d9440e34-a023-4d58-95b1-00d3dc6274ad", "PhoneName": "Samsung Galaxy S21 5G"}
+{"index": {"_index": "integration_phone", "_id": 857}}
+{"RefID": "d96e1905-712d-4ad9-a32b-edd8d701b986", "PhoneName": "Nokia G11"}
+{"index": {"_index": "integration_phone", "_id": 858}}
+{"RefID": "d9792912-0dc4-4ae6-85bd-24de7ebc950a", "PhoneName": "Xiaomi Poco F2 Pro 8GB/256GB (Tím)"}
+{"index": {"_index": "integration_phone", "_id": 859}}
+{"RefID": "d9c1da1a-d381-4d1f-9937-0407d71e4dff", "PhoneName": "Samsung Galaxy A03s (4GB/64GB) (Đen) (Black)"}
+{"index": {"_index": "integration_phone", "_id": 860}}
+{"RefID": "da0f1174-ca52-4ae9-b125-cc362c55ca4c", "PhoneName": "Realme C21Y 4GB"}
+{"index": {"_index": "integration_phone", "_id": 861}}
+{"RefID": "da135a65-b7a2-4c24-b3c4-fd193972e4c7", "PhoneName": "Xiaomi Redmi 10 (4GB - 64GB)"}
+{"index": {"_index": "integration_phone", "_id": 862}}
+{"RefID": "da754eec-a258-4d29-b6cb-df1391d662ad", "PhoneName": "Realme C35 128GB"}
+{"index": {"_index": "integration_phone", "_id": 863}}
+{"RefID": "da8eed46-9b02-42fe-bc79-123543684278", "PhoneName": "Realme 8"}
+{"index": {"_index": "integration_phone", "_id": 864}}
+{"RefID": "da9c63d3-c8e6-4978-ad0f-f1f438ef4fc4", "PhoneName": "Vsmart Aris Pro"}
+{"index": {"_index": "integration_phone", "_id": 865}}
+{"RefID": "dae06e36-3555-4843-b76c-f95c1fce2e0e", "PhoneName": "iPhone 12 mini 128GB"}
+{"index": {"_index": "integration_phone", "_id": 866}}
+{"RefID": "db15569a-4eff-4b36-aa99-c874181aa414", "PhoneName": "Xiaomi Redmi Note 10S 6GB"}
+{"index": {"_index": "integration_phone", "_id": 867}}
+{"RefID": "db15f990-4b6b-49aa-8224-5d81515ee7ce", "PhoneName": "Samsung Galaxy S21 FE 5G 6GB - 128GB"}
+{"index": {"_index": "integration_phone", "_id": 868}}
+{"RefID": "db3aece3-458f-4302-bcb1-be55e76e39ed", "PhoneName": "Xiaomi 11 Lite 5G NE"}
+{"index": {"_index": "integration_phone", "_id": 869}}
+{"RefID": "dc23c5f8-4b73-40aa-9d4b-1e2c56350628", "PhoneName": "OPPO A15s"}
+{"index": {"_index": "integration_phone", "_id": 870}}
+{"RefID": "dc34149b-eb29-427a-9d17-0769af834e13", "PhoneName": "Samsung Galaxy A03 4GB"}
+{"index": {"_index": "integration_phone", "_id": 871}}
+{"RefID": "dc355649-e4b9-4d80-9105-dc6e5e10ab19", "PhoneName": "Samsung Galaxy S21 FE 5G 8GB - 128GB"}
+{"index": {"_index": "integration_phone", "_id": 872}}
+{"RefID": "dc93826b-b7f1-4096-ba65-bbcdff02a79e", "PhoneName": "OPPO A74 5G"}
+{"index": {"_index": "integration_phone", "_id": 873}}
+{"RefID": "dcfd1588-6adc-4c1b-9283-9ee8056000a8", "PhoneName": "Realme C25s"}
+{"index": {"_index": "integration_phone", "_id": 874}}
+{"RefID": "dd0598fc-f81d-4bab-ba82-5e1e8768be56", "PhoneName": "Vsmart Aris 8GB 128GB"}
+{"index": {"_index": "integration_phone", "_id": 875}}
+{"RefID": "dd3687c6-068c-480d-8b16-13544d0c92e7", "PhoneName": "Xiaomi Redmi 9T (6+128G) (Xám)"}
+{"index": {"_index": "integration_phone", "_id": 876}}
+{"RefID": "dd7791fc-5b9d-4f20-a8cd-3060a0807d4e", "PhoneName": "iPhone 13 256GB"}
+{"index": {"_index": "integration_phone", "_id": 877}}
+{"RefID": "dda46eb7-7d68-4e5e-a14f-f3025a1e2b1d", "PhoneName": "OPPO Find X5 Pro 5G"}
+{"index": {"_index": "integration_phone", "_id": 878}}
+{"RefID": "de5da053-9c18-493e-8302-9a6c4d22507e", "PhoneName": "Samsung Galaxy A52s 5G 128GB"}
+{"index": {"_index": "integration_phone", "_id": 879}}
+{"RefID": "df6c8eb5-5eb3-497b-9f09-8ac34a0ef44a", "PhoneName": "iPhone 13 Pro 512GB"}
+{"index": {"_index": "integration_phone", "_id": 880}}
+{"RefID": "df79f1e1-bb72-4287-a524-9f1a08329a1c", "PhoneName": "iPhone 13 Pro 1TB"}
+{"index": {"_index": "integration_phone", "_id": 881}}
+{"RefID": "df9287d3-fd82-4ad3-83b3-9079b3e77650", "PhoneName": "OPPO A16 3GB-32GB"}
+{"index": {"_index": "integration_phone", "_id": 882}}
+{"RefID": "dfda47e0-17d7-452d-b59e-132a994911ab", "PhoneName": "Vivo Y33s 8GB - 128GB"}
+{"index": {"_index": "integration_phone", "_id": 883}}
+{"RefID": "e00bd6eb-35ed-48cb-a10c-322bf8179f11", "PhoneName": "iPhone 13 Pro Max 128GB"}
+{"index": {"_index": "integration_phone", "_id": 884}}
+{"RefID": "e082d8e9-e723-4fc6-a9cb-77a2b1da1688", "PhoneName": "Samsung Galaxy A73 5G 128GB"}
+{"index": {"_index": "integration_phone", "_id": 885}}
+{"RefID": "e08ca911-0280-4abb-9093-4f2877c41236", "PhoneName": "Samsung Galaxy S21 FE 5G 6GB - 128GB"}
+{"index": {"_index": "integration_phone", "_id": 886}}
+{"RefID": "e0cb43e6-0614-43f7-9d5a-39edf0fcfc7c", "PhoneName": "Xiaomi 11T 8GB - 128GB"}
+{"index": {"_index": "integration_phone", "_id": 887}}
+{"RefID": "e1224e56-5dfc-40f2-9d79-f34b034a57db", "PhoneName": "Xiaomi Redmi Note 11 128GB"}
+{"index": {"_index": "integration_phone", "_id": 888}}
+{"RefID": "e13a93a6-4dfa-4701-b7ac-2a322135ff53", "PhoneName": "Realme C21Y 3GB"}
+{"index": {"_index": "integration_phone", "_id": 889}}
+{"RefID": "e1e4891c-cb55-4e9f-9649-a0041c7d3d9f", "PhoneName": "Xiaomi Redmi Note 10S 6GB"}
+{"index": {"_index": "integration_phone", "_id": 890}}
+{"RefID": "e28f4244-1709-455b-84f7-552eb91a8198", "PhoneName": "Nokia C20"}
+{"index": {"_index": "integration_phone", "_id": 891}}
+{"RefID": "e34e29b5-39bf-43b5-a370-9e08d86f248b", "PhoneName": "Samsung Galaxy Z Fold3 5G 256GB"}
+{"index": {"_index": "integration_phone", "_id": 892}}
+{"RefID": "e3694924-796d-48de-9aa0-0faea2186301", "PhoneName": "Xiaomi Redmi 9A 2GB-32GB"}
+{"index": {"_index": "integration_phone", "_id": 893}}
+{"RefID": "e3e538c4-fac5-4278-9e15-581855852fa9", "PhoneName": "Xiaomi Redmi Note 10S (8GB/128G) (Xám)"}
+{"index": {"_index": "integration_phone", "_id": 894}}
+{"RefID": "e3efb66b-a495-4f44-8f77-cff38d6b7719", "PhoneName": "iPhone 13 Pro Max 128GB"}
+{"index": {"_index": "integration_phone", "_id": 895}}
+{"RefID": "e449147f-4277-4bb8-8abd-a06845c5de17", "PhoneName": "Samsung Galaxy S22 Ultra 5G 12GB/512GB (Xanh lá) (Green)"}
+{"index": {"_index": "integration_phone", "_id": 896}}
+{"RefID": "e473d3d2-e4c3-44b2-b43a-dcfcbc17e9ae", "PhoneName": "Samsung Galaxy A22"}
+{"index": {"_index": "integration_phone", "_id": 897}}
+{"RefID": "e48e7fba-b220-4d46-97b3-8f0c5f2b8532", "PhoneName": "Samsung Galaxy Z Flip3 5G 128GB"}
+{"index": {"_index": "integration_phone", "_id": 898}}
+{"RefID": "e4964a24-6e2d-493c-90d1-35c10d42bd69", "PhoneName": "iPhone SE 64GB (2020) (Hộp mới)"}
+{"index": {"_index": "integration_phone", "_id": 899}}
+{"RefID": "e4986680-1a6a-48ed-ad3b-71ac82097eee", "PhoneName": "Vivo Y33s 8GB - 128GB"}
+{"index": {"_index": "integration_phone", "_id": 900}}
+{"RefID": "e4d8ada0-84e6-45ac-bdf4-30e93dac8659", "PhoneName": "Xiaomi 11T 5G 256GB"}
+{"index": {"_index": "integration_phone", "_id": 901}}
+{"RefID": "e537dc8e-ccc0-45fb-ae1e-bc48e60d1a96", "PhoneName": "OPPO A94 8GB-128GB"}
+{"index": {"_index": "integration_phone", "_id": 902}}
+{"RefID": "e53d02bf-1cb3-435c-a610-9d4c1639819d", "PhoneName": "Realme C11 (2021) 2GB/32GB"}
+{"index": {"_index": "integration_phone", "_id": 903}}
+{"RefID": "e54f9e3b-4761-42ea-8d05-8517da147c6b", "PhoneName": "Samsung Galaxy A32"}
+{"index": {"_index": "integration_phone", "_id": 904}}
+{"RefID": "e5fb1df0-8fbd-44f2-993e-6984f67e44b5", "PhoneName": "Vivo Y53s"}
+{"index": {"_index": "integration_phone", "_id": 905}}
+{"RefID": "e62120bb-be9a-4fa7-afb2-af43758113ef", "PhoneName": "Samsung Galaxy A11, 32GB (SM-A115FZWGXEV) (Trắng)"}
+{"index": {"_index": "integration_phone", "_id": 906}}
+{"RefID": "e6655300-0b70-4898-aaa0-d8d3a1ca01d3", "PhoneName": "Samsung Galaxy A52 (8GB/128GB) (Xanh)"}
+{"index": {"_index": "integration_phone", "_id": 907}}
+{"RefID": "e68ff163-1399-46de-922c-57831cf628f7", "PhoneName": "Nokia G21"}
+{"index": {"_index": "integration_phone", "_id": 908}}
+{"RefID": "e6d45b3d-2d58-4337-98e8-1299d3e22d21", "PhoneName": "iPhone 13 mini 256GB"}
+{"index": {"_index": "integration_phone", "_id": 909}}
+{"RefID": "e6e28f73-5808-4ac1-81e2-d3ca3a92f19d", "PhoneName": "Xiaomi 12 8GB - 256GB"}
+{"index": {"_index": "integration_phone", "_id": 910}}
+{"RefID": "e7146f0e-81c4-4fbd-ac86-f43c579f297e", "PhoneName": "Samsung Galaxy A52s 5G 128GB"}
+{"index": {"_index": "integration_phone", "_id": 911}}
+{"RefID": "e72b39e9-7f5f-4fe3-9e9a-aa52cc62b2f1", "PhoneName": "Samsung Galaxy A32"}
+{"index": {"_index": "integration_phone", "_id": 912}}
+{"RefID": "e885a0d5-c650-4a37-9eae-6c3e0e13222f", "PhoneName": "Xiaomi Redmi 9A 2GB-32GB"}
+{"index": {"_index": "integration_phone", "_id": 913}}
+{"RefID": "e8c7f64c-58c9-43e2-9945-cd8fcd72dabd", "PhoneName": "Samsung Galaxy S21+ 5G 128GB"}
+{"index": {"_index": "integration_phone", "_id": 914}}
+{"RefID": "e8f61bbf-e988-40dd-bbcb-d5d507c7f28a", "PhoneName": "Samsung Galaxy S21 Ultra 256GB"}
+{"index": {"_index": "integration_phone", "_id": 915}}
+{"RefID": "e911cbd5-29e0-4f43-9a4c-7aec66a376b3", "PhoneName": "Samsung Galaxy A32"}
+{"index": {"_index": "integration_phone", "_id": 916}}
+{"RefID": "e9532d2e-964d-4b9b-bc16-bd9480a1150e", "PhoneName": "OPPO Reno7 5G"}
+{"index": {"_index": "integration_phone", "_id": 917}}
+{"RefID": "e97dc90e-a404-4c83-b0e0-6956c838a27b", "PhoneName": "Xiaomi Redmi 9C (4GB/128GB)"}
+{"index": {"_index": "integration_phone", "_id": 918}}
+{"RefID": "e9842355-a2dd-408c-accf-181bed9cffd1", "PhoneName": "Realme 9 Pro Plus"}
+{"index": {"_index": "integration_phone", "_id": 919}}
+{"RefID": "ea0f5ce3-b7ef-4bea-8c77-4e42ab9b9822", "PhoneName": "Xiaomi Redmi Note 10 5G 4GB/128GB (Xám)"}
+{"index": {"_index": "integration_phone", "_id": 920}}
+{"RefID": "ea3ce45e-2b4c-4527-8ae1-441ffab5d578", "PhoneName": "Xiaomi Redmi 9A 2GB-32GB"}
+{"index": {"_index": "integration_phone", "_id": 921}}
+{"RefID": "eaab1b2a-fd0e-4414-ad31-9af2f8ab1a0b", "PhoneName": "iPhone 8 Plus 64GB MQ8L2VN/A (Space Grey)"}
+{"index": {"_index": "integration_phone", "_id": 922}}
+{"RefID": "eb5e39c0-0f23-4c43-ad78-833b79556256", "PhoneName": "Samsung Galaxy S21 5G"}
+{"index": {"_index": "integration_phone", "_id": 923}}
+{"RefID": "ebb17a67-b3f0-4fd7-a694-d2f988843846", "PhoneName": "Tecno Spark 7T 6GB 128GB"}
+{"index": {"_index": "integration_phone", "_id": 924}}
+{"RefID": "ebe8204c-a3be-420c-a292-83216a41ec36", "PhoneName": "iPhone 13 Pro 1TB"}
+{"index": {"_index": "integration_phone", "_id": 925}}
+{"RefID": "ebf15d65-ed37-4be0-a19d-6367a6d30304", "PhoneName": "Samsung Galaxy A23 6GB"}
+{"index": {"_index": "integration_phone", "_id": 926}}
+{"RefID": "ec8598dd-28e6-487b-8614-d9e223deb208", "PhoneName": "Samsung Galaxy M33 5G"}
+{"index": {"_index": "integration_phone", "_id": 927}}
+{"RefID": "ecdb90b2-d132-493c-a39a-999a4787201a", "PhoneName": "Itel L6502"}
+{"index": {"_index": "integration_phone", "_id": 928}}
+{"RefID": "ed04de92-cff7-44ec-ad3b-335e0dc64fe8", "PhoneName": "Samsung Galaxy S22 Ultra 5G 12GB/256GB (Trắng) (White)"}
+{"index": {"_index": "integration_phone", "_id": 929}}
+{"RefID": "eda9b0fa-c5a7-42df-9b59-88877a08527f", "PhoneName": "Xiaomi 11 Lite 5G NE"}
+{"index": {"_index": "integration_phone", "_id": 930}}
+{"RefID": "edc0903e-4741-4c82-91fa-1f8d875f6255", "PhoneName": "iPhone 13 Pro 512GB"}
+{"index": {"_index": "integration_phone", "_id": 931}}
+{"RefID": "ee0d487c-9cf5-4e52-a34b-b27284c4b54b", "PhoneName": "iPhone 13 512GB"}
+{"index": {"_index": "integration_phone", "_id": 932}}
+{"RefID": "ee59dc46-933c-49fa-99be-8e30c9d049cd", "PhoneName": "Samsung Galaxy A20s (Xanh)"}
+{"index": {"_index": "integration_phone", "_id": 933}}
+{"RefID": "eef69a5c-40b4-4cc2-b8df-6c834018dd8e", "PhoneName": "Xiaomi 11T Pro"}
+{"index": {"_index": "integration_phone", "_id": 934}}
+{"RefID": "eeffbe6b-0a48-41e7-804e-75dd24ba9a05", "PhoneName": "Samsung Galaxy S21 FE 5G (6GB/128GB)"}
+{"index": {"_index": "integration_phone", "_id": 935}}
+{"RefID": "ef6771fd-a3a6-4547-bc3b-726bf9312a0a", "PhoneName": "iPhone 11 64GB"}
+{"index": {"_index": "integration_phone", "_id": 936}}
+{"RefID": "ef7117f0-7795-4fa3-8a26-f4cb7a3792f6", "PhoneName": "Vivo V23 5G"}
+{"index": {"_index": "integration_phone", "_id": 937}}
+{"RefID": "ef91c724-8083-4f4a-8045-3d291d0b258d", "PhoneName": "iPhone 11 Pro Max 64GB (Space gray)"}
+{"index": {"_index": "integration_phone", "_id": 938}}
+{"RefID": "efa196da-1742-4f57-8da1-2af7eae2608c", "PhoneName": "Samsung Galaxy Note 20"}
+{"index": {"_index": "integration_phone", "_id": 939}}
+{"RefID": "efbb1fe1-306e-43d2-bd4f-88ebc4391ee9", "PhoneName": "TECNO POVA 2 4GB-64GB"}
+{"index": {"_index": "integration_phone", "_id": 940}}
+{"RefID": "f0485a1e-8af6-45ea-89b9-63cf995f289c", "PhoneName": "Tecno Pova Neo 6G 128GB"}
+{"index": {"_index": "integration_phone", "_id": 941}}
+{"RefID": "f062987a-e1d9-43a1-baf4-3036276a3c30", "PhoneName": "iPhone SE 64GB (2022)"}
+{"index": {"_index": "integration_phone", "_id": 942}}
+{"RefID": "f0882ef9-7720-458c-a14b-63e49c93c75b", "PhoneName": "OPPO Reno5 5G"}
+{"index": {"_index": "integration_phone", "_id": 943}}
+{"RefID": "f0b3aecd-2ece-4002-aebe-b64d88ca1828", "PhoneName": "OPPO A55 4GB-64GB"}
+{"index": {"_index": "integration_phone", "_id": 944}}
+{"RefID": "f0fb3ba6-5bf0-4c13-9420-1bf82092d747", "PhoneName": "Nubia Red Magic 6R"}
+{"index": {"_index": "integration_phone", "_id": 945}}
+{"RefID": "f147ad50-77d0-427a-9a77-8e52b78ee4d3", "PhoneName": "TECNO SPARK 7 2GB-32GB"}
+{"index": {"_index": "integration_phone", "_id": 946}}
+{"RefID": "f15d8878-89a4-4a7a-b311-03182a900a4b", "PhoneName": "Realme 9 Pro Plus"}
+{"index": {"_index": "integration_phone", "_id": 947}}
+{"RefID": "f162df9b-c561-41ac-9a92-1ef7d856f621", "PhoneName": "Vivo Y33s"}
+{"index": {"_index": "integration_phone", "_id": 948}}
+{"RefID": "f16de64e-dd7f-47eb-aa0a-06afb39210be", "PhoneName": "Nokia C20 2GB - 32GB"}
+{"index": {"_index": "integration_phone", "_id": 949}}
+{"RefID": "f1824164-8441-42ce-9934-0b333a8292ff", "PhoneName": "iPhone 12 Pro 512GB"}
+{"index": {"_index": "integration_phone", "_id": 950}}
+{"RefID": "f1887aa9-bb6c-41ce-933b-e2db5c1a4eeb", "PhoneName": "Xiaomi Redmi Note 11 Pro"}
+{"index": {"_index": "integration_phone", "_id": 951}}
+{"RefID": "f18ba242-4948-41b0-a6c4-c80901953287", "PhoneName": "Realme C25Y 128GB"}
+{"index": {"_index": "integration_phone", "_id": 952}}
+{"RefID": "f19d1c88-7776-4b4c-8c8e-2017c26a7ddc", "PhoneName": "iPhone SE 2020 64GB Black"}
+{"index": {"_index": "integration_phone", "_id": 953}}
+{"RefID": "f1ae81c6-3cc3-4f21-8d73-44c2b81b88d4", "PhoneName": "Samsung Galaxy S22 Ultra (12GB - 256GB)"}
+{"index": {"_index": "integration_phone", "_id": 954}}
+{"RefID": "f1ea4178-b004-4199-8685-9ad5d38ca3a0", "PhoneName": "Samsung Galaxy M53"}
+{"index": {"_index": "integration_phone", "_id": 955}}
+{"RefID": "f1f31aff-3a9e-4791-ac74-b76a4a6ff6e6", "PhoneName": "Realme C35 64GB"}
+{"index": {"_index": "integration_phone", "_id": 956}}
+{"RefID": "f231cd7a-1dfe-41e0-b0d5-9652a7070a91", "PhoneName": "iPhone 11 64GB"}
+{"index": {"_index": "integration_phone", "_id": 957}}
+{"RefID": "f25c16b5-8056-4b23-9b21-6e7b4fa9b810", "PhoneName": "OPPO A15s"}
+{"index": {"_index": "integration_phone", "_id": 958}}
+{"RefID": "f29e29c7-f076-4de0-8b7f-ef7a8d1c9002", "PhoneName": "iPhone 12 mini 128GB"}
+{"index": {"_index": "integration_phone", "_id": 959}}
+{"RefID": "f312d836-86cf-4040-a9b4-9487e8035f38", "PhoneName": "iPhone 12 Pro Max 512GB"}
+{"index": {"_index": "integration_phone", "_id": 960}}
+{"RefID": "f344a3c1-512f-4b23-9444-b001e8b686ed", "PhoneName": "iPhone 11 128GB"}
+{"index": {"_index": "integration_phone", "_id": 961}}
+{"RefID": "f3a2d867-950c-4a69-ab0a-6f0710e5e07c", "PhoneName": "Samsung Galaxy S22 5G 256GB"}
+{"index": {"_index": "integration_phone", "_id": 962}}
+{"RefID": "f3a7c10f-bec9-47b6-86ec-c4f92b53aff5", "PhoneName": "Xiaomi Redmi Note 10 Pro (8GB/128GB)"}
+{"index": {"_index": "integration_phone", "_id": 963}}
+{"RefID": "f3e738e4-a2f4-428c-86be-c8f5e7135eb9", "PhoneName": "Tecno Pova Neo 6G 128GB"}
+{"index": {"_index": "integration_phone", "_id": 964}}
+{"RefID": "f40e99df-6dad-4492-aae8-0d6583994708", "PhoneName": "iPhone SE 2022"}
+{"index": {"_index": "integration_phone", "_id": 965}}
+{"RefID": "f41bad4e-1a38-466d-ac71-af086dae6002", "PhoneName": "Xiaomi Redmi 10 (2022)"}
+{"index": {"_index": "integration_phone", "_id": 966}}
+{"RefID": "f42dce63-26e0-4234-a546-a688186e1cf0", "PhoneName": "iPhone 13 Pro Max 512GB"}
+{"index": {"_index": "integration_phone", "_id": 967}}
+{"RefID": "f4ce7ffd-2cec-4634-a1a9-48ede38d12d4", "PhoneName": "Vivo T1X"}
+{"index": {"_index": "integration_phone", "_id": 968}}
+{"RefID": "f51125e7-e6e6-4e51-bda9-bbf476b630ef", "PhoneName": "OPPO A16k 3GB-32GB"}
+{"index": {"_index": "integration_phone", "_id": 969}}
+{"RefID": "f58a0560-c1df-42d4-b107-87e6963483d4", "PhoneName": "iPhone 11 64GB"}
+{"index": {"_index": "integration_phone", "_id": 970}}
+{"RefID": "f5aa87ac-6df0-4533-8527-2727a330504e", "PhoneName": "Samsung Galaxy M53"}
+{"index": {"_index": "integration_phone", "_id": 971}}
+{"RefID": "f5af4797-c74c-438f-b97f-4ae1f0f5f3ac", "PhoneName": "Xiaomi 11 Lite 5G NE"}
+{"index": {"_index": "integration_phone", "_id": 972}}
+{"RefID": "f5bafdd5-fe26-4efd-b4b7-5ad2ea05db43", "PhoneName": "Xiaomi Mi Note 10 (Đen)"}
+{"index": {"_index": "integration_phone", "_id": 973}}
+{"RefID": "f60ebe15-65d2-4fe9-ab1c-c3f44d447aa6", "PhoneName": "Vivo Y53s 8GB+3GB - 128GB"}
+{"index": {"_index": "integration_phone", "_id": 974}}
+{"RefID": "f676cb51-3a0c-424a-b3e5-e32d69c1865c", "PhoneName": "iPhone 13 512GB"}
+{"index": {"_index": "integration_phone", "_id": 975}}
+{"RefID": "f6d02188-480e-4808-be9a-c0a67bf811d1", "PhoneName": "Nokia C20"}
+{"index": {"_index": "integration_phone", "_id": 976}}
+{"RefID": "f7255f86-19a7-4ff0-b551-04d45eaaeb10", "PhoneName": "iPhone 13 mini 256GB"}
+{"index": {"_index": "integration_phone", "_id": 977}}
+{"RefID": "f7ac93e9-ef9e-4c65-963d-aa1f009449ef", "PhoneName": "OPPO A55"}
+{"index": {"_index": "integration_phone", "_id": 978}}
+{"RefID": "f7bb3516-916e-4262-b157-ed0a1a8cceee", "PhoneName": "Samsung Galaxy Z Flip3 5G 256GB"}
+{"index": {"_index": "integration_phone", "_id": 979}}
+{"RefID": "f7d4d335-4f6e-4492-8ed3-19a55c770ab2", "PhoneName": "OPPO Reno5 5G"}
+{"index": {"_index": "integration_phone", "_id": 980}}
+{"RefID": "f812cc72-0e07-4189-a3a4-5c32865c2f07", "PhoneName": "Xiaomi 11 Lite 5G NE"}
+{"index": {"_index": "integration_phone", "_id": 981}}
+{"RefID": "f827ca4e-f091-45c7-8e03-d40b11144d8b", "PhoneName": "Xiaomi 11 Lite 5G NE"}
+{"index": {"_index": "integration_phone", "_id": 982}}
+{"RefID": "f8423ee0-5055-4839-badd-956f318340b9", "PhoneName": "Samsung Galaxy S21+ 5G 128GB"}
+{"index": {"_index": "integration_phone", "_id": 983}}
+{"RefID": "f86ba173-baca-4182-ba2a-e96463bb7164", "PhoneName": "Vivo V21 5G"}
+{"index": {"_index": "integration_phone", "_id": 984}}
+{"RefID": "f8ac4272-c9f3-4713-a867-63b8fd66a5bb", "PhoneName": "TECNO SPARK 7 2GB-32GB"}
+{"index": {"_index": "integration_phone", "_id": 985}}
+{"RefID": "f8dd55b0-0ad8-4a7a-a8d6-8d41fb159a14", "PhoneName": "Vivo Y15s 3GB - 32GB"}
+{"index": {"_index": "integration_phone", "_id": 986}}
+{"RefID": "f8e17222-d794-49dd-9328-2f0cb113bf11", "PhoneName": "Xiaomi 11 Lite 5G NE"}
+{"index": {"_index": "integration_phone", "_id": 987}}
+{"RefID": "f8f61182-9890-45a9-92c4-4fff29199fba", "PhoneName": "Samsung Galaxy Note 20"}
+{"index": {"_index": "integration_phone", "_id": 988}}
+{"RefID": "f9483d55-71f9-4761-b6d2-2a01544a55ae", "PhoneName": "Samsung Galaxy A22"}
+{"index": {"_index": "integration_phone", "_id": 989}}
+{"RefID": "f9a585d3-60a4-46cd-a920-8234f0a154ed", "PhoneName": "Realme C25s"}
+{"index": {"_index": "integration_phone", "_id": 990}}
+{"RefID": "fb39efe6-6c8e-49fe-9157-e80fc6cbd870", "PhoneName": "Samsung Galaxy A72 (8GB/256GB) (Đen)"}
+{"index": {"_index": "integration_phone", "_id": 991}}
+{"RefID": "fb5d7871-71a8-4259-83fe-f82775f33404", "PhoneName": "Nubia Red Magic 6R (12GB - 256GB)"}
+{"index": {"_index": "integration_phone", "_id": 992}}
+{"RefID": "fbb83f3e-ab87-49eb-9591-e185a8b60b3f", "PhoneName": "Xiaomi Redmi 9C 4GB-128GB"}
+{"index": {"_index": "integration_phone", "_id": 993}}
+{"RefID": "fbdc0fb5-e1dd-41e8-befb-19a7038adc32", "PhoneName": "OPPO Reno6 5G"}
+{"index": {"_index": "integration_phone", "_id": 994}}
+{"RefID": "fc07c18c-b982-4edb-9e4f-8647643d7e82", "PhoneName": "Samsung Galaxy Note 20"}
+{"index": {"_index": "integration_phone", "_id": 995}}
+{"RefID": "fc6d9b49-8bd3-4b75-aaad-6a0856c45d27", "PhoneName": "iPhone 12 Pro 512GB"}
+{"index": {"_index": "integration_phone", "_id": 996}}
+{"RefID": "fc8f3574-9914-4f79-adc8-1025d3390195", "PhoneName": "iPhone 13 512GB-Xanh lá"}
+{"index": {"_index": "integration_phone", "_id": 997}}
+{"RefID": "fc92f439-a5a3-463e-a3ee-510ed946bac5", "PhoneName": "OPPO A55"}
+{"index": {"_index": "integration_phone", "_id": 998}}
+{"RefID": "fc93e8e5-a649-439a-8fd1-b97e779040a4", "PhoneName": "iPhone 13 mini 512GB"}
+{"index": {"_index": "integration_phone", "_id": 999}}
+{"RefID": "fc956f93-e96e-4b8a-b44f-d5b14a828596", "PhoneName": "Realme C25s"}
+{"index": {"_index": "integration_phone", "_id": 1000}}
+{"RefID": "fcab6a63-4582-490a-ae87-8bb96c775214", "PhoneName": "Xiaomi 11T Pro 5G 12GB - 256GB"}
+{"index": {"_index": "integration_phone", "_id": 1001}}
+{"RefID": "fcf33e9e-5329-42da-b063-2c33c3a8bac5", "PhoneName": "iPhone 13 Pro 256GB"}
+{"index": {"_index": "integration_phone", "_id": 1002}}
+{"RefID": "fd149a2e-a3cd-4c42-bfdd-c8e9c4af64a9", "PhoneName": "Nokia C21 Plus 2GB 64GB"}
+{"index": {"_index": "integration_phone", "_id": 1003}}
+{"RefID": "fd319554-9f65-43bf-b504-35eb35bdfa35", "PhoneName": "Xiaomi Redmi 9C (4GB/128GB)"}
+{"index": {"_index": "integration_phone", "_id": 1004}}
+{"RefID": "fd41f946-ab4c-44c7-b683-f5e231de7f42", "PhoneName": "Samsung Galaxy S22 5G 256GB"}
+{"index": {"_index": "integration_phone", "_id": 1005}}
+{"RefID": "fe3c8380-bba3-4c27-a150-589cc3fb3e63", "PhoneName": "Xiaomi Redmi 9C 4GB-128GB"}
+{"index": {"_index": "integration_phone", "_id": 1006}}
+{"RefID": "fe462e99-457e-4d31-b9b0-3d89c10c0954", "PhoneName": "Realme 9 4G"}
+{"index": {"_index": "integration_phone", "_id": 1007}}
+{"RefID": "ff1b1caf-54c0-4c12-a23d-77010478d2de", "PhoneName": "Nokia C21 Plus 3GB 32GB"}
+{"index": {"_index": "integration_phone", "_id": 1008}}
+{"RefID": "ff32bb65-f774-420c-91b6-7dc5d7ea923f", "PhoneName": "iPhone 13 mini 512GB"}
+{"index": {"_index": "integration_phone", "_id": 1009}}
+{"RefID": "ff41072a-47e4-427c-8b28-a8315fa2e76f", "PhoneName": "Nokia G21"}
+{"index": {"_index": "integration_phone", "_id": 1010}}
+{"RefID": "ffd247b0-2acd-447c-a2af-145dc93a831d", "PhoneName": "Samsung Galaxy A52 128GB"}

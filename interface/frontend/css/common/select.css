@@ -1,0 +1,154 @@
+/* Custom select */
+.select-container{
+    position: relative;
+}
+.select-box{
+    display: flex;
+    flex-direction: column;
+    width: 220px;
+    padding-left: 16px;
+}
+.selected-focus{
+    border-color: #019160 !important;
+}
+.selected{
+    height: 40px;
+    border-radius: 4px;
+    outline: none;
+    border: 1px solid #bbbbbb;
+    line-height: 40px;
+    padding-left: 16px;
+    cursor: pointer;
+    display: flex;
+}
+.selected-active{
+    border-color: #019160;
+}
+.selected .content-selected{
+    width: calc(100% - 71px); 
+}
+
+.icon-select{
+    width: 40px;
+    height: 40px;
+    background-image: url(../../content/icons/arrow-down.png);
+    opacity: 0.6;
+    background-repeat: no-repeat;
+    background-position: center;
+    border-left: 1px solid #bbbbbb;
+}
+.icon-selected{
+    transform: rotateX(180deg);
+    background-color: #e9ebee;
+}
+.selected-list{
+    transform: rotateX(180deg);
+}
+.select-box .options-container{
+    width: 220px;
+    background-color: #ffffff;
+    display: none;
+    overflow: hidden;
+    border-radius: 4px;
+    position: absolute;
+    top: 45px;
+    z-index: 50;
+    border: 1px solid #e5e5e5;
+}
+.select-box .options-container.active{
+    max-height: 240px;
+    opacity: 1;
+    overflow-y: auto;
+}
+
+.select-box .option{
+    height: 40px;
+    padding-left: 32px;
+    
+}
+.select-box .option:hover{
+    background-color: #e9ebee;
+}
+.select-box label{
+    cursor: pointer;
+    width: 100%;
+    height: 100%;
+    display: flex;
+    align-items: center;
+    margin-top: 0;
+    margin-bottom: 0;
+}
+.select-box .option .radio{
+    display: none;
+}
+.select-box .option-selected{
+    background-color: #019160;
+    background-image: url(../../content/icons/check-mark.png);
+    background-repeat: no-repeat;
+    background-position: 10px center;
+    
+}
+.select-box .option-selected label{
+    color: #ffffff !important;
+}
+.select-container .select-box-header{
+    padding-left: 0;
+    width: 206px;
+}
+.select-box-header .content-selected-header{
+    width: calc(100% - 50px);
+}
+.select-header .icon-select-header{
+    background-color: #ffffff !important;
+}
+.select-box .options-container-header{
+    width: 206px;
+}
+.select-box-header .select-header{
+    border: none;
+}
+.selected .icon-select-header{
+    left: 150px;
+    border: none;
+}
+
+.select-box .options-container-footer{
+    top: -128px;
+    right: 0.5px;
+    width: 170px;
+}
+.selected #selected-7{
+    width: 16px;
+    height: 16px;
+    background-image: url(../../content/icons/up-and-down.png) !important;
+    background-size: contain;
+    position: absolute;
+    left: 160px;
+    top: 12px;
+    opacity: 0.6;
+
+}
+.select-box input{
+    border: none !important;
+    border-radius: 4px;
+    outline: none;
+    font-family: GoogleSans-Regular;
+}
+.select-box-footer{
+    width: 170px;
+}
+.content-selected-footer{
+    width: 100% !important;
+}
+.icon-select-footer{
+    border: none;
+    left: 160px !important;
+}
+
+#input0{
+    padding-left: 40px !important;
+    background-image: url(../../content/icons/search.png);
+    background-repeat: no-repeat;
+    background-size: 16px;
+    background-position: 16px center;
+}
