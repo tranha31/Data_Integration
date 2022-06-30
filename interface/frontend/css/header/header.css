@@ -1,0 +1,95 @@
+.header{
+    background-color:#ffffff;
+    width: 100%;
+    height: 48px;
+    display: flex;
+}
+.header .header-top{
+    width: 226px;
+    height: 48px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    border-right: 1px solid #e5e5e5;
+}
+.header-top .header-top-img{
+    width: 24px;
+    height: 24px;
+    background-image: url(../../content/images/toggle.png);
+    background-repeat: no-repeat;
+    background-size: contain;
+    margin-left: 16px;
+    margin-right: 10px;
+    margin-top: 6px;
+}
+.header-top .header-top-img:hover{
+    cursor: pointer;
+}
+.header-top .header-top-logo{
+    width: 100%;
+    height: 24px;
+    background-image: url(../../content/images/logo.png);
+    background-repeat: no-repeat;
+    background-size: contain;
+    opacity: 0.8;
+}
+.header .header-infor{
+    height: 100%;
+    width: auto;
+    padding-left: 25px;
+    float: left;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    font-family: GoogleSans-Bold;
+}
+.header .header-infor-name{
+    border: none;
+    padding-right: 10px;
+    font-family: GoogleSans-Bold;
+}
+.header .header-infor-name:hover{
+    cursor: pointer;
+}
+.header .header-user{
+    height: 100%;
+    width: auto;
+    float: right;
+    align-items: center;
+    display: flex;
+    flex-direction: row;
+    margin-left: auto;
+}
+.header-user .header-notification{
+    width: 16px;
+    height: 16px;
+    background-image: url(../../content/icons/bell-2-16.png);
+    margin-left: auto;
+}
+.header-user .header-notification:hover{
+    cursor: pointer;
+}
+.header-user .user-avatar{
+    width: 30px;
+    height: 30px;
+    background-image: url(../../content/icons/avatar-default.png);
+    background-repeat: no-repeat;
+    background-size: contain;
+    margin-left: 16px;
+    margin-right: 16px;
+}
+.header-user .user-avatar:hover{
+    cursor: pointer;
+}
+.header-user .header-option{
+    width: 16px;
+    height: 16px;
+    background-image: url(../../content/icons/option.png);
+    background-repeat: no-repeat;
+    background-size: contain;
+    margin-left: 16px;
+    margin-right: 16px;
+}
+.header-user .header-option:hover{
+    cursor: pointer;
+}

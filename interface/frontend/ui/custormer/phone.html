@@ -1,0 +1,121 @@
+<!DOCTYPE html>
+<html lang="vi">
+
+<head>
+
+  <meta charset="uft-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Integration Phone</title>
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css"
+        integrity="sha512-iBBXm8fW90+nuLcSKlbmrPcLa0OT92xO1BIsZ+ywDWZCvqsWgccV3gFoRBv0z+8dLJgyAHIhR35VZc2oM/gI1w=="
+        crossorigin="anonymous" referrerpolicy="no-referrer" />
+  <link href="../../css/common/common.css" rel="stylesheet" />
+  <link href="../../css/common/popup.css" rel="stylesheet">
+  <link href="../../css/common/toast.css" rel="stylesheet">
+  <link href="../../css/common/button.css" rel="stylesheet" />
+  <link href="../../css/common/select.css" rel="stylesheet" />
+  <link href="../../css/content/content.css" rel="stylesheet" />
+  <link href="../../css/header/header.css" rel="stylesheet" />
+  <link href="../../css/nav/nav.css" rel="stylesheet" />
+</head>
+
+<body>
+   <div class="header">
+    <div class="header-top" id="header-top">
+      <div id="menu" class="header-top-img" onclick="resizeMenu()"></div>
+      <div class="header-top-logo"></div>
+    </div>
+    <div class="header-infor">
+      Tích hợp dữ liệu - Nhóm 6
+
+    </div>
+    <div class="header-user">
+      <div class="header-notification"></div>
+      <div class="user-avatar"></div>
+      <div class="user-name">Group6</div>
+      <div class="header-option"></div>
+    </div>
+  </div>
+
+  <div class="nav" id="nav">
+
+    <div class="nav-content nav-content-focus">
+      <div class="nav-content-icon nav-content-icon1"></div>
+      <div class="nav-content-text" id="1">Tổng quan</div>
+    </div>
+    
+  </div>
+
+
+
+  <div class="content" id="content">
+    <div class="content-main">
+      <div class="content-title">
+        <div class="title">Danh sách điện thoại</div>
+      </div>
+      <div class="content-bar">
+        <div class="input" id="div-input0">
+          <input id="input0" type="text" class="filter-bar" placeholder="Nhập tên điện thoại để tìm kiếm"/>
+        </div>
+  
+        <div class="select-container" onmouseup="setEvent(0)" title="Dung lượng bộ nhớ trong">
+  
+          <div class="select-box">
+            <div class="selected selected0" id="selected0">
+              <input class="content-selected" id="content-selected0" placeholder="Chọn dung lượng ROM" readonly>
+              <div class="delete-icon" id="delete-icon0" onclick="deleleContentInput(0)"></div>
+              <div class="icon-select" id="selected-0"></div>
+            </div>
+            <div class="options-container options-container0" id="options-container0">
+                
+  
+  
+            </div>
+          </div>
+        </div>
+        <div class="select-container" onmouseup="setEvent(1)" title="Dung lượng RAM">
+  
+          <div class="select-box">
+            <div class="selected selected1" id="selected1">
+              <input class="content-selected" id="content-selected1" placeholder="Chọn dung lượng RAM" readonly>
+              <div class="delete-icon" id="delete-icon1" onclick="deleleContentInput(1)"></div>
+              <div class="icon-select" id="selected-1"></div>
+            </div>
+            <div class="options-container options-container1" id="options-container1">
+  
+              
+            </div>
+          </div>
+        </div>
+        <div class="second-btn" onclick="refesh()"></div>
+      </div>
+    </div>
+    
+    <div class="grid d-flex">
+      
+    </div>
+
+    <div class="page-navigation">
+
+      <div class="navigations">
+        <div class="move first"></div>
+        <div class="move pre"></div>
+        <div class="page" id="p-1">1</div>
+        <div class="page p">2</div>
+        <div class="page p">3</div>
+        <div class="page p">4</div>
+        <div class="move next"></div>
+        <div class="move last"></div>
+      </div>
+      
+    </div>
+  </div>
+
+  <div id="toast"></div>
+</body>
+<script src="../../js/common/jquery-3.6.0.min.js"></script>
+<script src="../../js/common/toast.js"></script>
+<script src="../../js/common/common.js"></script>
+<script type="text/javascript" src="../../js/page/phone/select.js"></script>
+
+</html>
